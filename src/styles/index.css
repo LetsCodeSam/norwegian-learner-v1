@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Light default */
+body { @apply bg-gray-100 text-gray-900; }
+
+
+/* Dark override (the .dark class is on <html>) */
+.dark body { @apply bg-neutral-900 text-gray-100; }
+
+
+/* Optional utility for clearer focus */
+.focus-ring { @apply focus:outline-none focus:ring-2 focus:ring-black focus:ring-offset-2 focus:ring-offset-white; }
+.dark .focus-ring { @apply focus:ring-white focus:ring-offset-neutral-900; }

@@ -1,0 +1,28 @@
+{
+"tree": [
+{ "alias": "nav.home", "route": "#home", "type": "route", "label": "Home", "emoji": "🏠", "children": [
+
+
+{ "alias": "nav.home.listening", "type": "group", "label": "Listening", "emoji": "👤", "children": [
+{ "alias": "nav.home.listening.normalday", "type": "dataset", "label": "Normal Day", "emoji": "💼", "path": "/data/listening/normalday.json" }
+] },
+
+
+{ "alias": "nav.home.describe", "type": "group", "label": "Picture", "emoji": "🖼️", "children": [
+{ "alias": "nav.home.describe.winter", "type": "dataset", "label": "Winter", "emoji": "🏞️", "path": "/data/describe/mai.json" },  
+
+{ "alias": "nav.home.describe.park", "type": "group", "label": "Park Scene", "emoji": "🧍", "children": [
+{ "alias": "nav.home.describe.park.exercise", "type": "dataset", "label": "Exercise", "emoji": "📚", "path": "/data/describe/mai.json" }
+] },
+
+{ "alias": "nav.home.describe.Mai", "type": "dataset", "label": "Mai 17", "emoji": "🏙️", "path": "/data/describe/mai.json" }
+] },
+
+{ "alias": "nav.home.conversation", "type": "group", "label": "Conversation", "emoji": "👥", "children": [
+{ "alias": "nav.home.conversation.School", "type": "dataset", "label": "School", "emoji": "🏫", "path": "/data/conversation/school.json" }
+] }
+
+
+] }
+]
+}
