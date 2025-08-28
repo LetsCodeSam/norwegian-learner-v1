@@ -1,0 +1,86 @@
+{
+  "title": "By, butikker og transport",
+  "meta": { "cefr": "A2", "topic": "City, shops, transport", "tags": ["city", "shops", "transport", "school", "work"] },
+  "blocks": [
+    {
+      "kind": "qa_list",
+      "title": "Q & A",
+      "items": [
+        {
+          "noQ": "Hvordan kommer du til skolen og jobben?",
+          "pronQ": "HVOR-dan KOM-mer du til SKO-len og JOB-ben?",
+          "enQ": "How do you get to school and work?",
+          "noA": "Jeg tar bussen til skolen, og jeg sykler til jobben. Hva med deg?",
+          "pronA": "Jeg TAR BUS-sen til SKO-len, og jeg SYK-ler til JOB-ben. Hva med deg?",
+          "enA": "I take the bus to school, and I cycle to work. What about you?"
+        },
+        {
+          "noQ": "Hvilket transportmiddel liker du best?",
+          "pronQ": "HVIL-ket TRAN-sport-mid-del LI-ker du BEST?",
+          "enQ": "What type of transportation do you like best?",
+          "noA": "Jeg liker toget best, for det er raskt og behagelig.",
+          "pronA": "Jeg LI-ker TO-get BEST, for det er RASKT og be-HA-ge-lig.",
+          "enA": "I like the train best because it is fast and comfortable."
+        },
+        {
+          "noQ": "Hva liker du å gjøre når du er i byen?",
+          "pronQ": "Hva LI-ker du å GJØ-re når du er i BY-en?",
+          "enQ": "What do you like to do when you're in town?",
+          "noA": "Jeg liker å gå på kafé og handle klær. Og du?",
+          "pronA": "Jeg LI-ker å gå på ka-FÉ og HAN-dle KLÆR. Og du?",
+          "enA": "I like to go to cafés and shop for clothes. And you?"
+        },
+        {
+          "noQ": "Hvor ofte drar du til byen?",
+          "pronQ": "Hvor OF-te DRAR du til BY-en?",
+          "enQ": "How often do you go to town?",
+          "noA": "Jeg drar til byen to ganger i uka.",
+          "pronA": "Jeg DRAR til BY-en to GANG-er i U-ka.",
+          "enA": "I go to town twice a week."
+        },
+        {
+          "noQ": "Hva kjøper du vanligvis i butikken?",
+          "pronQ": "Hva KJØ-per du VAN-lig-vis i bu-TIK-ken?",
+          "enQ": "What do you usually buy in the shop?",
+          "noA": "Jeg kjøper mat og noen ganger klær.",
+          "pronA": "Jeg KJØ-per MAT og NO-en GAN-ger KLÆR.",
+          "enA": "I buy food and sometimes clothes."
+        }
+      ]
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog – By og transport",
+      "items": [
+        {
+          "no": "Snakk om byen, butikker og transport.",
+          "pron": "SNAKK om BY-en, bu-TIK-ker og TRAN-sport.",
+          "en": "Talk about the city, shops and transport.",
+          "model": [
+            { "no": "Jeg bor i en liten by.", "pron": "Jeg BOR i en LI-ten BY.", "en": "I live in a small city." },
+            { "no": "I byen er det mange butikker.", "pron": "I BY-en er det MAN-ge bu-TIK-ker.", "en": "There are many shops in the city." },
+            { "no": "Jeg liker å handle klær.", "pron": "Jeg LI-ker å HAN-dle KLÆR.", "en": "I like to shop for clothes." },
+            { "no": "Jeg tar ofte buss til sentrum.", "pron": "Jeg TAR OF-te BUSS til SEN-trum.", "en": "I often take the bus to the center." },
+            { "no": "Noen ganger kjører jeg bil.", "pron": "NO-en GAN-ger KJØ-rer jeg BIL.", "en": "Sometimes I drive a car." },
+            { "no": "Jeg liker best å sykle.", "pron": "Jeg LI-ker BEST å SYK-le.", "en": "I like cycling best." },
+            { "no": "Det er mye trafikk i byen.", "pron": "Det er MYE tra-FIKK i BY-en.", "en": "There is a lot of traffic in the city." },
+            { "no": "Jeg går ofte på kafé.", "pron": "Jeg GÅR OF-te på ka-FÉ.", "en": "I often go to cafés." },
+            { "no": "Jeg møter venner i byen.", "pron": "Jeg MØ-ter VEN-ner i BY-en.", "en": "I meet friends in the city." },
+            { "no": "Jeg liker å se på folk.", "pron": "Jeg LI-ker å SE på FOLK.", "en": "I like to watch people." }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf":"å dra","inf_pron":"å DRA","inf_en":"to go/leave","pres":"drar","pres_pron":"DRAR","pres_en":"go","pret":"dro","pret_pron":"DRO","pret_en":"went","perf":"har dratt","perf_pron":"har DRATT","perf_en":"has/have gone","fut":"skal dra","fut_pron":"skal DRA","fut_en":"will go","notes":"⚠ irregular" },
+        { "inf":"å kjøre","inf_pron":"å KJØ-re","inf_en":"to drive","pres":"kjører","pres_pron":"KJØ-rer","pres_en":"drive","pret":"kjørte","pret_pron":"KJØR-te","pret_en":"drove","perf":"har kjørt","perf_pron":"har KJØRT","perf_en":"has/have driven","fut":"skal kjøre","fut_pron":"skal KJØ-re","fut_en":"will drive","notes":"" },
+        { "inf":"å sykle","inf_pron":"å SYK-le","inf_en":"to cycle","pres":"sykler","pres_pron":"SYK-ler","pres_en":"cycle","pret":"syklet","pret_pron":"SYK-let","pret_en":"cycled","perf":"har syklet","perf_pron":"har SYK-let","perf_en":"has/have cycled","fut":"skal sykle","fut_pron":"skal SYK-le","fut_en":"will cycle","notes":"" },
+        { "inf":"å handle","inf_pron":"å HAN-dle","inf_en":"to shop","pres":"handler","pres_pron":"HAN-dler","pres_en":"shop","pret":"handlet","pret_pron":"HAN-dlet","pret_en":"shopped","perf":"har handlet","perf_pron":"har HAN-dlet","perf_en":"has/have shopped","fut":"skal handle","fut_pron":"skal HAN-dle","fut_en":"will shop","notes":"" },
+        { "inf":"å møte","inf_pron":"å MØ-te","inf_en":"to meet","pres":"møter","pres_pron":"MØ-ter","pres_en":"meet","pret":"møtte","pret_pron":"MØT-te","pret_en":"met","perf":"har møtt","perf_pron":"har MØTT","perf_en":"has/have met","fut":"skal møte","fut_pron":"skal MØ-te","fut_en":"will meet","notes":"" }
+      ]
+    }
+  ]
+}

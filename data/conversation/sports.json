@@ -1,0 +1,86 @@
+{
+  "title": "Samtale – Sport",
+  "meta": { "cefr": "A2", "topic": "Sports", "tags": ["conversation", "sports", "hobbies"] },
+  "blocks": [
+    {
+      "kind": "qa_list",
+      "title": "Q & A",
+      "items": [
+        {
+          "noQ": "Liker du sport?",
+          "pronQ": "LI-ker du SPORT?",
+          "enQ": "Do you like sports?",
+          "noA": "Ja, jeg liker sport. Jeg ser ofte på fotball. Hva med deg?",
+          "pronA": "Ja, jeg LI-ker SPORT. Jeg SER OF-te på FOT-ball. Hva med deg?",
+          "enA": "Yes, I like sports. I often watch football. What about you?"
+        },
+        {
+          "noQ": "Er det noen sporter du er interessert i?",
+          "pronQ": "Er det NO-en SPOR-ter du er in-te-res-SERT i?",
+          "enQ": "Are there any sports you are interested in?",
+          "noA": "Jeg er interessert i ski og håndball.",
+          "pronA": "Jeg er in-te-res-SERT i SKI og HÅND-ball.",
+          "enA": "I am interested in skiing and handball."
+        },
+        {
+          "noQ": "Kan du fortelle om en sport du liker?",
+          "pronQ": "Kan du for-TEL-le om en SPORT du LI-ker?",
+          "enQ": "Can you tell me about a sport you like?",
+          "noA": "Jeg liker fotball. Jeg spiller med venner hver uke.",
+          "pronA": "Jeg LI-ker FOT-ball. Jeg SPIL-ler med VEN-ner hver U-ke.",
+          "enA": "I like football. I play with friends every week."
+        },
+        {
+          "noQ": "Hva er mulighetene for å drive med sport der du bor?",
+          "pronQ": "Hva er MU-li-he-te-ne for å DRI-ve med SPORT der du BOR?",
+          "enQ": "What are the opportunities for doing sports where you live?",
+          "noA": "Jeg kan gå på treningssenter, spille fotball og svømme i hallen.",
+          "pronA": "Jeg kan gå på TRE-nings-SEN-ter, SPIL-le FOT-ball og SVØM-me i HAL-len.",
+          "enA": "I can go to the gym, play football, and swim in the pool."
+        },
+        {
+          "noQ": "Ser du på sport på TV?",
+          "pronQ": "Ser du på SPORT på TE-ve?",
+          "enQ": "Do you watch sports on TV?",
+          "noA": "Ja, jeg ser ofte på fotballkamper på TV. Og du?",
+          "pronA": "Ja, jeg SER OF-te på FOT-ball-KAM-per på TE-ve. Og du?",
+          "enA": "Yes, I often watch football matches on TV. And you?"
+        }
+      ]
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog – Sport",
+      "items": [
+        {
+          "no": "Snakk om sport du liker.",
+          "pron": "SNAKK om SPORT du LI-ker.",
+          "en": "Talk about sports you like.",
+          "model": [
+            { "no": "Jeg liker å spille fotball.", "pron": "Jeg LI-ker å SPIL-le FOT-ball.", "en": "I like to play football." },
+            { "no": "Jeg spiller med venner hver uke.", "pron": "Jeg SPIL-ler med VEN-ner hver U-ke.", "en": "I play with friends every week." },
+            { "no": "Jeg liker å se på ski på TV.", "pron": "Jeg LI-ker å SE på SKI på TE-ve.", "en": "I like to watch skiing on TV." },
+            { "no": "Om sommeren svømmer jeg i sjøen.", "pron": "Om SOM-mer-en SVØM-mer jeg i SJØ-en.", "en": "In summer I swim in the sea." },
+            { "no": "Om vinteren går jeg på ski.", "pron": "Om VIN-ter-en går jeg på SKI.", "en": "In winter I go skiing." },
+            { "no": "Jeg trener på treningssenter.", "pron": "Jeg TRE-ner på TRE-nings-SEN-ter.", "en": "I train at the gym." },
+            { "no": "Sport er bra for helsa.", "pron": "SPORT er BRA for HEL-sa.", "en": "Sports are good for health." },
+            { "no": "Jeg liker å se sport med familien.", "pron": "Jeg LI-ker å SE SPORT med fa-MI-li-en.", "en": "I like to watch sports with my family." },
+            { "no": "Jeg synes sport er spennende.", "pron": "Jeg SYN-es SPORT er SPEN-nen-de.", "en": "I think sports are exciting." },
+            { "no": "Jeg vil prøve en ny sport i fremtiden.", "pron": "Jeg vil PRØ-ve en NY SPORT i FREM-ti-den.", "en": "I want to try a new sport in the future." }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf":"å spille","inf_pron":"å SPIL-le","inf_en":"to play","pres":"spiller","pres_pron":"SPIL-ler","pres_en":"play","pret":"spilte","pret_pron":"SPIL-te","pret_en":"played","perf":"har spilt","perf_pron":"har SPILT","perf_en":"has/have played","fut":"skal spille","fut_pron":"skal SPIL-le","fut_en":"will play","notes":"" },
+        { "inf":"å trene","inf_pron":"å TRE-ne","inf_en":"to train","pres":"trener","pres_pron":"TRE-ner","pres_en":"train","pret":"trente","pret_pron":"TREN-te","pret_en":"trained","perf":"har trent","perf_pron":"har TRENT","perf_en":"has/have trained","fut":"skal trene","fut_pron":"skal TRE-ne","fut_en":"will train","notes":"" },
+        { "inf":"å se","inf_pron":"å SE","inf_en":"to watch/see","pres":"ser","pres_pron":"SER","pres_en":"watch/see","pret":"så","pret_pron":"SÅ","pret_en":"watched/saw","perf":"har sett","perf_pron":"har SETT","perf_en":"has/have seen","fut":"skal se","fut_pron":"skal SE","fut_en":"will watch/see","notes":"⚠ irregular" },
+        { "inf":"å svømme","inf_pron":"å SVØM-me","inf_en":"to swim","pres":"svømmer","pres_pron":"SVØM-mer","pres_en":"swim","pret":"svømte","pret_pron":"SVØM-te","pret_en":"swam","perf":"har svømt","perf_pron":"har SVØMT","perf_en":"has/have swum","fut":"skal svømme","fut_pron":"skal SVØM-me","fut_en":"will swim","notes":"⚠ irregular" },
+        { "inf":"å gå på ski","inf_pron":"å GÅ på SKI","inf_en":"to ski","pres":"går på ski","pres_pron":"GÅR på SKI","pres_en":"ski","pret":"gikk på ski","pret_pron":"GIKK på SKI","pret_en":"skied","perf":"har gått på ski","perf_pron":"har GÅTT på SKI","perf_en":"has/have skied","fut":"skal gå på ski","fut_pron":"skal GÅ på SKI","fut_en":"will ski","notes":"⚠ irregular" }
+      ]
+    }
+  ]
+}
