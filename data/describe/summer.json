@@ -1,0 +1,46 @@
+{
+  "title": "Beskriv bilde – Sommer ved sjøen (detaljert)",
+  "meta": { "cefr": "A2", "topic": "Picture description", "tags": ["summer", "beach", "details", "verb-second"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Styrt monolog – Beskriv alt du ser",
+      "items": [
+        {
+          "no": "Beskriv bildet detaljert. Bruk verb som nummer to i setningen.",
+          "pron": "Be-SKRIV BIL-det de-TAL-jert. BRUK VERB som NUM-mer to i SET-ning-en.",
+          "en": "Describe the picture in detail. Use the verb as number two in the sentence.",
+          "model": [
+            { "no": "Det er sommer og solen går ned.", "pron": "Det er SOM-mer og SO-len går NED.", "en": "It is summer and the sun is setting." },
+            { "no": "Jeg ser en sjø foran et fjell.", "pron": "Jeg SER en SJØ FOR-an et FJELL.", "en": "I see a lake in front of a mountain." },
+            { "no": "Bak sjøen står et fyrtårn.", "pron": "BAK SJØ-en STÅR et FYR-tårn.", "en": "Behind the lake stands a lighthouse." },
+            { "no": "En båt ligger på vannet til venstre.", "pron": "En BÅT LIG-ger på VAN-net til VEN-stre.", "en": "A boat is on the water to the left." },
+            { "no": "To personer kjører vannscooter.", "pron": "To per-SON-er KJØ-rer VANN-scoo-ter.", "en": "Two people are riding a jetski." },
+            { "no": "En kvinne i lilla skjørt svinger en jente i luften.", "pron": "En KVIN-ne i LIL-la SKJØRT SVI-nger en JEN-te i LUF-ten.", "en": "A woman in a purple skirt swings a girl in the air." },
+            { "no": "En gutt med gule striper hopper i sjøen.", "pron": "En GUTT med GU-le STRI-per HOP-per i SJØ-en.", "en": "A boy in yellow stripes is jumping into the sea." },
+            { "no": "En gutt med grønne armbånd fisker med en håv.", "pron": "En GUTT med GRØN-ne ARM-bånd FIS-ker med en HÅV.", "en": "A boy with green armbands is fishing with a net." },
+            { "no": "En jente i hvit kjole spiller gitar.", "pron": "En JEN-te i HVIT KJO-le SPIL-ler gi-TAR.", "en": "A girl in a white dress is playing the guitar." },
+            { "no": "Et par danser foran gitarspilleren.", "pron": "Et PAR DAN-ser FOR-an gi-TAR-spil-le-ren.", "en": "A couple is dancing in front of the guitar player." },
+            { "no": "Kvinnen har en rød kjole.", "pron": "KVIN-nen har en RØD KJO-le.", "en": "The woman is wearing a red dress." },
+            { "no": "Mannen har en hvit bukse og en svart hatt.", "pron": "MAN-nen har en HVIT BUK-se og en SVART HATT.", "en": "The man is wearing white trousers and a black hat." },
+            { "no": "To rotter spiller musikk ved vannet.", "pron": "To ROT-ter SPIL-ler mu-SIKK ved VAN-net.", "en": "Two rats are playing music by the water." },
+            { "no": "Et bål brenner foran en stor kvinne.", "pron": "Et BÅL BREN-ner FOR-an en STOR KVIN-ne.", "en": "A fire burns in front of a large woman." },
+            { "no": "Hun ler høyt og peker på mannen ved siden av.", "pron": "Hun LER HØYT og PE-ker på MAN-nen ved SI-den av.", "en": "She laughs loudly and points at the man next to her." },
+            { "no": "Mannen spiser en pølse og drikker kaffe.", "pron": "MAN-nen SPI-ser en PØL-se og DRIK-ker KAF-fe.", "en": "The man is eating a sausage and drinking coffee." },
+            { "no": "En måke slipper noe på hodet hans.", "pron": "En MÅ-ke SLIP-per NO-e på HO-det hans.", "en": "A seagull drops something on his head." },
+            { "no": "En hund flyter på en gul madrass med dykkermaske.", "pron": "En HUND FLY-ter på en GUL ma-DRASS med DYK-ker-MAS-ke.", "en": "A dog is floating on a yellow mattress with a diving mask." },
+            { "no": "To menn spiller ball med hunden i vannet.", "pron": "To MENN SPIL-ler BALL med HUN-den i VAN-net.", "en": "Two men are playing ball with the dog in the water." },
+            { "no": "En gutt bygger sandslott på stranden.", "pron": "En GUTT BYG-ger SAND-slott på STRAN-den.", "en": "A boy is building a sandcastle on the beach." },
+            { "no": "Et par sitter foran teltet bak på stranden.", "pron": "Et PAR SIT-ter FOR-an TEL-tet BAK på STRAN-den.", "en": "A couple is sitting in front of the tent at the back of the beach." },
+            { "no": "En mann med hatt bygger også sandslott.", "pron": "En MANN med HATT BYG-ger OGS-å SAND-slott.", "en": "A man with a hat is also building a sandcastle." },
+            { "no": "Noen barn hopper fra brygga i vannet.", "pron": "NO-en BARN HOP-per fra BRYG-ga i VAN-net.", "en": "Some children are jumping from the pier into the water." },
+            { "no": "En krabbe kryper ved vannkanten.", "pron": "En KRAB-be KRY-per ved VAN-kan-ten.", "en": "A crab is crawling by the water’s edge." },
+            { "no": "Noen mennesker sitter i sanden og prater.", "pron": "NO-en MEN-nes-ker SIT-ter i SAND-en og PRA-ter.", "en": "Some people are sitting in the sand and talking." },
+            { "no": "Jeg ser en mann i rød caps ved teltet.", "pron": "Jeg SER en MANN i RØD CAPS ved TEL-tet.", "en": "I see a man in a red cap near the tent." },
+            { "no": "Flere måker flyr over stranden.", "pron": "FLE-re MÅ-ker FLYR O-ver STRAN-den.", "en": "Several seagulls are flying over the beach." }
+          ]
+        }
+      ]
+    }
+  ]
+}

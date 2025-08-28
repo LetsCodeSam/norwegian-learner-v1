@@ -16,7 +16,8 @@
 { "alias": "nav.home.describe.park.exercise", "type": "dataset", "label": "Exercise", "emoji": "📚", "path": "/data/describe/mai.json" }
 ] },
 
-{ "alias": "nav.home.describe.Mai", "type": "dataset", "label": "Mai 17", "emoji": "🏙️", "path": "/data/describe/mai.json" }
+{ "alias": "nav.home.describe.Mai", "type": "dataset", "label": "Mai 17", "emoji": "🏙️", "path": "/data/describe/mai.json" },
+{ "alias": "nav.home.describe.Summer", "type": "dataset", "label": "Summer", "emoji": "🏙️", "path": "/data/describe/summer.json" }
 ] },
 
 { "alias": "nav.home.conversation", "type": "group", "label": "Conversation", "emoji": "👥", "children": [
