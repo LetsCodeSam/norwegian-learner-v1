@@ -1,0 +1,81 @@
+{
+  "title": "På Landet",
+  "meta": { "cefr": "A2", "topic": "På Landet", "tags": ["farm", "counter side", "village"] },
+  "blocks": [
+    {
+      "kind": "image",
+      "src": "assets/describe/pic-landet.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Beskriv bildet fra 17. mai.",
+          "pron": "be-SKRIV BIL-det fra søtt-ende mai",
+          "en": "Describe the picture from May 17th.",
+          "model": [
+            { "no": "På bildet ser jeg en gård full av liv og farger.", "pron": "På BIL-det ser JEG en GÅRD FULL av LIV og FAR-ger.", "en": "In the picture I see a farm full of life and colors." },
+            { "no": "Til venstre maler en mann et portrett på et stort lerret.", "pron": "Til VEN-stre MA-ler en MANN et por-TRETT på et STORT LER-ret.", "en": "On the left, a man is painting a portrait on a large canvas." },
+            { "no": "Han maler en eldre kvinne som sitter på en benk og strikker.", "pron": "Han MA-ler en EL-dre KVIN-ne som SIT-ter på en BENK og STRIK-ker.", "en": "He is painting an older woman who is sitting on a bench and knitting." },
+            { "no": "Foran staffeliet ligger det tuber med maling og en eske med pensler.", "pron": "FO-ran STA-ffe-li-et LIG-ger det TU-ber med MA-ling og en ES-ke med PENS-ler.", "en": "In front of the easel there are tubes of paint and a box of brushes." },
+            { "no": "I midten rir en jente på en lys hest, og hun smiler.", "pron": "I MID-ten RIR en JEN-te på en LYS HEST, og hun SMI-ler.", "en": "In the middle, a girl is riding a light-colored horse, and she is smiling." },
+            { "no": "Ved siden av stien står et lite lam og ser nysgjerrig ut.", "pron": "Ved SI-den av STI-en STÅR et LI-te LAM og SER ny-SJER-rig ut.", "en": "Next to the path a small lamb is standing and looks curious." },
+            { "no": "Til høyre sitter den samme kvinnen under et tre og strikker et langt skjerf.", "pron": "Til HØY-re SIT-ter den SAM-me KVIN-nen UN-der et TRE og STRIK-ker et LANGT SKJERF.", "en": "To the right the same woman sits under a tree and knits a long scarf." },
+            { "no": "En katt ligger på ryggen og leker med garnet, mens høner plukker i gresset.", "pron": "En KATT LIG-ger på RYG-gen og LE-ker med GAR-net, mens HØ-ner PLUK-ker i GRES-set.", "en": "A cat lies on its back and plays with the yarn, while hens pick in the grass." },
+            { "no": "Bak henne ser jeg flere hvite høner og blomster i mange farger.", "pron": "BAK HEN-ne SER jeg FLE-re HVI-te HØ-ner og BLOM-ster i MAN-ge FAR-ger.", "en": "Behind her I see several white hens and flowers in many colors." },
+            { "no": "I bakgrunnen til venstre står en stor rød låve, og en mann vinker i døra.", "pron": "I BAK-grun-nen til VEN-stre STÅR en STOR RØD LÅ-ve, og en MANN VIN-ker i DØ-ra.", "en": "In the background on the left there is a big red barn, and a man is waving in the doorway." },
+            { "no": "Over låven henger en person i fallskjerm, og til venstre flyr en hangglider.", "pron": "O-ver LÅ-ven HEN-ger en per-SON i FALL-skjerm, og til VEN-stre FLYR en HANG-gli-der.", "en": "Above the barn a person is hanging under a parachute, and to the left a hang glider is flying." },
+            { "no": "Midt bak står et lite grønt hus med oransje tak, og barn leker med ball foran.", "pron": "MIDT BAK STÅR et LI-te GRØNT HUS med o-RANS-je TAK, og BARN LE-ker med BALL for-RAN.", "en": "In the middle at the back there is a small green house with an orange roof, and children are playing with a ball in front." },
+            { "no": "Noen barn sykler på stien, mens en hund løper etter ballen.", "pron": "NO-en BARN SYK-ler på STI-en, mens en HUND LØ-per ET-ter BAL-len.", "en": "Some children are cycling on the path, while a dog runs after the ball." },
+            { "no": "Helt til høyre oppe kjører en mann en traktor over en ås.", "pron": "HELT til HØY-re OP-pe KJØ-rer en MANN en TRAK-tor O-ver en ÅS.", "en": "All the way to the right at the top a man is driving a tractor over a hill." },
+            { "no": "Foran i bildet vokser det mange hvite prestekrager og andre blomster.", "pron": "FO-ran i BIL-det VOK-ser det MAN-ge HVI-te PRES-te-kra-ger og AN-dre BLOM-ster.", "en": "In the front of the picture many white daisies and other flowers are growing." },
+            { "no": "Selv om det skjer mange ting samtidig, virker stedet rolig og hyggelig.", "pron": "SELV om det SKJER MAN-ge ting sam-TI-dig, VIR-ker STE-det RO-lig og HYG-ge-lig.", "en": "Even though many things are happening at the same time, the place seems calm and pleasant." },
+            { "no": "Jeg tror det er sommer fordi himmelen er blå og gresset er grønt.", "pron": "Jeg TROR det er SOM-mer fo-DI HIM-mel-en er BLÅ og GRES-set er GRØNT.", "en": "I think it is summer because the sky is blue and the grass is green." },
+            { "no": "Jeg liker at mennesker og dyr er sammen på gården, og at alle ser aktive ut.", "pron": "Jeg LI-ker at MEN-nes-ker og DYR er SAM-men på GÅR-den, og at AL-le SER AK-ti-ve ut.", "en": "I like that people and animals are together on the farm, and that everyone looks active." },
+            { "no": "Jeg vil si at maleren og bestemoren gjør bildet ekstra koselig.", "pron": "Jeg vil SI at MA-le-ren og BES-te-mo-ren GJØR BIL-det EK-stra KO-se-lig.", "en": "I would say that the painter and the grandmother make the picture extra cozy." },
+            { "no": "Da jeg var liten, besøkte jeg ofte en gård, og dette motivet minner meg om den tiden.", "pron": "Da jeg var LI-ten, be-SØK-te JEG OF-te en GÅRD, og DET-te mo-TI-vet MIN-ner MEG om DEN TI-den.", "en": "When I was little, I often visited a farm, and this scene reminds me of that time." },
+            { "no": "I går gikk jeg forbi en liten gårdsbutikk, derfor tenker jeg ekstra på landet nå.", "pron": "I GÅR GIKK JEG for-BI en LI-ten GÅRDS-bu-tikk, DER-for TEN-ker JEG EK-stra på LAN-det nå.", "en": "Yesterday I walked past a small farm shop, therefore I’m thinking extra about the countryside now." },
+            { "no": "Selv om jeg ikke kjenner disse menneskene, føles stedet kjent og trygt.", "pron": "SELV om JEG IK-ke KJEN-ner DIS-se MEN-nes-ke-ne, FØ-les STE-det KJENT og TRYGT.", "en": "Even though I don’t know these people, the place feels familiar and safe." },
+            { "no": "Jeg synes fargene er sterke men harmoniske, og linjene er tydelige.", "pron": "Jeg SYN-es FAR-ge-ne er STER-ke MEN har-MO-nis-ke, og LIN-je-ne er TY-de-li-ge.", "en": "I think the colors are strong but harmonious, and the lines are clear." },
+            { "no": "Derfor er det lett å beskrive bildet systematisk fra venstre til høyre og fra foran til bak.", "pron": "DER-for er det LETT å be-SKRIV-e BIL-det sys-te-MA-tisk fra VEN-stre til HØY-re og fra FO-ran til BAK.", "en": "Therefore it is easy to describe the picture systematically from left to right and from front to back." },
+            { "no": "Det var alt jeg kan si om bildet.", "pron": "Det var ALT JEG kan SI om BIL-det.", "en": "That was all I can say about the picture." }
+      ]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        {  "inf": "å se", "inf_pron": "å SE", "inf_en": "to see",
+          "pres": "ser", "pres_pron": "SER", "pres_en": "sees",
+          "pret": "så", "pret_pron": "SÅ", "pret_en": "saw",
+          "perf": "har sett", "perf_pron": "har SETT", "perf_en": "has seen",
+          "fut": "skal se", "fut_pron": "skal SE", "fut_en": "will see", "notes": "" },
+        { "inf": "å male", "inf_pron": "å MA-le", "inf_en": "to paint",
+          "pres": "maler", "pres_pron": "MA-ler", "pres_en": "paints",
+          "pret": "malte", "pret_pron": "MALT-e", "pret_en": "painted",
+          "perf": "har malt", "perf_pron": "har MALT", "perf_en": "has painted",
+          "fut": "skal male", "fut_pron": "skal MA-le", "fut_en": "will paint", "notes": "" },
+        { "inf": "å strikke", "inf_pron": "å STRIK-ke", "inf_en": "to knit",
+          "pres": "strikker", "pres_pron": "STRIK-ker", "pres_en": "knits",
+          "pret": "strikket", "pret_pron": "STRIK-ket", "pret_en": "knitted",
+          "perf": "har strikket", "perf_pron": "har STRIK-ket", "perf_en": "has knitted",
+          "fut": "skal strikke", "fut_pron": "skal STRIK-ke", "fut_en": "will knit", "notes": "" },
+        { "inf": "å ri", "inf_pron": "å RI", "inf_en": "to ride",
+          "pres": "rir", "pres_pron": "RIR", "pres_en": "rides",
+          "pret": "red", "pret_pron": "RED", "pret_en": "rode",
+          "perf": "har ridd", "perf_pron": "har RIDD", "perf_en": "has ridden",
+          "fut": "skal ri", "fut_pron": "skal RI", "fut_en": "will ride", "notes": "irregular" },
+        { "inf": "å like", "inf_pron": "å LI-ke", "inf_en": "to like",
+          "pres": "liker", "pres_pron": "LI-ker", "pres_en": "likes",
+          "pret": "likte", "pret_pron": "LIK-te", "pret_en": "liked",
+          "perf": "har likt", "perf_pron": "har LIKT", "perf_en": "has liked",
+          "fut": "skal like", "fut_pron": "skal LI-ke", "fut_en": "will like", "notes": "" }
+      ]
+    }
+  ]
+}

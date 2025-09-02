@@ -1,0 +1,86 @@
+{
+  "title": "sykehus",
+  "meta": { "cefr": "A2", "topic": "sykehus", "tags": ["sykehus", "Hospital", "Public"] },
+  "blocks": [
+    {
+      "kind": "image",
+      "src": "assets/describe/pic-sykehus.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Beskriv bildet fra 17. mai.",
+          "pron": "be-SKRIV BIL-det fra søtt-ende mai",
+          "en": "Describe the picture from May 17th.",
+          "model": [
+            { "no": "På bildet ser jeg et travelt venterom på et sykehus.", "pron": "På BIL-det ser JEG et TRA-velt VEN-te-rom på et SY-ke-hus.", "en": "In the picture I see a busy waiting room at a hospital." },
+            { "no": "Til venstre står to leger og snakker sammen ved døren.", "pron": "Til VEN-stre STÅR to LE-ger og SNAK-ker SAM-men ved DØ-ren.", "en": "On the left two doctors are standing and talking by the door." },
+            { "no": "Foran dem sitter en gutt og holder seg på magen, fordi han har vondt.", "pron": "FO-ran DEM SIT-ter en GUTT og HOL-der seg på MA-gen, fo-DI han har VONDT.", "en": "In front of them a boy sits holding his stomach, because he is in pain." },
+            { "no": "Bak gutten sitter en eldre dame og nyser i et lommetørkle.", "pron": "BAK GUT-ten SIT-ter en EL-dre DA-me og NY-ser i et LOM-me-tørk-le.", "en": "Behind the boy an older lady sits and sneezes into a handkerchief." },
+            { "no": "I midten går en kvinne med munnbind forbi resepsjonen, og et barn følger etter henne.", "pron": "I MID-ten GÅR en KVIN-ne med MUNN-bind for-BI re-sep-SJO-nen, og et BARN FØL-ger ET-ter HEN-ne.", "en": "In the middle a woman with a face mask walks past the reception, and a child follows her." },
+            { "no": "Ved skranken tar en person kølapp, mens den andre snakker med resepsjonisten.", "pron": "Ved SKRAN-ken TAR en per-SON KØ-lapp, mens den AN-dre SNAK-ker med re-sep-sjo-NIS-ten.", "en": "At the counter one person takes a queue ticket, while another talks to the receptionist." },
+            { "no": "Til høyre for midten sitter en klovn på huk og leker med en liten jente.", "pron": "Til HØY-re for MID-ten SIT-ter en KLOVN på HUK og LE-ker med en LI-ten JEN-te.", "en": "To the right of the middle a clown squats and plays with a little girl." },
+            { "no": "Moren hennes har lilla hijab og et oransje mønstrete antrekk.", "pron": "MO-ren HEN-nes har LIL-la hi-JAB og et o-RANS-je MØN-stre-te ANT-trekk.", "en": "Her mother wears a purple hijab and an orange patterned outfit." },
+            { "no": "Lenger til høyre sitter en mann med et stort gipsbein og drikker kaffe.", "pron": "LENG-er til HØY-re SIT-ter en MANN med et STORT GIPS-bein og DRIK-ker KAF-fe.", "en": "Further to the right a man with a big leg cast sits and drinks coffee." },
+            { "no": "Foran ham leser en eldre herre avisen rolig, men han følger likevel med.", "pron": "FO-ran HAM LE-ser en EL-dre HER-re a-VI-sen RO-lig, MEN han FØL-ger LI-ke-vel MED.", "en": "In front of him an older gentleman reads the newspaper calmly, but he still pays attention." },
+            { "no": "Bak i rommet blir en pasient kjørt på en seng av en sykepleier.", "pron": "BAK i ROM-met BLIR en pa-SI-ent KJØRT på en SENG av en SY-ke-plei-er.", "en": "At the back of the room a patient is being pushed on a bed by a nurse." },
+            { "no": "Til høyre bak er det en liten kiosk, derfor kan folk kjøpe noe å drikke.", "pron": "Til HØY-re BAK er det en LI-ten KIOSK, DER-for kan FOLK KJØ-pe NO-e å DRIK-ke.", "en": "On the right at the back there is a small kiosk, therefore people can buy something to drink." },
+            { "no": "Over resepsjonen står det et skilt med ordet RESEPSJON, og tallet 042 lyser.", "pron": "O-ver re-sep-SJO-nen STÅR det et SKILT med OR-det re-sep-SJON, og TAL-let null-før-to LY-ser.", "en": "Above the reception there is a sign with the word RESEPSJON, and the number 042 is lit." },
+            { "no": "På veggen til venstre peker et lite skilt mot WC, og en klokke viser tiden.", "pron": "På VEG-gen til VEN-stre PE-ker et LI-te SKILT mot VE-SE, og en KLOK-ke VI-ser TI-den.", "en": "On the wall to the left a small sign points to the WC, and a clock shows the time." },
+            { "no": "Helt foran ser jeg et lite bord med blader og en potteplante ved siden av.", "pron": "HELT FO-ran SER JEG et LI-te BORD med BLA-der og en POT-te-plan-te ved SI-den av.", "en": "Right at the front I see a small table with magazines and a potted plant next to it." },
+            { "no": "Selv om mange venter, prøver folk å være tålmodige og høflige.", "pron": "SELV om MAN-ge VEN-ter, PRØ-ver FOLK å VÆ-re tål-MO-di-ge og HØF-li-ge.", "en": "Even though many are waiting, people try to be patient and polite." },
+            { "no": "Jeg synes rommet er lyst og ryddig, og personalet virker hjelpsomt.", "pron": "JEG SYN-es ROM-met er LYST og RYD-dig, og per-so-NAL-et VIR-ker HJELP-somt.", "en": "I think the room is bright and tidy, and the staff seem helpful." },
+            { "no": "Jeg liker at klovnen underholder barna, fordi det gjør stemningen roligere.", "pron": "JEG LI-ker at KLOV-nen un-der-HOL-der BAR-na, fo-DI det GJØR STEM-ning-en RO-li-ge-re.", "en": "I like that the clown entertains the children, because it makes the mood calmer." },
+            { "no": "Jeg tror alle får hjelp etter tur, men noen ser utålmodige ut.", "pron": "JEG TROR AL-le får HJELP ET-ter TUR, MEN NO-en ser u-tål-MO-di-ge ut.", "en": "I think everyone gets help in turn, but some look impatient." },
+            { "no": "Da jeg var liten, ventet jeg med moren min på et lignende venterom.", "pron": "DA JEG var LI-ten, VEN-tet JEG med MO-ren MIN på et LIGN-ne-de VEN-te-rom.", "en": "When I was little, I waited with my mother in a similar waiting room." },
+            { "no": "I går hentet jeg medisin på apoteket, derfor kjenner jeg systemet med kølapp godt.", "pron": "I GÅR HEN-tet JEG me-di-SIN på a-po-TE-ket, DER-for KJEN-ner JEG sys-TE-met med KØ-lapp GODT.", "en": "Yesterday I picked up medicine at the pharmacy, therefore I know the queue-ticket system well." },
+            { "no": "Selv om noen hoster, holder de avstand og tenker på hygiene.", "pron": "SELV om NO-en HOS-ter, HOL-ler de AV-stand og TEN-ker på hy-gi-E-ne.", "en": "Even though some people cough, they keep their distance and think about hygiene." },
+            { "no": "Jeg vil si at sykehuset virker godt organisert, og informasjonen er tydelig.", "pron": "JEG vil SI at SY-ke-hu-set VIR-ker GODT or-ga-ni-SERT, og in-for-ma-SJO-nen er TY-de-lig.", "en": "I would say the hospital seems well organized, and the information is clear." },
+            { "no": "Dessuten er det lett å beskrive rommet fra venstre til høyre og fra foran til bak.", "pron": "DES-su-ten er det LETT å be-SKRIV-e ROM-met fra VEN-stre til HØY-re og fra FO-ran til BAK.", "en": "Besides, it is easy to describe the room from left to right and from front to back." },
+            { "no": "Det var alt jeg kan si om bildet.", "pron": "Det var ALT JEG kan SI om BIL-det.", "en": "That was all I can say about the picture." }
+]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf": "å vente", "inf_pron": "å VEN-te", "inf_en": "to wait",
+        "pres": "venter", "pres_pron": "VEN-ter", "pres_en": "waits",
+        "pret": "ventet", "pret_pron": "VEN-tet", "pret_en": "waited",
+        "perf": "har ventet", "perf_pron": "har VEN-tet", "perf_en": "has waited",
+        "fut": "skal vente", "fut_pron": "skal VEN-te", "fut_en": "will wait", "notes": "" },
+        { "inf": "å hjelpe", "inf_pron": "å HJEL-pe", "inf_en": "to help",
+        "pres": "hjelper", "pres_pron": "HJEL-per", "pres_en": "helps",
+        "pret": "hjalp", "pret_pron": "HJALP", "pret_en": "helped",
+        "perf": "har hjulpet", "perf_pron": "har HJUL-pet", "perf_en": "has helped",
+        "fut": "skal hjelpe", "fut_pron": "skal HJEL-pe", "fut_en": "will help", "notes": "irreg." },
+        { "inf": "å snakke", "inf_pron": "å SNAK-ke", "inf_en": "to talk",
+        "pres": "snakker", "pres_pron": "SNAK-ker", "pres_en": "talks",
+        "pret": "snakket", "pret_pron": "SNAK-ket", "pret_en": "talked",
+        "perf": "har snakket", "perf_pron": "har SNAK-ket", "perf_en": "has talked",
+        "fut": "skal snakke", "fut_pron": "skal SNAK-ke", "fut_en": "will talk", "notes": "" },
+        { "inf": "å lese", "inf_pron": "å LE-se", "inf_en": "to read",
+        "pres": "leser", "pres_pron": "LE-ser", "pres_en": "reads",
+        "pret": "leste", "pret_pron": "LES-te", "pret_en": "read (past)",
+        "perf": "har lest", "perf_pron": "har LEST", "perf_en": "has read",
+        "fut": "skal lese", "fut_pron": "skal LE-se", "fut_en": "will read", "notes": "" },
+        { "inf": "å undersøke", "inf_pron": "å UN-der-sø-ke", "inf_en": "to examine",
+        "pres": "undersøker", "pres_pron": "UN-der-SØ-ker", "pres_en": "examines",
+        "pret": "undersøkte", "pret_pron": "UN-der-SØK-te", "pret_en": "examined",
+        "perf": "har undersøkt", "perf_pron": "har UN-der-SØKT", "perf_en": "has examined",
+        "fut": "skal undersøke", "fut_pron": "skal UN-der-SØ-ke", "fut_en": "will examine", "notes": "" },
+        { "inf": "å registrere", "inf_pron": "å re-gis-TRE-re", "inf_en": "to register",
+        "pres": "registrerer", "pres_pron": "re-gis-TRE-rer", "pres_en": "registers",
+        "pret": "registrerte", "pret_pron": "re-gis-TER-te", "pret_en": "registered",
+        "perf": "har registrert", "perf_pron": "har re-gis-TERT", "perf_en": "has registered",
+        "fut": "skal registrere", "fut_pron": "skal re-gis-TRE-re", "fut_en": "will register", "notes": "" }
+    ]
+    }
+  ]
+}

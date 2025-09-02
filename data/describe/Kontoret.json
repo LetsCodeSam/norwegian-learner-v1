@@ -1,0 +1,60 @@
+{
+  "title": "Kontoret",
+  "meta": { "cefr": "A2", "topic": "Kontoret", "tags": ["farm", "counter side", "village"] },
+  "blocks": [
+    {
+      "kind": "image",
+      "src": "assets/describe/pic-Kontoret.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Beskriv bildet fra 17. mai.",
+          "pron": "be-SKRIV BIL-det fra søtt-ende mai",
+          "en": "Describe the picture from May 17th.",
+          "model": [
+            { "no": "På bildet ser jeg et travelt kontor med mange mennesker og aktiviteter.", "pron": "På BIL-det ser JEG et TRA-velt kon-TOR med MAN-ge MEN-nes-ker og ak-ti-vi-te-ter.", "en": "In the picture I see a busy office with many people and activities." },
+            { "no": "Til venstre ser jeg en kaffemaskin med kopper som er rotete.", "pron": "Til VEN-stre ser JEG en KAF-fe-ma-SKIN med KOP-per som er RO-te-te.", "en": "On the left I see a coffee machine with cups that are messy." },
+            { "no": "Foran maskinen vasker en mann gulvet med en mopp fordi det er søl.", "pron": "FO-ran ma-SKI-nen VAS-ker en MANN GUL-vet med en MOPP fo-DI det er SØL.", "en": "In front of the machine a man cleans the floor with a mop because there is a spill." },
+            { "no": "Bak ham leverer en sykkelbud en pose med mat til en kvinne.", "pron": "BAK ham le-VE-rer en SYK-kel-bud en PO-se med MAT til en KVIN-ne.", "en": "Behind him a bicycle courier delivers a bag of food to a woman." },
+            { "no": "Ved siden av står to arbeidere i gule vester og snakker sammen.", "pron": "Ved SI-den av STÅR to AR-bei-de-re i GU-le VES-ter og SNAK-ker SAM-men.", "en": "Next to them two workers in yellow vests stand and talk together." },
+            { "no": "I midten peker en mann på en tavle i møterommet, og flere følger med.", "pron": "I MID-ten PE-ker en MANN på en TAV-le i MØ-te-rom-met, og FLÆ-re FØL-ger MED.", "en": "In the middle a man points at a board in the meeting room, and several are watching." },
+            { "no": "Til høyre for tavla ser jeg en kvinne som skriver på tavlen med tusj.", "pron": "Til HØY-re for TAV-la ser JEG en KVIN-ne som SKRI-ver på TAV-len med TUSJ.", "en": "To the right of the board I see a woman writing on the board with a marker." },
+            { "no": "Bak henne står en eldre mann og leser fra et ark, mens en dame i rød kjole organiserer bøker.", "pron": "BAK HEN-ne STÅR en EL-dre MANN og LE-ser fra et ARK, mens en DA-me i RØD KJO-le or-ga-ni-SE-rer BØ-ker.", "en": "Behind her an older man stands reading from a paper, while a lady in a red dress organizes books." },
+            { "no": "Til høyre i bildet sitter flere ansatte ved pulter med datamaskiner.", "pron": "Til HØY-re i BIL-det SIT-ter FLÆ-re AN-sat-te ved PUL-ter med DA-ta-ma-SKI-ner.", "en": "To the right in the picture several employees sit at desks with computers." },
+            { "no": "En kvinne i lilla kjole drikker kaffe, men hun ser opptatt ut.", "pron": "En KVIN-ne i LIL-la KJO-le DRIK-ker KAF-fe, MEN hun SER OPP-tatt ut.", "en": "A woman in a purple dress drinks coffee, but she looks busy." },
+            { "no": "Foran henne sitter en kvinne med briller som spiser en sandwich ved tastaturet.", "pron": "FO-ran HEN-ne SIT-ter en KVIN-ne med BRIL-ler som SPI-ser en SAND-wich ved tast-a-TU-ret.", "en": "In front of her a woman with glasses eats a sandwich at the keyboard." },
+            { "no": "Ved siden av skriver en kvinne notater mens hun holder en kopp.", "pron": "Ved SI-den av SKRI-ver en KVIN-ne no-TA-ter mens hun HOL-der en KOPP.", "en": "Next to her a woman writes notes while holding a cup." },
+            { "no": "Jeg ser også mange planter i rommet, derfor virker kontoret litt grønnere.", "pron": "JEG SER ÅG-so MAN-ge PLAN-ter i ROM-met, DER-for VIR-ker kon-TO-ret LITT GRØN-ne-re.", "en": "I also see many plants in the room, therefore the office looks a little greener." },
+            { "no": "På skjermen foran ser jeg et skjema med tall og datoer.", "pron": "På SKJER-men FO-ran SER JEG et SKJE-ma med TALL og DA-to-er.", "en": "On the screen in front I see a form with numbers and dates." },
+            { "no": "Selv om folk er opptatt, spiser noen, drikker kaffe og snakker sammen.", "pron": "SELV om FOLK er OPP-tatt, SPI-ser NO-en, DRIK-ker KAF-fe og SNAK-ker SAM-men.", "en": "Even though people are busy, some eat, drink coffee and talk together." },
+            { "no": "Jeg synes bildet viser et moderne kontor med mange oppgaver.", "pron": "JEG SYN-es BIL-det VI-ser et mo-DER-ne kon-TOR med MAN-ge OPP-ga-ver.", "en": "I think the picture shows a modern office with many tasks." },
+            { "no": "Jeg liker at folk samarbeider, fordi det gjør arbeidet lettere.", "pron": "JEG LI-ker at FOLK sam-ar-BEI-der, fo-DI det GJØR AR-bei-det LET-te-re.", "en": "I like that people cooperate, because it makes the work easier." },
+            { "no": "Jeg tror stemningen er hektisk, men også litt hyggelig.", "pron": "JEG TROR STEM-ning-en er HEK-tisk, MEN ÅG-so LITT HYG-ge-lig.", "en": "I think the atmosphere is hectic, but also a little pleasant." },
+            { "no": "Da jeg var liten, besøkte jeg faren min på kontoret hans, og det var spennende.", "pron": "DA JEG var LI-ten, be-SØK-te JEG FA-ren MIN på kon-TO-ret HANS, og det var SPEN-nen-de.", "en": "When I was little, I visited my father at his office, and it was exciting." },
+            { "no": "I går jobbet jeg hjemmefra, derfor føles dette bildet kjent.", "pron": "I GÅR JOB-bet JEG HJEM-me-fra, DER-for FØ-les DET-te BIL-det KJENT.", "en": "Yesterday I worked from home, therefore this picture feels familiar." },
+            { "no": "Selv om det regner ute, arbeider folk inne som vanlig.", "pron": "SELV om det REG-ner U-te, AR-bei-der FOLK IN-ne som VAN-lig.", "en": "Even though it rains outside, people work inside as usual." },
+            { "no": "Jeg vil si at kontoret er både effektivt og variert.", "pron": "JEG vil SI at kon-TO-ret er BÅ-de ef-fek-TIVT og va-RI-ert.", "en": "I would say the office is both efficient and varied." },
+            { "no": "Derfor er det interessant å beskrive bildet systematisk fra venstre til høyre.", "pron": "DER-for er det in-te-res-SANT å be-SKRIV-e BIL-det sys-te-MA-tisk fra VEN-stre til HØY-re.", "en": "Therefore it is interesting to describe the picture systematically from left to right." },
+            { "no": "Det var alt jeg kan si om bildet.", "pron": "DET var ALT JEG kan SI om BIL-det.", "en": "That was all I can say about the picture." }
+            ]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf": "å jobbe", "inf_pron": "å JOB-be", "inf_en": "to work", "pres": "jobber", "pres_pron": "JOB-ber", "pres_en": "works", "pret": "jobbet", "pret_pron": "JOB-bet", "pret_en": "worked", "perf": "har jobbet", "perf_pron": "har JOB-bet", "perf_en": "has worked", "fut": "skal jobbe", "fut_pron": "skal JOB-be", "fut_en": "will work", "notes": "" },
+        { "inf": "å drikke", "inf_pron": "å DRIK-ke", "inf_en": "to drink", "pres": "drikker", "pres_pron": "DRIK-ker", "pres_en": "drinks", "pret": "drakk", "pret_pron": "DRAKK", "pret_en": "drank", "perf": "har drukket", "perf_pron": "har DRUK-ket", "perf_en": "has drunk", "fut": "skal drikke", "fut_pron": "skal DRIK-ke", "fut_en": "will drink", "notes": "irreg." },
+        { "inf": "å spise", "inf_pron": "å SPI-se", "inf_en": "to eat", "pres": "spiser", "pres_pron": "SPI-ser", "pres_en": "eats", "pret": "spiste", "pret_pron": "SPIS-te", "pret_en": "ate", "perf": "har spist", "perf_pron": "har SPIST", "perf_en": "has eaten", "fut": "skal spise", "fut_pron": "skal SPI-se", "fut_en": "will eat", "notes": "" },
+        { "inf": "å samarbeide", "inf_pron": "å sam-ar-BEI-de", "inf_en": "to cooperate", "pres": "samarbeider", "pres_pron": "sam-ar-BEI-der", "pres_en": "cooperates", "pret": "samarbeidet", "pret_pron": "sam-ar-BEI-det", "pret_en": "cooperated", "perf": "har samarbeidet", "perf_pron": "har sam-ar-BEI-det", "perf_en": "has cooperated", "fut": "skal samarbeide", "fut_pron": "skal sam-ar-BEI-de", "fut_en": "will cooperate", "notes": "" },
+        { "inf": "å skrive", "inf_pron": "å SKRI-ve", "inf_en": "to write", "pres": "skriver", "pres_pron": "SKRI-ver", "pres_en": "writes", "pret": "skrev", "pret_pron": "SKREV", "pret_en": "wrote", "perf": "har skrevet", "perf_pron": "har SKRE-vet", "perf_en": "has written", "fut": "skal skrive", "fut_pron": "skal SKRI-ve", "fut_en": "will write", "notes": "irreg." }
+]
+    }
+  ]
+}

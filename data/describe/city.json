@@ -1,0 +1,61 @@
+{
+  "title": "City",
+  "meta": { "cefr": "A2", "topic": "PCity", "tags": ["city", "counter side", "village"] },
+  "blocks": [
+    {
+      "kind": "image",
+      "src": "assets/describe/pic-landet.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Beskriv bildet fra 17. mai.",
+          "pron": "be-SKRIV BIL-det fra søtt-ende mai",
+          "en": "Describe the picture from May 17th.",
+          "model": [
+            { "no": "På bildet ser jeg en travel bygate med mange mennesker.", "pron": "På BIL-det ser JEG en TRA-vel BY-gate med MAN-ge MEN-nes-ker.", "en": "In the picture I see a busy city street with many people." },
+            { "no": "Til venstre maler en kvinne en vegg med gul maling.", "pron": "Til VEN-stre MA-ler en KVIN-ne en VEGG med GUL MA-ling.", "en": "On the left a woman is painting a wall with yellow paint." },
+            { "no": "En hund står ved stigen og ser opp.", "pron": "En HUND STÅR ved STI-gen og SER OPP.", "en": "A dog stands by the ladder and looks up." },
+            { "no": "Foran krysser flere kvinner gaten mens de snakker sammen.", "pron": "FO-ran KRYSS-er FLÆ-re KVIN-ner GA-ten MENS de SNAK-ker SAM-men.", "en": "In front several women cross the street while talking together." },
+            { "no": "I midten går en mor med barn gjennom fotgjengerfeltet.", "pron": "I MID-ten GÅR en MOR med BARN GJEN-nom FOT-gjen-ger-felt-et.", "en": "In the middle a mother with children walks through the crosswalk." },
+            { "no": "Bak henne ser jeg en mann med ryggsekk og en som bærer en koffert.", "pron": "BAK HEN-ne SER JEG en MANN med RYGG-sekk og en som BÆ-rer en KOF-fert.", "en": "Behind her I see a man with a backpack and one carrying a suitcase." },
+            { "no": "Ved bakeriet klemmer et par hverandre og smiler.", "pron": "Ved BA-ke-ri-et KLEM-mer et PAR hver-AND-re og SMI-ler.", "en": "By the bakery a couple hug each other and smile." },
+            { "no": "I vinduet til bakeriet står det mange kaker og brød.", "pron": "I VIN-du-et til BA-ke-ri-et STÅR det MAN-ge KA-ker og BRØD.", "en": "In the bakery window there are many cakes and breads." },
+            { "no": "Til høyre sitter to damer på benk og drikker kaffe.", "pron": "Til HØY-re SIT-ter TO DA-mer på BENK og DRIK-ker KAF-fe.", "en": "To the right two ladies sit on a bench and drink coffee." },
+            { "no": "En eldre mann sitter ved siden av og ser tankefull ut.", "pron": "En EL-dre MANN SIT-ter ved SI-den av og SER TANK-e-full ut.", "en": "An older man sits next to them and looks thoughtful." },
+            { "no": "På fortauet går flere mennesker med handleposer.", "pron": "På FOR-tau-et GÅR FLÆ-re MEN-nes-ker med HAN-dle-po-ser.", "en": "On the sidewalk several people walk with shopping bags." },
+            { "no": "En kvinne skyver en barnevogn med en baby som smiler.", "pron": "En KVIN-ne SKY-ver en BAR-ne-vogn med en BA-by som SMI-ler.", "en": "A woman pushes a stroller with a baby who smiles." },
+            { "no": "Hun har også en liten hund i bånd.", "pron": "Hun har ÅG-so en LI-ten HUND i BÅND.", "en": "She also has a small dog on a leash." },
+            { "no": "I bilen til høyre ser jeg barn som ler og holder bamser.", "pron": "I BI-len til HØY-re SER JEG BARN som LER og HOL-der BAM-ser.", "en": "In the car to the right I see children laughing and holding teddy bears." },
+            { "no": "En eldre sjåfør sitter foran og konsentrerer seg.", "pron": "En EL-dre sjå-FØR SIT-ter FO-ran og kon-sent-RE-rer seg.", "en": "An older driver sits in front and concentrates." },
+            { "no": "Øverst ser jeg vinduer med blomsterpotter og gardiner.", "pron": "Ø-verst SER JEG VIN-du-er med BLOM-ster-pot-ter og GAR-di-ner.", "en": "At the top I see windows with flower pots and curtains." },
+            { "no": "På et skilt står det Jernbanegata 35.", "pron": "På et SKILT STÅR det JERN-ba-ne-ga-ta trett-i-fem.", "en": "On a sign it says Jernbanegata 35." },
+            { "no": "Jeg synes bildet er fargerikt fordi det er mange mennesker og detaljer.", "pron": "JEG SYN-es BIL-det er FAR-ge-rikt fo-DI det er MAN-ge MEN-nes-ker og de-TAJ-ler.", "en": "I think the picture is colorful because there are many people and details." },
+            { "no": "Jeg liker at byen virker livlig, selv om det er litt kaotisk.", "pron": "JEG LI-ker at BY-en VIR-ker LIV-lig, SELV om det er LITT ka-O-tisk.", "en": "I like that the city seems lively, even though it is a little chaotic." },
+            { "no": "Jeg tror folk koser seg ute, men noen har det travelt.", "pron": "JEG TROR FOLK KO-ser seg U-te, MEN NO-en har det TRA-velt.", "en": "I think people enjoy themselves outside, but some are busy." },
+            { "no": "Da jeg var liten, dro jeg ofte til byen med familien.", "pron": "DA JEG var LI-ten, DRO JEG OF-te til BY-en med fa-MI-li-en.", "en": "When I was little, I often went to the city with my family." },
+            { "no": "I går gikk jeg også en tur i byen og kjøpte brød på bakeriet.", "pron": "I GÅR GIKK JEG ÅG-so en TUR i BY-en og KJØP-te BRØD på BA-ke-ri-et.", "en": "Yesterday I also went for a walk in the city and bought bread at the bakery." },
+            { "no": "Selv om det er mange mennesker, virker stemningen hyggelig.", "pron": "SELV om det er MAN-ge MEN-nes-ker, VIR-ker STEM-ning-en HYG-ge-lig.", "en": "Even though there are many people, the atmosphere seems pleasant." },
+            { "no": "Jeg vil si at dette bildet viser et typisk byliv.", "pron": "JEG vil SI at DET-te BIL-det VI-ser et TYP-isk BY-liv.", "en": "I would say this picture shows a typical city life." },
+            { "no": "Det var alt jeg kan si om bildet.", "pron": "DET var ALT JEG kan SI om BIL-det.", "en": "That was all I can say about the picture." }
+            ]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf": "å male", "inf_pron": "å MA-le", "inf_en": "to paint", "pres": "maler", "pres_pron": "MA-ler", "pres_en": "paints", "pret": "malte", "pret_pron": "MAL-te", "pret_en": "painted", "perf": "har malt", "perf_pron": "har MALT", "perf_en": "has painted", "fut": "skal male", "fut_pron": "skal MA-le", "fut_en": "will paint", "notes": "" },
+        { "inf": "å gå", "inf_pron": "å GÅ", "inf_en": "to walk", "pres": "går", "pres_pron": "GÅR", "pres_en": "walks", "pret": "gikk", "pret_pron": "GIKK", "pret_en": "walked", "perf": "har gått", "perf_pron": "har GÅTT", "perf_en": "has walked", "fut": "skal gå", "fut_pron": "skal GÅ", "fut_en": "will walk", "notes": "irreg." },
+        { "inf": "å klemme", "inf_pron": "å KLEM-me", "inf_en": "to hug", "pres": "klemmer", "pres_pron": "KLEM-mer", "pres_en": "hugs", "pret": "klemte", "pret_pron": "KLEMT-e", "pret_en": "hugged", "perf": "har klemt", "perf_pron": "har KLEMT", "perf_en": "has hugged", "fut": "skal klemme", "fut_pron": "skal KLEM-me", "fut_en": "will hug", "notes": "" },
+        { "inf": "å sitte", "inf_pron": "å SIT-te", "inf_en": "to sit", "pres": "sitter", "pres_pron": "SIT-ter", "pres_en": "sits", "pret": "satt", "pret_pron": "SATT", "pret_en": "sat", "perf": "har sittet", "perf_pron": "har SIT-tet", "perf_en": "has sat", "fut": "skal sitte", "fut_pron": "skal SIT-te", "fut_en": "will sit", "notes": "irreg." },
+        { "inf": "å skyve", "inf_pron": "å SKY-ve", "inf_en": "to push", "pres": "skyver", "pres_pron": "SKY-ver", "pres_en": "pushes", "pret": "skjøv", "pret_pron": "SKJØV", "pret_en": "pushed", "perf": "har skyvd", "perf_pron": "har SKYVD", "perf_en": "has pushed", "fut": "skal skyve", "fut_pron": "skal SKY-ve", "fut_en": "will push", "notes": "irreg." }
+        ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "På Landet",
+  "meta": { "cefr": "A2", "topic": "På Landet", "tags": ["farm", "counter side", "village"] },
+  "blocks": [
+    {
+      "kind": "image",
+      "src": "assets/describe/pic-landet.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Beskriv bildet fra 17. mai.",
+          "pron": "be-SKRIV BIL-det fra søtt-ende mai",
+          "en": "Describe the picture from May 17th.",
+          "model": [
+{ "no": "På bildet ser jeg en vintergate med snø overalt.", "pron": "På BIL-det ser JEG en VIN-ter-gate med SNØ o-ver-ALT.", "en": "In the picture I see a winter street with snow everywhere." },
+{ "no": "Til venstre skraper en mann is av bilen sin, og han ser sur ut.", "pron": "Til VEN-stre SKRA-per en MANN IS av BI-len SIN, og han SER SUR ut.", "en": "On the left a man scrapes ice off his car, and he looks grumpy." },
+{ "no": "Inne i bilen sitter en kvinne og venter tålmodig.", "pron": "IN-ne i BI-len SIT-ter en KVIN-ne og VEN-ter tål-MO-dig.", "en": "Inside the car a woman is sitting and waiting patiently." },
+{ "no": "Foran huset går en ung mann i varm jakke, og han smiler.", "pron": "FO-ran HU-set GÅR en UNG MANN i VARM JAK-ke, og han SMI-ler.", "en": "In front of the house a young man in a warm jacket is walking, and he smiles." },
+{ "no": "Ved porten hilser en postmann på folk mens han leverer brev.", "pron": "Ved POR-ten HIL-ser en POST-mann på FOLK mens han le-VE-rer BREV.", "en": "At the gate a postman greets people while delivering letters." },
+{ "no": "I midten skuffer en eldre dame snø foran huset sitt.", "pron": "I MID-ten SKUFF-er en EL-dre DA-me SNØ FO-ran HU-set sitt.", "en": "In the middle an older woman shovels snow in front of her house." },
+{ "no": "Hun bøyer seg ned, men hun virker sterk og aktiv.", "pron": "Hun BØY-er seg NED, MEN hun VIR-ker STERK og AK-tiv.", "en": "She bends down, but she seems strong and active." },
+            { "no": "Rett ved siden av henne løper en hund med en pinne i munnen.", "pron": "RETT ved SI-den av HEN-ne LØ-per en HUND med en PIN-ne i MUN-nen.", "en": "Right next to her a dog runs with a stick in its mouth." },
+            { "no": "To barn bygger en snømann med gulrot som nese og steiner som øyne.", "pron": "TO BARN BYG-ger en SNØ-mann med GUL-rot som NE-se og STEI-ner som ØY-ne.", "en": "Two children are building a snowman with a carrot nose and stones for eyes." },
+            { "no": "Bak barna står en mann med hatt og mater fugler fra en pose.", "pron": "BAK BAR-na STÅR en MANN med HATT og MA-ter FUG-ler fra en PO-se.", "en": "Behind the children a man with a hat is feeding birds from a bag." },
+            { "no": "Til høyre sklir en mann på isen, derfor mister han posen med epler.", "pron": "Til HØY-re SKLIR en MANN på I-sen, DER-for MIS-ter han PO-sen med EP-ler.", "en": "To the right a man slips on the ice, therefore he drops the bag of apples." },
+            { "no": "En kvinne bak ham prøver å hjelpe, selv om hun ser overrasket ut.", "pron": "En KVIN-ne BAK ham PRØ-ver å HJEL-pe, SELV om hun SER o-ver-RAS-ket ut.", "en": "A woman behind him tries to help, even though she looks surprised." },
+            { "no": "På venstre side ser jeg et lite barn som sender et brev i postkassen.", "pron": "På VEN-stre SI-de SER JEG et LI-te BARN som SEN-der et BREV i POST-kas-sen.", "en": "On the left side I see a little child sending a letter into the mailbox." },
+            { "no": "Ved treet klatrer et ekorn oppover, og det ser ivrig ut.", "pron": "Ved TRE-et KLAT-rer et E-korn OPP-o-ver, og det SER IV-rig ut.", "en": "By the tree a squirrel climbs upwards, and it looks eager." },
+            { "no": "I bakgrunnen ser jeg en stor snøplog som rydder veien.", "pron": "I BAK-grun-nen SER JEG en STOR SNØ-plog som RYD-der VE-ien.", "en": "In the background I see a big snowplow clearing the road." },
+            { "no": "Bak snøplogen går et barn på ski, og hun ser glad ut.", "pron": "BAK SNØ-plog-en GÅR et BARN på SKI, og hun SER GLA ut.", "en": "Behind the snowplow a child is skiing, and she looks happy." },
+            { "no": "Jeg synes bildet viser et typisk vinterliv i Norge.", "pron": "JEG SYN-es BIL-det VI-ser et TYP-isk VIN-ter-liv i NOR-ge.", "en": "I think the picture shows a typical winter life in Norway." },
+            { "no": "Jeg liker at folk hjelper hverandre, fordi det gir en hyggelig stemning.", "pron": "JEG LI-ker at FOLK HJEL-per hver-AN-dre, fo-DI det GIR en HYG-ge-lig STEM-ning.", "en": "I like that people help each other, because it gives a pleasant atmosphere." },
+            { "no": "Jeg tror barna koser seg ute, men noen voksne har problemer med snøen.", "pron": "JEG TROR BAR-na KO-ser seg U-te, MEN NO-en VOKS-ne har pro-BLE-mer med SNØ-en.", "en": "I think the children enjoy themselves outside, but some adults have problems with the snow." },
+            { "no": "Da jeg var liten, pleide jeg å ake i snøen, og det var morsomt.", "pron": "DA JEG var LI-ten, PLEI-de JEG å A-ke i SNØ-en, og det var MOR-somt.", "en": "When I was little, I used to sled in the snow, and it was fun." },
+            { "no": "I går gikk jeg en tur i kulden, og derfor kjenner jeg meg igjen i bildet.", "pron": "I GÅR GIKK JEG en TUR i KUL-den, og DER-for KJEN-ner JEG meg ig-JEN i BIL-det.", "en": "Yesterday I went for a walk in the cold, and therefore I recognize myself in the picture." },
+            { "no": "Selv om det er kaldt, ser folk ut til å være aktive og glade.", "pron": "SELV om det er KALDT, SER FOLK ut til å VÆ-re AK-ti-ve og GLA-de.", "en": "Even though it is cold, people seem to be active and happy." },
+            { "no": "Jeg vil si at dette bildet er både spennende og koselig.", "pron": "JEG vil SI at DET-te BIL-det er BÅ-de SPEN-nen-de og KO-se-lig.", "en": "I would say this picture is both exciting and cozy." },
+            { "no": "Derfor er det interessant å beskrive bildet systematisk fra venstre til høyre.", "pron": "DER-for er det in-te-res-SANT å be-SKRIV-e BIL-det sys-te-MA-tisk fra VEN-stre til HØY-re.", "en": "Therefore it is interesting to describe the picture systematically from left to right." },
+            { "no": "Det var alt jeg kan si om bildet.", "pron": "DET var ALT JEG kan SI om BIL-det.", "en": "That was all I can say about the picture." }
+            ]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        {  "inf": "å se", "inf_pron": "å SE", "inf_en": "to see",
+          "pres": "ser", "pres_pron": "SER", "pres_en": "sees",
+          "pret": "så", "pret_pron": "SÅ", "pret_en": "saw",
+          "perf": "har sett", "perf_pron": "har SETT", "perf_en": "has seen",
+          "fut": "skal se", "fut_pron": "skal SE", "fut_en": "will see", "notes": "" },
+        { "inf": "å male", "inf_pron": "å MA-le", "inf_en": "to paint",
+          "pres": "maler", "pres_pron": "MA-ler", "pres_en": "paints",
+          "pret": "malte", "pret_pron": "MALT-e", "pret_en": "painted",
+          "perf": "har malt", "perf_pron": "har MALT", "perf_en": "has painted",
+          "fut": "skal male", "fut_pron": "skal MA-le", "fut_en": "will paint", "notes": "" },
+        { "inf": "å strikke", "inf_pron": "å STRIK-ke", "inf_en": "to knit",
+          "pres": "strikker", "pres_pron": "STRIK-ker", "pres_en": "knits",
+          "pret": "strikket", "pret_pron": "STRIK-ket", "pret_en": "knitted",
+          "perf": "har strikket", "perf_pron": "har STRIK-ket", "perf_en": "has knitted",
+          "fut": "skal strikke", "fut_pron": "skal STRIK-ke", "fut_en": "will knit", "notes": "" },
+        { "inf": "å ri", "inf_pron": "å RI", "inf_en": "to ride",
+          "pres": "rir", "pres_pron": "RIR", "pres_en": "rides",
+          "pret": "red", "pret_pron": "RED", "pret_en": "rode",
+          "perf": "har ridd", "perf_pron": "har RIDD", "perf_en": "has ridden",
+          "fut": "skal ri", "fut_pron": "skal RI", "fut_en": "will ride", "notes": "irregular" },
+        { "inf": "å like", "inf_pron": "å LI-ke", "inf_en": "to like",
+          "pres": "liker", "pres_pron": "LI-ker", "pres_en": "likes",
+          "pret": "likte", "pret_pron": "LIK-te", "pret_en": "liked",
+          "perf": "har likt", "perf_pron": "har LIKT", "perf_en": "has liked",
+          "fut": "skal like", "fut_pron": "skal LI-ke", "fut_en": "will like", "notes": "" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "På Landet",
+  "meta": { "cefr": "A2", "topic": "På Landet", "tags": ["farm", "counter side", "village"] },
+  "blocks": [
+    {
+      "kind": "image",
+      "src": "assets/describe/pic-landet.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Beskriv bildet fra 17. mai.",
+          "pron": "be-SKRIV BIL-det fra søtt-ende mai",
+          "en": "Describe the picture from May 17th.",
+          "model": [
+            { "no": "På bildet ser jeg en gate full av barn i kostymer på Halloween.", "pron": "På BIL-det ser JEG en GA-te FULL av BARN i KOS-ty-mer på HAL-lo-ween.", "en": "In the picture I see a street full of children in costumes on Halloween." },
+            { "no": "Til venstre går et barn kledd som en bie, og han holder en kurv.", "pron": "Til VEN-stre GÅR et BARN KLEDD som en BIE, og han HOL-der en KURV.", "en": "On the left a child dressed as a bee walks, and he is holding a basket." },
+            { "no": "Ved siden av ham går en jente i rosa kjole som en prinsesse.", "pron": "Ved SI-den av HAM GÅR en JEN-te i RO-sa KJO-le som en prin-SES-se.", "en": "Next to him walks a girl in a pink dress as a princess." },
+            { "no": "Bak dem ser jeg en høy heks med grønt ansikt og en stor hatt.", "pron": "BAK DEM SER JEG en HØY HEKS med GRØNT ANS-ikt og en STOR HATT.", "en": "Behind them I see a tall witch with a green face and a big hat." },
+            { "no": "I midten går et barn i hvitt laken som et spøkelse, og han bærer en pose.", "pron": "I MID-ten GÅR et BARN i HVITT LA-ken som et SPØ-kel-se, og han BÆ-rer en PO-se.", "en": "In the middle a child in a white sheet walks as a ghost, and he carries a bag." },
+            { "no": "Til høyre for spøkelset går en klovn med rødt hår og stripete bukser.", "pron": "Til HØY-re for SPØ-kel-set GÅR en KLOVN med RØDT HÅR og STRI-pe-te BUK-ser.", "en": "To the right of the ghost a clown with red hair and striped trousers is walking." },
+            { "no": "Bak klovnen går et barn som en mumie, og kroppen er pakket inn i bandasjer.", "pron": "BAK KLOVN-en GÅR et BARN som en MU-mie, og KROP-pen er PAK-ket INN i ban-DA-sjer.", "en": "Behind the clown a child dressed as a mummy walks, and the body is wrapped in bandages." },
+            { "no": "Ved døra står en gammel dame med kurv full av godteri, og hun smiler.", "pron": "Ved DØ-ra STÅR en GAM-mel DA-me med KURV FULL av GOD-te-ri, og hun SMI-ler.", "en": "By the door an old woman stands with a basket full of candy, and she smiles." },
+            { "no": "På trappa ligger flere utskårne gresskar, og de har lys inni seg.", "pron": "På TRAP-pa LIG-ger FLE-re UT-skår-ne GRESS-kar, og de har LYS IN-ni seg.", "en": "On the steps several carved pumpkins lie, and they have lights inside them." },
+            { "no": "Til høyre foran ser jeg en svart katt som leker med noe på bakken.", "pron": "Til HØY-re FO-ran SER JEG en SVART KATT som LE-ker med NO-e på BAK-ken.", "en": "To the right in front I see a black cat playing with something on the ground." },
+            { "no": "Bak katten sitter en rotte ved et gresskar, men den ser vennlig ut.", "pron": "BAK KATT-en SIT-ter en ROT-te ved et GRESS-kar, MEN den SER VENN-lig ut.", "en": "Behind the cat a rat sits by a pumpkin, but it looks friendly." },
+            { "no": "I bakgrunnen til venstre står en mann i cowboyhatt, og han peker mot døra.", "pron": "I BAK-grun-nen til VEN-stre STÅR en MANN i COW-boy-HATT, og han PE-ker mot DØ-ra.", "en": "In the background to the left a man in a cowboy hat stands, and he points towards the door." },
+            { "no": "Bak ham ser jeg et gammelt ektepar som følger med fra døra si.", "pron": "BAK HAM SER JEG et GAM-melt EK-te-par som FØL-ger MED fra DØ-ra si.", "en": "Behind him I see an old couple watching from their door." },
+            { "no": "Helt bakerst ser jeg silhuetter av barn og dyr under månen.", "pron": "HELT BA-kerst SER JEG sil-hu-ET-ter av BARN og DYR UN-der MÅ-nen.", "en": "At the very back I see silhouettes of children and animals under the moon." },
+            { "no": "Øverst til venstre lyser en halvmåne på himmelen, derfor vet jeg at det er kveld.", "pron": "Ø-verst til VEN-stre LY-ser en HALV-MÅ-ne på HIM-mel-en, DER-for VET JEG at det er KVELD.", "en": "At the top left a crescent moon shines in the sky, therefore I know it is evening." },
+            { "no": "Foran til høyre står et tre uten blader, og greinene ser skumle ut.", "pron": "FO-ran til HØY-re STÅR et TRE U-ten BLA-der, og GREI-ne-ne SER SKUM-le ut.", "en": "At the front to the right stands a tree without leaves, and the branches look scary." },
+            { "no": "Jeg synes barna ser glade ut fordi de samler godteri.", "pron": "JEG SYN-es BAR-na SER GLA-de ut fo-DI de SAM-ler GOD-te-ri.", "en": "I think the children look happy because they are collecting candy." },
+            { "no": "Jeg liker at voksne åpner dørene sine og deler ut søtsaker.", "pron": "JEG LI-ker at VOKS-ne ÅP-ner DØ-re-ne SI-ne og DE-ler UT SØT-sa-ker.", "en": "I like that adults open their doors and share sweets." },
+            { "no": "Jeg tror alle har det morsomt selv om noen kostymer er litt skumle.", "pron": "JEG TROR AL-le har det MOR-somt SELV om NO-en KOS-ty-mer er LITT SKUM-le.", "en": "I think everyone is having fun even though some costumes are a little scary." },
+            { "no": "Da jeg var liten, kledde jeg meg også ut til Halloween, og jeg gikk fra hus til hus.", "pron": "DA JEG var LI-ten, KLED-de JEG MEG OGS-å UT til HAL-lo-ween, og JEG GIKK fra HUS til HUS.", "en": "When I was little, I also dressed up for Halloween, and I went from house to house." },
+            { "no": "I går så jeg barn i nabolaget mitt som samlet godteri, og det var hyggelig.", "pron": "I GÅR SÅ JEG BARN i NA-bo-la-get MITT som SAM-let GOD-te-ri, og det var HYG-ge-lig.", "en": "Yesterday I saw children in my neighborhood collecting candy, and it was nice." },
+            { "no": "Selv om noen voksne ser strenge ut, smiler de når barna banker på døra.", "pron": "SELV om NO-en VOKS-ne SER STREN-ge ut, SMI-ler de NÅR BAR-na BAN-ker på DØ-ra.", "en": "Even though some adults look strict, they smile when the children knock on the door." },
+            { "no": "Jeg vil si at Halloween er både morsomt og fargerikt, og det samler folk i gata.", "pron": "JEG vil SI at HAL-lo-ween er BÅ-de MOR-somt og FAR-ge-rikt, og det SAM-ler FOLK i GA-ta.", "en": "I would say that Halloween is both fun and colorful, and it brings people together in the street." },
+            { "no": "Derfor synes jeg dette bildet er spennende å beskrive, fordi det har så mange detaljer.", "pron": "DER-for SYN-es JEG DET-te BIL-det er SPEN-nen-de å be-SKRIV-e, fo-DI det har så MAN-ge de-TAJ-ler.", "en": "Therefore I think this picture is exciting to describe, because it has so many details." },
+            { "no": "Det var alt jeg kan si om bildet.", "pron": "DET var ALT JEG kan SI om BIL-det.", "en": "That was all I can say about the picture." }
+]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf": "å kle seg ut", "inf_pron": "å KLE seg ut", "inf_en": "to dress up", "pres": "kler seg ut", "pres_pron": "KLER seg ut", "pres_en": "dresses up", "pret": "kledde seg ut", "pret_pron": "KLED-de seg ut", "pret_en": "dressed up", "perf": "har kledd seg ut", "perf_pron": "har KLEDD seg ut", "perf_en": "has dressed up", "fut": "skal kle seg ut", "fut_pron": "skal KLE seg ut", "fut_en": "will dress up", "notes": "" },
+        { "inf": "å samle", "inf_pron": "å SAM-le", "inf_en": "to collect", "pres": "samler", "pres_pron": "SAM-ler", "pres_en": "collects", "pret": "samlet", "pret_pron": "SAM-let", "pret_en": "collected", "perf": "har samlet", "perf_pron": "har SAM-let", "perf_en": "has collected", "fut": "skal samle", "fut_pron": "skal SAM-le", "fut_en": "will collect", "notes": "" },
+        { "inf": "å dele", "inf_pron": "å DE-le", "inf_en": "to share", "pres": "deler", "pres_pron": "DE-ler", "pres_en": "shares", "pret": "delte", "pret_pron": "DEL-te", "pret_en": "shared", "perf": "har delt", "perf_pron": "har DELT", "perf_en": "has shared", "fut": "skal dele", "fut_pron": "skal DE-le", "fut_en": "will share", "notes": "" },
+        { "inf": "å smile", "inf_pron": "å SMI-le", "inf_en": "to smile", "pres": "smiler", "pres_pron": "SMI-ler", "pres_en": "smiles", "pret": "smilte", "pret_pron": "SMIL-te", "pret_en": "smiled", "perf": "har smilt", "perf_pron": "har SMILT", "perf_en": "has smiled", "fut": "skal smile", "fut_pron": "skal SMI-le", "fut_en": "will smile", "notes": "" },
+        { "inf": "å se", "inf_pron": "å SE", "inf_en": "to see", "pres": "ser", "pres_pron": "SER", "pres_en": "sees", "pret": "så", "pret_pron": "SÅ", "pret_en": "saw", "perf": "har sett", "perf_pron": "har SETT", "perf_en": "has seen", "fut": "skal se", "fut_pron": "skal SE", "fut_en": "will see", "notes": "" }
+]
+    }
+  ]
+}

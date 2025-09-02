@@ -17,7 +17,13 @@
 ] },
 
 { "alias": "nav.home.describe.Mai", "type": "dataset", "label": "Mai 17", "emoji": "🏙️", "path": "/data/describe/mai.json" },
-{ "alias": "nav.home.describe.Summer", "type": "dataset", "label": "Summer", "emoji": "🏙️", "path": "/data/describe/summer.json" }
+{ "alias": "nav.home.describe.Summer", "type": "dataset", "label": "Summer", "emoji": "🏙️", "path": "/data/describe/summer.json" },
+{ "alias": "nav.home.describe.sykehus", "type": "dataset", "label": "sykehus", "emoji": "🏙️", "path": "/data/describe/sykehus.json" },
+{ "alias": "nav.home.describe.halloween", "type": "dataset", "label": "halloween", "emoji": "🏙️", "path": "/data/describe/halloween.json" },
+{ "alias": "nav.home.describe.Kontoret", "type": "dataset", "label": "Kontoret", "emoji": "🏙️", "path": "/data/describe/Kontoret.json" },
+{ "alias": "nav.home.describe.winter", "type": "dataset", "label": "winter", "emoji": "🏙️", "path": "/data/describe/winter.json" },
+{ "alias": "nav.home.describe.farm", "type": "dataset", "label": "farm", "emoji": "🏙️", "path": "/data/describe/farm.json" },
+{ "alias": "nav.home.describe.city", "type": "dataset", "label": "city", "emoji": "🏙️", "path": "/data/describe/city.json" }
 ] },
 
 { "alias": "nav.home.conversation", "type": "group", "label": "Conversation", "emoji": "👥", "children": [
