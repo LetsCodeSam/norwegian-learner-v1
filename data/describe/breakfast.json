@@ -1,0 +1,60 @@
+{
+  "title": "Breakfast",
+  "meta": { "cefr": "A2", "topic": "Breakfast", "tags": ["Breakfast", "counter side", "village"] },
+  "blocks": [
+    {
+      "kind": "image",
+      "src": "assets/describe/pic-landet.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Beskriv bildet fra 17. mai.",
+          "pron": "be-SKRIV BIL-det fra søtt-ende mai",
+          "en": "Describe the picture from May 17th.",
+          "model": [
+            { "no": "På bildet ser jeg en familie som spiser frokost i et rotete hjem.", "pron": "På BIL-det ser JEG en fa-MI-lie som SPI-ser FRO-kost i et RO-te-te HJEM.", "en": "In the picture I see a family eating breakfast in a messy home." },
+            { "no": "Til venstre pusser en jente tennene foran speilet, og hun har hodetelefoner på.", "pron": "Til VEN-stre PUS-ser en JEN-te TEN-ne-ne FO-ran SPEI-let, og hun har HO-de-te-le-fo-ner på.", "en": "On the left a girl brushes her teeth in front of the mirror, and she has headphones on." },
+            { "no": "Ved vasken står det tannkrem, tannbørste og et glass med vann.", "pron": "Ved VAS-ken STÅR det TANN-krem, TANN-børs-te og et GLASS med VANN.", "en": "By the sink there is toothpaste, a toothbrush and a glass of water." },
+            { "no": "Foran kjøkkenbenken smører en mann brødskiver med smør og pålegg.", "pron": "FO-ran KJØK-ken-ben-ken SMØR-er en MANN BRØD-ski-ver med SMØR og PÅ-legg.", "en": "In front of the kitchen counter a man spreads bread with butter and toppings." },
+            { "no": "Han ser rolig ut, men bak ham løper et barn rundt og lager kaos.", "pron": "Han SER RO-lig ut, MEN BAK ham LØ-per et BARN RUNDt og LA-ger KA-os.", "en": "He looks calm, but behind him a child runs around and makes chaos." },
+            { "no": "Ved døra står en kvinne med handleliste og en plante i hånden.", "pron": "Ved DØ-ra STÅR en KVIN-ne med HAN-dle-lis-te og en PLAN-te i HÅN-den.", "en": "By the door a woman stands with a shopping list and a plant in her hand." },
+            { "no": "På lappen står det brød, melk, smør, egg, kaffe og sukker.", "pron": "På LAP-pen STÅR det BRØD, MELK, SMØR, EGG, KAF-fe og SUK-ker.", "en": "On the note it says bread, milk, butter, eggs, coffee and sugar." },
+            { "no": "Til høyre sitter et barn på gulvet og leker med en skuff full av kjeks.", "pron": "Til HØY-re SIT-ter et BARN på GUL-vet og LE-ker med en SKUFF FULL av KJEKS.", "en": "To the right a child sits on the floor and plays with a drawer full of cookies." },
+            { "no": "Bak barnet ser jeg et bord med frokostmat som melk, cornflakes og juice.", "pron": "BAK BAR-net SER JEG et BORD med FRO-kost-mat som MELK, CORN-flakes og JUICE.", "en": "Behind the child I see a table with breakfast food like milk, cornflakes and juice." },
+            { "no": "Ved bordet spiser en gutt fra en skål, og han har mat på munnen.", "pron": "Ved BOR-det SPI-ser en GUTT fra en SKÅL, og han har MAT på MUN-nen.", "en": "At the table a boy eats from a bowl, and he has food on his mouth." },
+            { "no": "Ved siden av ham sitter en eldre mann og leser avisen mens han drikker kaffe.", "pron": "Ved SI-den av HAM SIT-ter en EL-dre MANN og LE-ser a-VI-sen MENS han DRIK-ker KAF-fe.", "en": "Next to him an older man sits and reads the newspaper while drinking coffee." },
+            { "no": "På veggen bak ser jeg en kalender som viser februar 12.", "pron": "På VEG-gen BAK SER JEG en ka-len-DER som VI-ser fe-bru-AR tolv.", "en": "On the wall behind I see a calendar showing February 12." },
+            { "no": "Over sofaen henger et bilde av fjell og en mann som padler i kano.", "pron": "O-ver SO-fa-en HEN-ger et BIL-de av FJELL og en MANN som PAD-ler i KA-no.", "en": "Above the sofa hangs a picture of mountains and a man paddling a canoe." },
+            { "no": "Helt til høyre ser jeg et vindu med snø utenfor.", "pron": "HELT til HØY-re SER JEG et VIN-du med SNØ U-ten-for.", "en": "All the way to the right I see a window with snow outside." },
+            { "no": "Jeg synes bildet er morsomt fordi det viser en typisk travel morgen.", "pron": "JEG SYN-es BIL-det er MOR-somt fo-DI det VI-ser en TYP-isk TRA-vel MOR-gen.", "en": "I think the picture is funny because it shows a typical busy morning." },
+            { "no": "Jeg liker at alle gjør forskjellige ting, selv om huset ser rotete ut.", "pron": "JEG LI-ker at AL-le GJØR for-SJEL-li-ge ting, SELV om HU-set SER RO-te-te ut.", "en": "I like that everyone does different things, even though the house looks messy." },
+            { "no": "Jeg tror foreldrene prøver å holde ro, men barna lager mye lyd.", "pron": "JEG TROR fo-REL-dre-ne PRØ-ver å HOL-de RO, MEN BAR-na LA-ger MY-e LYD.", "en": "I think the parents try to keep calm, but the children make a lot of noise." },
+            { "no": "Da jeg var liten, spiste vi ofte frokost sammen som familie.", "pron": "DA JEG var LI-ten, SPI-ste vi OF-te FRO-kost SAM-men som fa-MI-lie.", "en": "When I was little, we often ate breakfast together as a family." },
+            { "no": "I går lagde jeg også frokost med brød og syltetøy.", "pron": "I GÅR LAG-de JEG OGS-å FRO-kost med BRØD og SYL-te-tøy.", "en": "Yesterday I also made breakfast with bread and jam." },
+            { "no": "Selv om huset er rotete, virker familien glad og aktiv.", "pron": "SELV om HU-set er RO-te-te, VIR-ker fa-MI-li-en GLAD og AK-tiv.", "en": "Even though the house is messy, the family seems happy and active." },
+            { "no": "Jeg vil si at bildet er både realistisk og morsomt.", "pron": "JEG vil SI at BIL-det er BÅ-de re-a-LIS-tisk og MOR-somt.", "en": "I would say the picture is both realistic and funny." },
+            { "no": "Derfor er det interessant å beskrive bildet systematisk fra venstre til høyre.", "pron": "DER-for er det in-te-res-SANT å be-SKRIV-e BIL-det sys-te-MA-tisk fra VEN-stre til HØY-re.", "en": "Therefore it is interesting to describe the picture systematically from left to right." },
+            { "no": "Det var alt jeg kan si om bildet.", "pron": "DET var ALT JEG kan SI om BIL-det.", "en": "That was all I can say about the picture." }
+]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf": "å spise", "inf_pron": "å SPI-se", "inf_en": "to eat", "pres": "spiser", "pres_pron": "SPI-ser", "pres_en": "eats", "pret": "spiste", "pret_pron": "SPIS-te", "pret_en": "ate", "perf": "har spist", "perf_pron": "har SPIST", "perf_en": "has eaten", "fut": "skal spise", "fut_pron": "skal SPI-se", "fut_en": "will eat", "notes": "" },
+        { "inf": "å lese", "inf_pron": "å LE-se", "inf_en": "to read", "pres": "leser", "pres_pron": "LE-ser", "pres_en": "reads", "pret": "leste", "pret_pron": "LES-te", "pret_en": "read", "perf": "har lest", "perf_pron": "har LEST", "perf_en": "has read", "fut": "skal lese", "fut_pron": "skal LE-se", "fut_en": "will read", "notes": "" },
+        { "inf": "å pusse", "inf_pron": "å PUS-se", "inf_en": "to brush", "pres": "pusser", "pres_pron": "PUS-ser", "pres_en": "brushes", "pret": "pusset", "pret_pron": "PUS-set", "pret_en": "brushed", "perf": "har pusset", "perf_pron": "har PUS-set", "perf_en": "has brushed", "fut": "skal pusse", "fut_pron": "skal PUS-se", "fut_en": "will brush", "notes": "" },
+        { "inf": "å smøre", "inf_pron": "å SMØ-re", "inf_en": "to spread", "pres": "smører", "pres_pron": "SMØ-rer", "pres_en": "spreads", "pret": "smurte", "pret_pron": "SMUR-te", "pret_en": "spread", "perf": "har smurt", "perf_pron": "har SMURT", "perf_en": "has spread", "fut": "skal smøre", "fut_pron": "skal SMØ-re", "fut_en": "will spread", "notes": "irreg." },
+        { "inf": "å drikke", "inf_pron": "å DRIK-ke", "inf_en": "to drink", "pres": "drikker", "pres_pron": "DRIK-ker", "pres_en": "drinks", "pret": "drakk", "pret_pron": "DRAKK", "pret_en": "drank", "perf": "har drukket", "perf_pron": "har DRUK-ket", "perf_en": "has drunk", "fut": "skal drikke", "fut_pron": "skal DRIK-ke", "fut_en": "will drink", "notes": "irreg." },
+        { "inf": "å rydde", "inf_pron": "å RYD-de", "inf_en": "to tidy/clean", "pres": "rydder", "pres_pron": "RYD-der", "pres_en": "tidies", "pret": "ryddet", "pret_pron": "RYD-det", "pret_en": "tidied", "perf": "har ryddet", "perf_pron": "har RYD-det", "perf_en": "has tidied", "fut": "skal rydde", "fut_pron": "skal RYD-de", "fut_en": "will tidy", "notes": "" }
+        ]
+    }
+  ]
+}
