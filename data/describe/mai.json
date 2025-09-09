@@ -39,17 +39,32 @@
           "pron": "be-SKRIV BIL-det fra søtt-ende mai",
           "en": "Describe the picture from May 17th.",
           "model": [
-            { "no": "Jeg ser et tog med musikanter i blå uniformer.", "pron": "jæ ser et tå-g med mu-si-KAN-ter i blå u-ni-FÅR-mer", "en": "I see a parade with musicians in blue uniforms." },
-            { "no": "Mange barn vifter med flagg.", "pron": "MANG-e barn VIF-ter med flag", "en": "Many children wave flags." },
-            { "no": "Noen barn spiser is.", "pron": "NO-en barn SPEE-ser is", "en": "Some children eat ice cream." },
-            { "no": "En jente har på seg bunad.", "pron": "en JEN-te har på sæj BU-nad", "en": "A girl is wearing a national costume." },
-            { "no": "Vi kan se en isbar som selger mat.", "pron": "vi kan se en IS-bar som SEL-ger mat", "en": "We can see an ice cream bar that sells food." },
-            { "no": "Mange voksne står og ser på toget.", "pron": "MANG-e VÅKS-ne står og ser på tå-ge", "en": "Many adults are standing and watching the parade." },
-            { "no": "Folk smiler og feirer dagen.", "pron": "folk SME-ler og FÆI-rer DA-gen", "en": "People are smiling and celebrating the day." },
-            { "no": "Det er 17. mai, Norges nasjonaldag.", "pron": "de er søtt-ende mai, NÅR-ges na-sjo-NAL-dag", "en": "It is May 17th, Norway’s National Day." },
-            { "no": "Alle er glade og feststemte.", "pron": "AL-le er GLA-de og FEST-stem-te", "en": "Everyone is happy and in a festive mood." },
-            { "no": "Jeg tror alle koser seg.", "pron": "jæ tror AL-le KO-ser sæj", "en": "I think everyone is enjoying themselves." }
-          ]
+            { "no": "På bildet ser jeg en gate fylt med mennesker som feirer 17. mai.", "pron": "PÅ BIL-det SER JEG en GATE FYLT med MEN-nes-ker som FEI-rer søt-ten-de MAI.", "en": "In the picture I see a street full of people celebrating May 17." },
+            { "no": "Til venstre går et barnetog med norske flagg.", "pron": "TIL VEN-stre GÅR et BARN-e-tog med NORS-ke FLAGG.", "en": "On the left a children’s parade walks with Norwegian flags." },
+            { "no": "Barna er kledd i fine klær og smiler.", "pron": "BAR-na er KLEDD i FI-ne KLÆR og SMI-ler.", "en": "The children are dressed in nice clothes and smile." },
+            { "no": "En gutt vifter med flagget sitt.", "pron": "EN GUTT VIF-ter med FLAG-get SITT.", "en": "A boy waves his flag." },
+            { "no": "Ved siden av ham går en jente i bunad.", "pron": "VED SI-den av HAM GÅR en JEN-te i BU-nad.", "en": "Next to him walks a girl in a bunad." },
+            { "no": "Bak barna ser jeg flere voksne som også bærer flagg.", "pron": "BAK BAR-na SER JEG FLÆ-re VOKS-ne som ÅG-so BÆR-er FLAGG.", "en": "Behind the children I see several adults also carrying flags." },
+            { "no": "Til høyre står folk langs gata og ser på toget.", "pron": "TIL HØY-re STÅR FOLK langs GA-ta og SER på TO-get.", "en": "On the right people stand along the street watching the parade." },
+            { "no": "Mange av dem tar bilder med kamera eller mobil.", "pron": "MAN-ge av DEM TAR BIL-der med KA-me-ra el-ler MO-bil.", "en": "Many of them take pictures with cameras or phones." },
+            { "no": "Noen barn blant publikum spiser is.", "pron": "NO-en BARN blant PUB-li-kum SPI-ser IS.", "en": "Some children among the spectators eat ice cream." },
+            { "no": "En liten gutt holder en ballong.", "pron": "EN LI-ten GUTT HOL-der en bal-LONG.", "en": "A little boy holds a balloon." },
+            { "no": "I midten av gata går et musikkorps.", "pron": "I MID-ten av GA-ta GÅR et MU-sikk-KORPS.", "en": "In the middle of the street a marching band walks." },
+            { "no": "Musikerne spiller instrumenter som trommer og trompeter.", "pron": "MU-si-ker-ne SPIL-ler in-stru-MEN-ter som TROM-mer og trom-PE-ter.", "en": "The musicians play instruments like drums and trumpets." },
+            { "no": "Dirigenten går foran med hatt og stav.", "pron": "di-ri-GEN-ten GÅR FO-ran med HATT og STAV.", "en": "The conductor walks in front with a hat and baton." },
+            { "no": "Bak korpset følger flere klasser med elever.", "pron": "BAK KORP-set FØL-ger FLÆ-re KLASS-er med e-LE-ver.", "en": "Behind the band follow several classes with students." },
+            { "no": "Noen elever bærer plakater med skolens navn.", "pron": "NO-en e-LE-ver BÆR-er pla-KA-ter med SKO-lens NAVN.", "en": "Some students carry posters with the school’s name." },
+            { "no": "På fortauet til venstre ser jeg en dame i bunad.", "pron": "PÅ FOR-tau-et til VEN-stre SER JEG en DA-me i BU-nad.", "en": "On the sidewalk to the left I see a woman in a bunad." },
+            { "no": "Hun vinker til barna i toget.", "pron": "HUN VIN-ker til BAR-na i TO-get.", "en": "She waves to the children in the parade." },
+            { "no": "Ved siden av henne står en mann med barnevogn.", "pron": "VED SI-den av HEN-ne STÅR en MANN med BARN-e-vogn.", "en": "Next to her stands a man with a stroller." },
+            { "no": "Foran i bildet ser jeg to jenter som går hånd i hånd.", "pron": "FO-ran i BIL-det SER JEG TO JEN-ter som GÅR HÅND i HÅND.", "en": "In the front of the picture I see two girls walking hand in hand." },
+            { "no": "De bærer små flagg og smiler.", "pron": "DE BÆR-er SMÅ FLAGG og SMI-ler.", "en": "They carry small flags and smile." },
+            { "no": "I bakgrunnen ser jeg mange bygninger pyntet med flagg.", "pron": "I BAK-grun-nen SER JEG MAN-ge BYG-ning-er PYN-tet med FLAGG.", "en": "In the background I see many buildings decorated with flags." },
+            { "no": "Det norske flagget henger fra vinduer og balkonger.", "pron": "DET NORS-ke FLAG-get HENG-er fra VIN-du-er og bal-KONG-er.", "en": "The Norwegian flag hangs from windows and balconies." },
+            { "no": "Jeg legger merke til at alle ser glade ut.", "pron": "JEG LEG-ger MER-ke til at AL-le SER GLA-de ut.", "en": "I notice that everyone looks happy." },
+            { "no": "Jeg synes bildet viser en festlig og stolt feiring.", "pron": "JEG SYN-es BIL-det VI-ser en FEST-lig og STOLT FEI-ring.", "en": "I think the picture shows a festive and proud celebration." },
+            { "no": "Det var alt jeg kan si om dette bildet.", "pron": "DET var ALT JEG kan SI om DET-te BIL-det.", "en": "That was all I can say about this picture." }
+            ]
         }
       ]
     },
