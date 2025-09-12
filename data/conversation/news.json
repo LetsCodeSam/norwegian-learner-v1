@@ -1,0 +1,64 @@
+{
+  "title": "Conversation – News (Schema v2, 25 Turns)",
+  "meta": { "cefr": "A2", "topic": "Self", "tags": ["education", "subjects", "children"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "model": [
+        { "no": "Hei! Leser du ofte nyheter?", "pron": "HEI! LE-ser DU OF-te NY-he-ter?", "en": "Hi! Do you often read the news?" },
+        { "no": "Ja, jeg prøver å lese nyheter hver dag.", "pron": "JA, JEG PRØ-ver å LE-se NY-he-ter HVER DAG.", "en": "Yes, I try to read the news every day." },
+        { "no": "Hvor pleier du å lese eller høre nyheter?", "pron": "HVOR PLEI-er DU å LE-se el-ler HØ-re NY-he-ter?", "en": "Where do you usually read or listen to news?" },
+        { "no": "Jeg leser ofte på nettet og hører på radio.", "pron": "JEG LE-ser OF-te på NET-tet og HØ-rer på RA-dio.", "en": "I often read online and listen to the radio." },
+        { "no": "Jeg ser også på nyheter på TV om kvelden.", "pron": "JEG SER ÅG-so på NY-he-ter på TE-VE om KVEL-den.", "en": "I also watch the news on TV in the evening." },
+        { "no": "Hva slags nyheter er du mest interessert i?", "pron": "HVA SLAGS NY-he-ter er DU MEST in-te-res-SERT i?", "en": "What kind of news are you most interested in?" },
+        { "no": "Jeg er mest interessert i internasjonale nyheter.", "pron": "JEG er MEST in-te-res-SERT i in-ter-na-SJO-na-le NY-he-ter.", "en": "I am most interested in international news." },
+        { "no": "Jeg liker også å følge med på sport.", "pron": "JEG LI-ker ÅG-so å FØL-ge MED på SPORT.", "en": "I also like to follow sports." },
+        { "no": "Hva med lokale nyheter i Norge?", "pron": "HVA med lo-KA-le NY-he-ter i NOR-ge?", "en": "What about local news in Norway?" },
+        { "no": "Ja, jeg leser litt om politikk og kultur i Norge.", "pron": "JA, JEG LE-ser LITT om po-li-TIKK og KUL-tur i NOR-ge.", "en": "Yes, I read a little about politics and culture in Norway." },
+        { "no": "Tror du man kan få for mye nyheter?", "pron": "TROR DU man kan FÅ for MY-e NY-he-ter?", "en": "Do you think one can get too much news?" },
+        { "no": "Ja, noen ganger blir det for mye informasjon.", "pron": "JA, NO-en GAN-ger BLIR det for MY-e in-for-ma-SJON.", "en": "Yes, sometimes it becomes too much information." },
+        { "no": "Jeg blir litt stresset hvis jeg leser for mye.", "pron": "JEG BLIR LITT STRES-set hvis JEG LE-ser for MY-e.", "en": "I get a bit stressed if I read too much." },
+        { "no": "Derfor prøver jeg å balansere det.", "pron": "DER-for PRØ-ver JEG å ba-lan-SE-re det.", "en": "Therefore I try to balance it." },
+        { "no": "Hva gjør du for å balansere?", "pron": "HVA GJØR DU for å ba-lan-SE-re?", "en": "What do you do to balance it?" },
+        { "no": "Jeg leser bare nyheter om morgenen og ser litt på TV på kvelden.", "pron": "JEG LE-ser BA-re NY-he-ter om MOR-ge-nen og SER LITT på TE-VE på KVEL-den.", "en": "I only read news in the morning and watch a little TV in the evening." },
+        { "no": "Jeg prøver å ikke lese hele dagen.", "pron": "JEG PRØ-ver å IK-ke LE-se HE-le DA-gen.", "en": "I try not to read all day." },
+        { "no": "Det høres lurt ut.", "pron": "DET HØ-res LURT ut.", "en": "That sounds smart." },
+        { "no": "Hva med deg, hvor leser du nyheter?", "pron": "HVA med DEG, HVOR LE-ser DU NY-he-ter?", "en": "What about you, where do you read the news?" },
+        { "no": "Jeg leser mest på mobilen når jeg tar toget.", "pron": "JEG LE-ser MEST på mo-BI-len NÅR JEG TAR TO-get.", "en": "I mostly read on my phone when I take the train." },
+        { "no": "Jeg liker korte artikler med bilder.", "pron": "JEG LI-ker KOR-te ar-TIK-ler med BIL-der.", "en": "I like short articles with pictures." },
+        { "no": "Noen ganger hører jeg på podkaster om nyheter.", "pron": "NO-en GAN-ger HØ-rer JEG på POD-kas-ter om NY-he-ter.", "en": "Sometimes I listen to podcasts about the news." },
+        { "no": "Ja, podkaster er en god måte å lære norsk på også.", "pron": "JA, POD-kas-ter er en GOD MÅ-te å LÆ-re NORSK på ÅG-so.", "en": "Yes, podcasts are also a good way to learn Norwegian." },
+        { "no": "Jeg synes nyheter er viktige, men man må ta pauser.", "pron": "JEG SYN-es NY-he-ter er VIK-ti-ge, MEN man MÅ TA PAU-ser.", "en": "I think news is important, but one must take breaks." },
+        { "no": "Det var hyggelig å snakke om nyheter.", "pron": "DET var HYG-ge-lig å SNAK-ke om NY-he-ter.", "en": "It was nice to talk about the news." }
+      ]
+        }
+  ,
+    {
+      "kind": "wordlist",
+      "title": "Tricky words and pronunciation tips",
+      "items": [
+        { "no": "gift", "say": "ift (g er stum)" },
+        { "no": "kjøpe", "say": "sjø-pe (kj = sj)" },
+        { "no": "kjenne", "say": "sjen-ne (kj = sj)" },
+        { "no": "skjema", "say": "sje-ma (skj = sj)" },
+        { "no": "skje", "say": "sje (skj = sj)" },
+        { "no": "nyheter", "say": "ny-he-ter" },
+        { "no": "informasjon", "say": "in-for-ma-sjon (sj-lyd)" },
+        { "no": "politikk", "say": "po-li-tikk" },
+        { "no": "kultur", "say": "kul-tur" },
+        { "no": "podkast", "say": "pod-kast" },
+        { "no": "mobil", "say": "mo-bil" },
+        { "no": "tog", "say": "tog" },
+        { "no": "artikkel", "say": "ar-tik-kel" },
+        { "no": "bilder", "say": "bil-der (r uttales svakt)" },
+        { "no": "avis", "say": "a-vis" },
+        { "no": "radio", "say": "ra-dio" },
+        { "no": "balansere", "say": "ba-lan-se-re" },
+        { "no": "stresset", "say": "stres-set" },
+        { "no": "viktig", "say": "vik-tig (g tydelig)" },
+        { "no": "derfor", "say": "der-for" }
+      ]
+    }
+  ]
+}

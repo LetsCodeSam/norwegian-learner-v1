@@ -3,7 +3,8 @@
 { "alias": "nav.home", "route": "#home", "type": "route", "label": "Home", "emoji": "🏠", "children": [
 
  {"alias": "nav.home.aboutme", "type": "group", "label": "About Me", "emoji": "👤", "children": [    
- {"alias": "nav.home.aboutme.intro", "type": "dataset", "label": "Introduction", "emoji": "💼", "path": "/data/aboutme/intro.json"}
+ {"alias": "nav.home.aboutme.intro", "type": "dataset", "label": "Introduction", "emoji": "💼", "path": "/data/aboutme/intro.json"},
+  {"alias": "nav.home.aboutme.Waether", "type": "dataset", "label": "Weather", "emoji": "💼", "path": "/data/aboutme/weater.json"}
 ]},   
 
 
@@ -37,7 +38,9 @@
 { "alias": "nav.home.conversation", "type": "group", "label": "Conversation", "emoji": "👥", "children": [
 { "alias": "nav.home.conversation.School", "type": "dataset", "label": "School", "emoji": "🏫", "path": "/data/conversation/school.json" },
 { "alias": "nav.home.conversation.Sports", "type": "dataset", "label": "Sports", "emoji": "🛒", "path": "/data/conversation/sports.json" },
-{ "alias": "nav.home.conversation.Pets", "type": "dataset", "label": "Pets", "emoji": "🛒", "path": "/data/conversation/Pets.json" }
+{ "alias": "nav.home.conversation.Pets", "type": "dataset", "label": "Pets", "emoji": "🛒", "path": "/data/conversation/Pets.json" },
+{ "alias": "nav.home.conversation.Restaurant", "type": "dataset", "label": "Restaurant", "emoji": "🛒", "path": "/data/conversation/restaurant.json" },
+{ "alias": "nav.home.conversation.news", "type": "dataset", "label": "News", "emoji": "🛒", "path": "/data/conversation/news.json" }
 
 ] }
 

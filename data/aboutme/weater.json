@@ -1,0 +1,75 @@
+{
+  "title": "Self-Introduction – Weather and Seasons (Schema v2, 25 Sentences)",
+  "meta": { "cefr": "A2–B1", "task": "self_intro+qa+mcq+tf", "method": "monologue", "schema": "v2" },
+  "blocks": [
+    {
+      "kind": "mono",
+      "items": [
+        { "no": "Hei! Jeg heter Ravi, og jeg vil fortelle om vær og årstider.", "pron": "HEI! JEG HE-ter RA-vi, og JEG vil for-TEL-le om VÆR og ÅR-sti-der.", "en": "Hi! My name is Ravi, and I want to talk about weather and seasons." },
+        { "no": "Min favorittårstid i Norge er sommer.", "pron": "MIN fa-vo-RITT-ÅR-stid i NOR-ge er SOM-mer.", "en": "My favorite season in Norway is summer." },
+        { "no": "Jeg liker sommer fordi dagene er lange og lyse.", "pron": "JEG LI-ker SOM-mer fo-DI DA-ge-ne er LAN-ge og LY-se.", "en": "I like summer because the days are long and bright." },
+        { "no": "Jeg kan gå turer, grille og bade i sjøen.", "pron": "JEG kan GÅ TUR-er, GRIL-le og BA-de i SJØ-en.", "en": "I can go for walks, barbecue, and swim in the sea." },
+        { "no": "Jeg liker også å reise rundt i Norge om sommeren.", "pron": "JEG LI-ker ÅG-so å REI-se RUNDt i NOR-ge om SOM-mer-en.", "en": "I also like to travel around Norway in the summer." },
+        { "no": "Min minst favorittårstid er vinter.", "pron": "MIN MINST fa-vo-RITT-ÅR-stid er VIN-ter.", "en": "My least favorite season is winter." },
+        { "no": "Jeg synes vinteren er vanskelig fordi det er mørkt og kaldt.", "pron": "JEG SYN-es VIN-ter-en er VANS-ke-lig fo-DI det er MØRKT og KALDT.", "en": "I think winter is difficult because it is dark and cold." },
+        { "no": "Likevel liker jeg å stå på ski når det er snø.", "pron": "LI-ke-vel LI-ker JEG å STÅ på SKI NÅR det er SNØ.", "en": "Still, I like skiing when there is snow." },
+        { "no": "Jeg liker også å se på filmer inne når været er dårlig.", "pron": "JEG LI-ker ÅG-so å SE på FIL-mer IN-ne NÅR VÆ-ret er DÅR-lig.", "en": "I also like watching movies indoors when the weather is bad." },
+        { "no": "Om våren liker jeg å se blomster vokse og høre fuglene synge.", "pron": "OM VÅR-en LI-ker JEG å SE BLOM-ster VOK-se og HØ-re FUG-le-ne SYN-ge.", "en": "In spring I like to see flowers grow and hear the birds sing." },
+        { "no": "Høsten er fin fordi bladene får mange farger.", "pron": "HØS-ten er FIN fo-DI BLA-de-ne får MAN-ge FAR-ger.", "en": "Autumn is nice because the leaves get many colors." },
+        { "no": "Da jeg var liten, plukket jeg ofte mangoer om sommeren i India.", "pron": "DA JEG var LI-ten, PLUK-ket JEG OF-te MAN-go-er om SOM-mer-en i IN-di-a.", "en": "When I was little, I often picked mangoes in the summer in India." },
+        { "no": "Jeg savner den smaken, men jeg liker også norske bær.", "pron": "JEG SAV-ner DEN SMA-ken, MEN JEG LI-ker ÅG-so NORS-ke BÆR.", "en": "I miss that taste, but I also like Norwegian berries." },
+        { "no": "I Norge er været veldig forskjellig fra dag til dag.", "pron": "I NOR-ge er VÆ-ret VEL-dig FOR-sjel-lig fra DAG til DAG.", "en": "In Norway the weather is very different from day to day." },
+        { "no": "Noen ganger er det sol, og neste dag kan det regne.", "pron": "NO-en GAN-ger er det SOL, og NES-te DAG kan det REG-ne.", "en": "Sometimes it is sunny, and the next day it can rain." },
+        { "no": "Om vinteren kan det være snøstorm.", "pron": "OM VIN-ter-en kan det VÆ-re SNØ-storm.", "en": "In winter there can be snowstorms." },
+        { "no": "Om sommeren kan det regne mye, selv om det er varmt.", "pron": "OM SOM-mer-en kan det REG-ne MY-e, SELV om det er VARMT.", "en": "In summer it can rain a lot, even though it is warm." },
+        { "no": "I India er sommeren mye varmere enn i Norge.", "pron": "I IN-di-a er SOM-mer-en MY-e VAR-me-re enn i NOR-ge.", "en": "In India the summer is much warmer than in Norway." },
+        { "no": "Vinteren i India er kort og mild.", "pron": "VIN-ter-en i IN-di-a er KORT og MILD.", "en": "The winter in India is short and mild." },
+        { "no": "Jeg synes været i Norge er mer skiftende.", "pron": "JEG SYN-es VÆ-ret i NOR-ge er MER SKIFT-en-de.", "en": "I think the weather in Norway is more changeable." },
+        { "no": "Men jeg liker at Norge har fire årstider.", "pron": "MEN JEG LI-ker at NOR-ge har FI-re ÅR-sti-der.", "en": "But I like that Norway has four seasons." },
+        { "no": "Da jeg flyttet til Norge, var vinteren vanskelig å venne seg til.", "pron": "DA JEG FLYT-tet til NOR-ge, var VIN-ter-en VANS-ke-lig å VEN-ne SEG til.", "en": "When I moved to Norway, the winter was hard to get used to." },
+        { "no": "Nå er jeg mer vant til været her.", "pron": "NÅ er JEG MER VANT til VÆ-ret HER.", "en": "Now I am more used to the weather here." },
+        { "no": "Jeg vil si at jeg liker sommer best og vinter minst.", "pron": "JEG vil SI at JEG LI-ker SOM-mer BEST og VIN-ter MINST.", "en": "I would say I like summer best and winter least." },
+        { "no": "Det var alt jeg kan si om vær og årstider.", "pron": "DET var ALT JEG kan SI om VÆR og ÅR-sti-der.", "en": "That was all I can say about weather and seasons." }
+      ]
+    },
+    {
+      "kind": "qa_list",
+      "title": "Q & A – Weather and Seasons",
+      "items": [
+        { "noQ": "Hva er favorittårstiden din i Norge?", "noA": "Jeg liker sommer best.", "enQ": "What is your favorite season in Norway?", "enA": "I like summer best." },
+        { "noQ": "Hva liker du å gjøre om vinteren?", "noA": "Jeg liker å stå på ski og se på filmer inne.", "enQ": "What do you like to do in winter?", "enA": "I like skiing and watching movies indoors." },
+        { "noQ": "Hva er forskjellen på været i Norge og India?", "noA": "Sommeren i India er mye varmere, og vinteren er kortere.", "enQ": "What is the difference between the weather in Norway and India?", "enA": "The summer in India is much warmer, and the winter is shorter." }
+      ]
+    },
+    {
+      "kind": "mcq_list",
+      "title": "Comprehension Quiz",
+      "items": [
+        { "noQ": "Hva er favorittårstiden til Ravi?", "options": [ {"no": "Sommer", "en": "Summer"}, {"no": "Vinter", "en": "Winter"}, {"no": "Høst", "en": "Autumn"} ], "answerIndex": 0 },
+        { "noQ": "Hva er vanskelig med vinteren i Norge?", "options": [ {"no": "Det er mørkt og kaldt", "en": "It is dark and cold"}, {"no": "Det er for kort", "en": "It is too short"}, {"no": "Det er varmt", "en": "It is warm"} ], "answerIndex": 0 },
+        { "noQ": "Hva gjorde Ravi da han var liten i India?", "options": [ {"no": "Han plukket mangoer", "en": "He picked mangoes"}, {"no": "Han stod på ski", "en": "He skied"}, {"no": "Han bygde snømann", "en": "He built a snowman"} ], "answerIndex": 0 }
+      ]
+    },
+    {
+      "kind": "tf_list",
+      "title": "Sant/Usant Quiz",
+      "items": [
+        { "no": "Ravi liker vinter best.", "en": "Ravi likes winter best.", "answer": false },
+        { "no": "Han synes været i Norge er skiftende.", "en": "He thinks the weather in Norway is changeable.", "answer": true },
+        { "no": "Sommeren i India er varmere enn i Norge.", "en": "The summer in India is warmer than in Norway.", "answer": true },
+        { "no": "Ravi flyttet til Norge for to år siden.", "en": "Ravi moved to Norway two years ago.", "answer": true }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf": "å like", "inf_pron": "å LI-ke", "inf_en": "to like", "pres": "liker", "pres_pron": "LI-ker", "pres_en": "likes", "pret": "likte", "pret_pron": "LIK-te", "pret_en": "liked", "perf": "har likt", "perf_pron": "har LIKT", "perf_en": "has liked", "fut": "skal like", "fut_pron": "skal LI-ke", "fut_en": "will like", "notes": "" },
+        { "inf": "å bade", "inf_pron": "å BA-de", "inf_en": "to swim", "pres": "bader", "pres_pron": "BA-der", "pres_en": "swims", "pret": "badet", "pret_pron": "BA-det", "pret_en": "swam", "perf": "har badet", "perf_pron": "har BA-det", "perf_en": "has swum", "fut": "skal bade", "fut_pron": "skal BA-de", "fut_en": "will swim", "notes": "" },
+        { "inf": "å regne", "inf_pron": "å REG-ne", "inf_en": "to rain", "pres": "regner", "pres_pron": "REG-ner", "pres_en": "rains", "pret": "regnet", "pret_pron": "REG-net", "pret_en": "rained", "perf": "har regnet", "perf_pron": "har REG-net", "perf_en": "has rained", "fut": "skal regne", "fut_pron": "skal REG-ne", "fut_en": "will rain", "notes": "" },
+        { "inf": "å stå", "inf_pron": "å STÅ", "inf_en": "to stand / ski", "pres": "står", "pres_pron": "STÅR", "pres_en": "stands / skis", "pret": "stod", "pret_pron": "STOD", "pret_en": "stood / skied", "perf": "har stått", "perf_pron": "har STÅTT", "perf_en": "has stood / has skied", "fut": "skal stå", "fut_pron": "skal STÅ", "fut_en": "will stand / will ski", "notes": "irreg." },
+        { "inf": "å flytte", "inf_pron": "å FLYT-te", "inf_en": "to move", "pres": "flytter", "pres_pron": "FLYT-ter", "pres_en": "moves", "pret": "flyttet", "pret_pron": "FLYT-tet", "pret_en": "moved", "perf": "har flyttet", "perf_pron": "har FLYT-tet", "perf_en": "has moved", "fut": "skal flytte", "fut_pron": "skal FLYT-te", "fut_en": "will move", "notes": "" }
+      ]
+    }
+  ]
+}

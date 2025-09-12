@@ -64,7 +64,24 @@
           "items": [
             { "no": "Jeg møter vennene mine i helgen.", "en": "I meet my friends on the weekend." }
           ]
-        }
+        },
+    {
+      "title": "Video",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1100623673"
+    },
+    {
+      "title": "Square Video",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1100623673",
+      "aspect": "1:1"
+    },
+    {
+      "title": "Tall frame",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1100623673",
+      "aspect": 75
+    }
       ]
     },
     {
