@@ -7,6 +7,9 @@
   {"alias": "nav.home.aboutme.Waether", "type": "dataset", "label": "Weather", "emoji": "💼", "path": "/data/aboutme/weater.json"}
 ]},   
 
+ {"alias": "nav.home.uttale", "type": "group", "label": "About Me", "emoji": "👤", "children": [    
+ {"alias": "nav.home.uttale.Waethers", "type": "dataset", "label": "Weathers", "emoji": "💼", "path": "/data/uttale/weaters.json"}
+]},
 
 { "alias": "nav.home.listening", "type": "group", "label": "Listening", "emoji": "👤", "children": [
 { "alias": "nav.home.listening.normalday", "type": "dataset", "label": "Normal Day", "emoji": "💼", "path": "/data/listening/normalday.json" },
@@ -41,6 +44,11 @@
 { "alias": "nav.home.conversation.Pets", "type": "dataset", "label": "Pets", "emoji": "🛒", "path": "/data/conversation/Pets.json" },
 { "alias": "nav.home.conversation.Restaurant", "type": "dataset", "label": "Restaurant", "emoji": "🛒", "path": "/data/conversation/restaurant.json" },
 { "alias": "nav.home.conversation.news", "type": "dataset", "label": "News", "emoji": "🛒", "path": "/data/conversation/news.json" }
+
+] },
+
+{ "alias": "nav.home.uttale", "type": "group", "label": "uttale", "emoji": "👥", "children": [
+{ "alias": "nav.home.uttale.School", "type": "dataset", "label": "uttale", "emoji": "🏫", "path": "/data/uttale/uttale.json" }
 
 ] }
 

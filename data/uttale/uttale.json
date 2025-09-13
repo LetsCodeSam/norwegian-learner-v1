@@ -1,0 +1,29 @@
+{
+  "title": "By, butikker og transport",
+  "meta": { "cefr": "A2", "topic": "City, shops, transport", "tags": ["city", "shops", "transport", "school", "work"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Monolog",
+      "groups": [
+
+    {
+      "title": "Video-1",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1025298100"
+    },
+    {
+      "title": "Video-2",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1022514239"
+    },
+    {
+      "title": "Tall frame",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1100623673",
+      "aspect": 75
+    }
+      ]
+    }
+  ]
+}

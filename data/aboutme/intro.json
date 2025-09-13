@@ -5,7 +5,7 @@
     {
       "kind": "mono",
       "items": [
-        { "no": "Hei! Dette er meg.", "pron": "HEI! DET-te er MEG.", "en": "Hi! This is me." },
+        { "no": "Hei Dette er meg.", "pron": "HEI! DET-te er MEG.", "en": "Hi! This is me." },
         { "no": "Jeg heter Anna.", "pron": "JEG HE-ter AN-na.", "en": "My name is Anna." },
         { "no": "Jeg kommer fra Polen.", "pron": "JEG KOM-mer fra PO-len.", "en": "I come from Poland." },
         { "no": "Jeg vokste opp i en liten by i sør i Polen.", "pron": "JEG VOK-ste OPP i en LI-ten BY i SØR i PO-len.", "en": "I grew up in a small town in the south of Poland." },
