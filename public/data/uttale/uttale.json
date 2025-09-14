@@ -18,10 +18,29 @@
       "url": "https://player.vimeo.com/video/1022514239"
     },
     {
-      "title": "Tall frame",
+      "title": "Video-3",
       "type": "video",
-      "url": "https://player.vimeo.com/video/1100623673",
-      "aspect": 75
+      "url": "https://player.vimeo.com/video/1023749648"
+    },
+    {
+      "title": "Video-4",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1030739286"
+    },
+    {
+      "title": "Video-5",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1030749846"
+    },
+    {
+      "title": "Video-6",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1030751754"
+    },
+    {
+      "title": "Video-7",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1021765908"
     }
       ]
     }
