@@ -10,7 +10,8 @@
     {
       "title": "1-En vanlig dag",
       "type": "video",
-      "url": "https://player.vimeo.com/video/1100313313"
+      "url": "https://player.vimeo.com/video/1100313313",
+      "aspect": "4:3"
     },
     {
       "title": "2-Mat og måltider",
