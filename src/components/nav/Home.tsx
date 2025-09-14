@@ -1,3 +1,4 @@
+// src/components/nav/Home.tsx
 // Enhancements:
 // - Category TABS (dynamic from top-level groups in navigation.json)
 // - Search (handles æ/ø/å via normalizeForSearch)
@@ -23,14 +24,12 @@ type DatasetItem = {
 function collectDatasetsWithCategory(node: any, depth = -1, currentCat = 'Misc'): DatasetItem[] {
   if (!node) return [];
 
-  // If this is a group, decide whether it defines a top-level category
   if (node.type === 'group') {
     const nextCat = depth <= 0 ? (node.label || 'Misc') : currentCat;
     const kids: any[] = node.children || [];
     return kids.flatMap((c) => collectDatasetsWithCategory(c, depth + 1, nextCat));
   }
 
-  // Dataset leaf
   if (node.type === 'dataset') {
     return [{
       alias: node.alias,
@@ -41,13 +40,10 @@ function collectDatasetsWithCategory(node: any, depth = -1, currentCat = 'Misc')
     }];
   }
 
-  // Root or unknown container
   const kids: any[] = node.children || node.tree || [];
   if (Array.isArray(kids)) {
-    // If this node is the implicit "root", depth stays -1 so first groups count as top-level
     return kids.flatMap((c) => collectDatasetsWithCategory(c, depth + 1, currentCat));
   }
-
   return [];
 }
 
@@ -135,23 +131,28 @@ export function Home({ onOpen }: { onOpen: (title: string, path: string) => void
     <div className="max-w-5xl mx-auto p-3 pb-24 space-y-4">
       <h1 className="text-2xl font-semibold">Norsk Learner</h1>
 
-      {/* Category Tabs */}
-      <div className="sticky top-[64px] z-20 bg-gray-100 dark:bg-neutral-900 px-2 py-2 border-b border-gray-200 dark:border-neutral-800">
-        <div className="overflow-x-auto">
-          <div className="flex items-center gap-2 min-w-max">
+      {/* Category Tabs – mobile-safe horizontal scroller */}
+      {/* Category grid – 3 per row on mobile, expands on larger screens */}
+        <div className="px-2" role="tablist" aria-label="Categories">
+          <div className="grid grid-cols-3 gap-2 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8">
             {categories.map((c) => {
               const active = c === cat;
-              const count = c === 'All'
-                ? items.length
-                : (countsByCat.get(c) || 0);
+              const count = c === 'All' ? items.length : (countsByCat.get(c) || 0);
               return (
                 <button
                   key={c}
-                  className={`px-3 py-1.5 rounded-full text-sm border transition-shadow focus:outline-none focus:ring-2 whitespace-nowrap
-                    ${active
-                      ? 'bg-black text-white border-black dark:bg-white dark:text-black dark:border-white shadow'
-                      : 'bg-white dark:bg-neutral-800 text-gray-800 dark:text-gray-200 border-gray-300 dark:border-neutral-700 hover:shadow'}`}
+                  type="button"
+                  title={c}
+                  aria-pressed={active}
                   onClick={() => setCat(c)}
+                  className={[
+                    "w-full px-3 py-1.5 rounded-full border transition-shadow focus:outline-none focus:ring-2",
+                    "text-xs sm:text-sm",           // smaller text on mobile to fit nicely
+                    "truncate",                     // prevent tall chips if a label is long
+                    active
+                      ? "bg-black text-white border-black dark:bg-white dark:text-black dark:border-white shadow"
+                      : "bg-white dark:bg-neutral-800 text-gray-800 dark:text-gray-200 border-gray-300 dark:border-neutral-700 hover:shadow",
+                  ].join(" ")}
                 >
                   {c} <span className="opacity-70">({count})</span>
                 </button>
@@ -159,7 +160,7 @@ export function Home({ onOpen }: { onOpen: (title: string, path: string) => void
             })}
           </div>
         </div>
-      </div>
+
 
       {/* Controls */}
       <div className="flex flex-wrap items-center gap-2">
@@ -185,22 +186,22 @@ export function Home({ onOpen }: { onOpen: (title: string, path: string) => void
       </div>
 
       {/* Grid */}
-        <div className="grid min-w-0 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-          {filtered.map((item) => (
-            <button
-              key={item.alias}
-              className="w-full max-w-full overflow-hidden rounded-2xl border border-gray-300 dark:border-neutral-700 shadow p-3 bg-white dark:bg-neutral-900 text-left hover:shadow-md focus:outline-none focus:ring-2 focus:ring-black"
-              onClick={() => onOpen(item.label, item.path)}
-              title={`${item.category} • ${item.path}`}
-            >
-              <div className="text-2xl mb-1">{item.emoji || '📘'}</div>
-              <div className="font-medium break-words">{item.label}</div>
-              <div className="text-xs text-gray-500 truncate">
-                {item.category}{item.level ? ` • ${item.level}` : ''}
-              </div>
-            </button>
-          ))}
-        </div>
+      <div className="grid min-w-0 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+        {filtered.map((item) => (
+          <button
+            key={item.alias}
+            className="w-full max-w-full overflow-hidden rounded-2xl border border-gray-300 dark:border-neutral-700 shadow p-3 bg-white dark:bg-neutral-900 text-left hover:shadow-md focus:outline-none focus:ring-2 focus:ring-black"
+            onClick={() => onOpen(item.label, item.path)}
+            title={`${item.category} • ${item.path}`}
+          >
+            <div className="text-2xl mb-1">{item.emoji || '📘'}</div>
+            <div className="font-medium break-words">{item.label}</div>
+            <div className="text-xs text-gray-500 truncate">
+              {item.category}{item.level ? ` • ${item.level}` : ''}
+            </div>
+          </button>
+        ))}
+      </div>
 
       {/* Empty state */}
       {filtered.length === 0 && (

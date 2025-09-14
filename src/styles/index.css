@@ -32,3 +32,11 @@ body { @apply bg-gray-100 text-gray-900; }
 /* Optional utility for clearer focus */
 .focus-ring { @apply focus:outline-none focus:ring-2 focus:ring-black focus:ring-offset-2 focus:ring-offset-white; }
 .dark .focus-ring { @apply focus:ring-white focus:ring-offset-neutral-900; }
+
+/* Mobile overflow safety */
+html, body, #root { height: 100%; }
+body { overflow-x: hidden; }
+
+/* Optional: hide scrollbar on the horizontal chip row but keep scrolling */
+.chips-scroll { -ms-overflow-style: none; scrollbar-width: none; }
+.chips-scroll::-webkit-scrollbar { display: none; }
