@@ -71,20 +71,37 @@ function ResponsiveVideo({ src, title, ratio }: VideoData) {
 
 // ---- Existing helpers -----------------------------------------------------
 
+
 function toLines(maybe: any): MonoLine[] {
   if (!maybe) return [];
-  // direct list of lines
+
+  // If it's an array, flatten any nested "model/items/paragraphs/text"
   if (Array.isArray(maybe)) {
-    // strings or objects
-    return (maybe as any[]).map((x) => (typeof x === 'string' ? { no: x } : (x as MonoLine)));
+    const out: MonoLine[] = [];
+    for (const x of maybe) {
+      if (typeof x === 'string') {
+        out.push({ no: x });
+      } else if (x && typeof x === 'object') {
+        if (Array.isArray(x.model)) out.push(...toLines(x.model));
+        else if (Array.isArray(x.items)) out.push(...toLines(x.items));
+        else if (Array.isArray(x.paragraphs)) out.push(...toLines(x.paragraphs));
+        else if (Array.isArray(x.text)) out.push(...toLines(x.text));
+        else if (typeof x.no === 'string') out.push({ no: x.no, pron: x.pron, en: x.en });
+      }
+    }
+    return out;
   }
-  // common variants
+
+  // If it's an object that wraps an array, unwrap it
+  if (Array.isArray(maybe.items?.[0]?.model)) return toLines(maybe.items[0].model);
   if (Array.isArray(maybe.items)) return toLines(maybe.items);
   if (Array.isArray(maybe.model)) return toLines(maybe.model);
   if (Array.isArray(maybe.paragraphs)) return toLines(maybe.paragraphs);
   if (Array.isArray(maybe.text)) return toLines(maybe.text);
+
   return [];
 }
+
 
 function extractGroups(block: any): { title: string; items: MonoLine[]; video?: VideoData }[] {
   if (Array.isArray(block?.groups) && block.groups.length) {
