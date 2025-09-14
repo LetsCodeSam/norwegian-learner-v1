@@ -3,6 +3,12 @@
   "meta": { "cefr": "A2", "topic": "Picture description", "tags": ["summer", "beach", "details", "verb-second"] },
   "blocks": [
     {
+      "kind": "image",
+      "src": "assets/describe/pic-summer.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
       "kind": "mono",
       "title": "Styrt monolog – Beskriv alt du ser",
       "items": [
