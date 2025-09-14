@@ -1,0 +1,101 @@
+{
+  "title": "My Everyday Life",
+  "meta": { "cefr": "A2", "topic": "My Everyday Life", "tags": ["city", "shops", "transport", "school", "work"] },
+  "blocks": [
+    {
+      "kind": "qa_list",
+      "title": "Q & A",
+      "items": [
+        {
+          "noQ": "Hvordan kommer du til skolen og jobben?",
+          "pronQ": "HVOR-dan KOM-mer du til SKO-len og JOB-ben?",
+          "enQ": "How do you get to school and work?",
+          "noA": "Jeg tar bussen til skolen, og jeg sykler til jobben. Hva med deg?",
+          "pronA": "Jeg TAR BUS-sen til SKO-len, og jeg SYK-ler til JOB-ben. Hva med deg?",
+          "enA": "I take the bus to school, and I cycle to work. What about you?"
+        },
+        {
+          "noQ": "Hvilket transportmiddel liker du best?",
+          "pronQ": "HVIL-ket TRAN-sport-mid-del LI-ker du BEST?",
+          "enQ": "What type of transportation do you like best?",
+          "noA": "Jeg liker toget best, for det er raskt og behagelig.",
+          "pronA": "Jeg LI-ker TO-get BEST, for det er RASKT og be-HA-ge-lig.",
+          "enA": "I like the train best because it is fast and comfortable."
+        },
+        {
+          "noQ": "Hva liker du å gjøre når du er i byen?",
+          "pronQ": "Hva LI-ker du å GJØ-re når du er i BY-en?",
+          "enQ": "What do you like to do when you're in town?",
+          "noA": "Jeg liker å gå på kafé og handle klær. Og du?",
+          "pronA": "Jeg LI-ker å gå på ka-FÉ og HAN-dle KLÆR. Og du?",
+          "enA": "I like to go to cafés and shop for clothes. And you?"
+        },
+        {
+          "noQ": "Hvor ofte drar du til byen?",
+          "pronQ": "Hvor OF-te DRAR du til BY-en?",
+          "enQ": "How often do you go to town?",
+          "noA": "Jeg drar til byen to ganger i uka.",
+          "pronA": "Jeg DRAR til BY-en to GANG-er i U-ka.",
+          "enA": "I go to town twice a week."
+        },
+        {
+          "noQ": "Hva kjøper du vanligvis i butikken?",
+          "pronQ": "Hva KJØ-per du VAN-lig-vis i bu-TIK-ken?",
+          "enQ": "What do you usually buy in the shop?",
+          "noA": "Jeg kjøper mat og noen ganger klær.",
+          "pronA": "Jeg KJØ-per MAT og NO-en GAN-ger KLÆR.",
+          "enA": "I buy food and sometimes clothes."
+        }
+      ]
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog – By og transport",
+      "items": [
+        {
+          "no": "Snakk om byen, butikker og transport.",
+          "pron": "SNAKK om BY-en, bu-TIK-ker og TRAN-sport.",
+          "en": "Talk about the city, shops and transport.",
+          "model": [
+            { "no": "Hei! Jeg heter Anna, og jeg vil fortelle om hverdagen min.", "pron": "HEI! JEG HE-ter AN-na, og JEG vil for-TEL-le om HVER-da-gen MIN.", "en": "Hi! My name is Anna, and I want to talk about my everyday life." },
+            { "no": "En vanlig dag står jeg opp klokken sju.", "pron": "EN VAN-lig DAG STÅR JEG OPP KLOK-ken SJU.", "en": "On a normal day I get up at seven o’clock." },
+            { "no": "Om morgenen dusjer jeg og kler på meg.", "pron": "OM MOR-ge-nen DUSJ-er JEG og KLER PÅ MEG.", "en": "In the morning I take a shower and get dressed." },
+            { "no": "Jeg spiser frokost og drikker kaffe.", "pron": "JEG SPI-ser FRO-kost og DRIK-ker KAF-fe.", "en": "I eat breakfast and drink coffee." },
+            { "no": "Etterpå går jeg til jobb.", "pron": "ET-ter-på GÅR JEG til JOBB.", "en": "After that I go to work." },
+            { "no": "Jeg jobber på en restaurant i sentrum.", "pron": "JEG JOB-ber på en RES-tau-rant i SEN-trum.", "en": "I work at a restaurant in the city center." },
+            { "no": "Arbeidsdagen starter klokken ni.", "pron": "AR-beids-DA-gen STAR-ter KLOK-ken NI.", "en": "The workday starts at nine o’clock." },
+            { "no": "Jeg serverer mat og snakker med kunder.", "pron": "JEG SER-ve-rer MAT og SNAK-ker med KUN-der.", "en": "I serve food and talk with customers." },
+            { "no": "Jeg spiser lunsj rundt klokken tolv.", "pron": "JEG SPI-ser LUNSJ RUNDt KLOK-ken TOLV.", "en": "I eat lunch around twelve o’clock." },
+            { "no": "Jeg jobber til klokken fem.", "pron": "JEG JOB-ber til KLOK-ken FEM.", "en": "I work until five o’clock." },
+            { "no": "Om ettermiddagen drar jeg hjem.", "pron": "OM ET-ter-mid-da-gen DRAR JEG HJEM.", "en": "In the afternoon I go home." },
+            { "no": "Når jeg kommer hjem, lager jeg middag.", "pron": "NÅR JEG KOM-mer HJEM, LA-ger JEG MID-dag.", "en": "When I get home, I make dinner." },
+            { "no": "Jeg spiser middag sammen med vennen min.", "pron": "JEG SPI-ser MID-dag SAM-men med VEN-nen MIN.", "en": "I eat dinner with my friend." },
+            { "no": "Om kvelden liker jeg å lese en bok.", "pron": "OM KVEL-den LI-ker JEG å LE-se en BOK.", "en": "In the evening I like to read a book." },
+            { "no": "Noen ganger ser jeg på TV eller en film.", "pron": "NO-en GAN-ger SER JEG på TE-VE el-ler en FILM.", "en": "Sometimes I watch TV or a movie." },
+            { "no": "Jeg liker å ringe familien min i hjemlandet.", "pron": "JEG LI-ker å RIN-ge FA-mi-li-en MIN i HJEM-lan-det.", "en": "I like to call my family in my home country." },
+            { "no": "Noen kvelder møter jeg venner på kafé.", "pron": "NO-en KVEL-der MØ-ter JEG VEN-ner på ka-FÉ.", "en": "Some evenings I meet friends at a café." },
+            { "no": "Jeg trener også to ganger i uka.", "pron": "JEG TRE-ner ÅG-so TO GAN-ger i U-ka.", "en": "I also exercise twice a week." },
+            { "no": "Da jeg bodde i hjemlandet mitt, hadde jeg en lignende hverdag.", "pron": "DA JEG BOD-de i HJEM-lan-det MITT, HAD-de JEG en LIGN-en-de HVER-dag.", "en": "When I lived in my home country, I had a similar everyday life." },
+            { "no": "Jeg stod opp tidlig og gikk på skole.", "pron": "JEG STOD OPP TID-lig og GIKK på SKO-le.", "en": "I got up early and went to school." },
+            { "no": "Etter skolen gjorde jeg lekser.", "pron": "ET-ter SKO-len GJOR-de JEG LEKS-er.", "en": "After school I did homework." },
+            { "no": "Jeg spilte også fotball med venner.", "pron": "JEG SPIL-te ÅG-so FOT-ball med VEN-ner.", "en": "I also played football with friends." },
+            { "no": "Jeg synes hverdagen i Norge er travel, men bra.", "pron": "JEG SYN-es HVER-da-gen i NOR-ge er TRA-vel, MEN BRA.", "en": "I think everyday life in Norway is busy, but good." },
+            { "no": "Jeg vil si at rutiner gjør livet lettere.", "pron": "JEG vil SI at RU-ti-ner GJØR LI-vet LET-te-re.", "en": "I would say routines make life easier." },
+            { "no": "Det var alt jeg kan si om hverdagen min.", "pron": "DET var ALT JEG kan SI om HVER-da-gen MIN.", "en": "That was all I can say about my everyday life." }
+]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf":"å dra","inf_pron":"å DRA","inf_en":"to go/leave","pres":"drar","pres_pron":"DRAR","pres_en":"go","pret":"dro","pret_pron":"DRO","pret_en":"went","perf":"har dratt","perf_pron":"har DRATT","perf_en":"has/have gone","fut":"skal dra","fut_pron":"skal DRA","fut_en":"will go","notes":"⚠ irregular" },
+        { "inf":"å kjøre","inf_pron":"å KJØ-re","inf_en":"to drive","pres":"kjører","pres_pron":"KJØ-rer","pres_en":"drive","pret":"kjørte","pret_pron":"KJØR-te","pret_en":"drove","perf":"har kjørt","perf_pron":"har KJØRT","perf_en":"has/have driven","fut":"skal kjøre","fut_pron":"skal KJØ-re","fut_en":"will drive","notes":"" },
+        { "inf":"å sykle","inf_pron":"å SYK-le","inf_en":"to cycle","pres":"sykler","pres_pron":"SYK-ler","pres_en":"cycle","pret":"syklet","pret_pron":"SYK-let","pret_en":"cycled","perf":"har syklet","perf_pron":"har SYK-let","perf_en":"has/have cycled","fut":"skal sykle","fut_pron":"skal SYK-le","fut_en":"will cycle","notes":"" },
+        { "inf":"å handle","inf_pron":"å HAN-dle","inf_en":"to shop","pres":"handler","pres_pron":"HAN-dler","pres_en":"shop","pret":"handlet","pret_pron":"HAN-dlet","pret_en":"shopped","perf":"har handlet","perf_pron":"har HAN-dlet","perf_en":"has/have shopped","fut":"skal handle","fut_pron":"skal HAN-dle","fut_en":"will shop","notes":"" },
+        { "inf":"å møte","inf_pron":"å MØ-te","inf_en":"to meet","pres":"møter","pres_pron":"MØ-ter","pres_en":"meet","pret":"møtte","pret_pron":"MØT-te","pret_en":"met","perf":"har møtt","perf_pron":"har MØTT","perf_en":"has/have met","fut":"skal møte","fut_pron":"skal MØ-te","fut_en":"will meet","notes":"" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Breakfast",
+  "meta": { "cefr": "A2", "topic": "Breakfast", "tags": ["Breakfast", "counter side", "village"] },
+  "blocks": [
+    {
+      "kind": "image",
+      "src": "assets/describe/pic-landet.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Beskriv bildet fra 17. mai.",
+          "pron": "be-SKRIV BIL-det fra søtt-ende mai",
+          "en": "Describe the picture from May 17th.",
+          "model": [
+            { "no": "På bildet ser jeg en familie som spiser frokost sammen.", "pron": "PÅ BIL-det SER JEG en FA-mi-lie som SPI-ser FRO-kost SAM-men.", "en": "In the picture I see a family eating breakfast together." },
+            { "no": "Til venstre sitter en mor ved bordet.", "pron": "TIL VEN-stre SIT-ter en MOR ved BOR-det.", "en": "On the left a mother sits at the table." },
+            { "no": "Hun smører brødskiver til barna.", "pron": "HUN SMØR-er BRØD-ski-ver til BAR-na.", "en": "She spreads bread slices for the children." },
+            { "no": "Ved siden av henne sitter en liten gutt.", "pron": "VED SI-den av HEN-ne SIT-ter en LI-ten GUTT.", "en": "Next to her sits a little boy." },
+            { "no": "Han drikker melk fra et glass.", "pron": "HAN DRIK-ker MELK fra et GLASS.", "en": "He drinks milk from a glass." },
+            { "no": "På midten sitter en far i skjorte.", "pron": "PÅ MID-ten SIT-ter en FAR i SKJOR-te.", "en": "In the middle sits a father in a shirt." },
+            { "no": "Han leser avisen mens han spiser.", "pron": "HAN LE-ser a-VIS-en MENS HAN SPI-ser.", "en": "He reads the newspaper while he eats." },
+            { "no": "Ved siden av ham sitter en jente.", "pron": "VED SI-den av HAM SIT-ter en JEN-te.", "en": "Next to him sits a girl." },
+            { "no": "Hun spiser frokostblanding fra en skål.", "pron": "HUN SPI-ser FRO-kost-blan-ding fra en SKÅL.", "en": "She eats cereal from a bowl." },
+            { "no": "Til høyre står en tenåring med en ryggsekk.", "pron": "TIL HØY-re STÅR en TEN-år-ing med en RYGG-sekk.", "en": "On the right stands a teenager with a backpack." },
+            { "no": "Han gjør seg klar til å dra på skolen.", "pron": "HAN GJØR SEG KLAR til å DRA på SKO-len.", "en": "He is getting ready to go to school." },
+            { "no": "Foran bordet ligger en hund på gulvet.", "pron": "FO-ran BOR-det LIG-ger en HUND på GUL-vet.", "en": "In front of the table a dog lies on the floor." },
+            { "no": "Hunden ser opp på maten.", "pron": "HUND-en SER OPP på MA-ten.", "en": "The dog looks up at the food." },
+            { "no": "På bordet er det mange ting.", "pron": "PÅ BOR-det er det MAN-ge TING.", "en": "On the table there are many things." },
+            { "no": "Jeg ser brød, ost, syltetøy og smør.", "pron": "JEG SER BRØD, OST, SYL-te-tøy og SMØR.", "en": "I see bread, cheese, jam and butter." },
+            { "no": "Det står også juice og melk på bordet.", "pron": "DET STÅR ÅG-so JUICE og MELK på BOR-det.", "en": "There is also juice and milk on the table." },
+            { "no": "Bak familien henger et stort bilde på veggen.", "pron": "BAK FA-mi-li-en HENG-er et STORT BIL-de på VEG-gen.", "en": "Behind the family hangs a large picture on the wall." },
+            { "no": "Ved vinduet står en plante i en potte.", "pron": "VED VIN-du-et STÅR en PLAN-te i en POT-te.", "en": "By the window stands a plant in a pot." },
+            { "no": "Sola skinner inn gjennom vinduet.", "pron": "SO-la SKIN-ner INN GJEN-nom VIN-du-et.", "en": "The sun shines in through the window." },
+            { "no": "På kjøkkenbenken bak ser jeg en kaffetrakter.", "pron": "PÅ KJØK-ken-ben-ken BAK SER JEG en KAF-fe-trak-ter.", "en": "On the kitchen counter in the back I see a coffee maker." },
+            { "no": "Ved siden av den står en skål med frukt.", "pron": "VED SI-den av DEN STÅR en SKÅL med FRUKT.", "en": "Next to it stands a bowl of fruit." },
+            { "no": "Det er bananer, epler og appelsiner i skålen.", "pron": "DET er ba-NA-ner, EP-ler og ap-pel-SI-ner i SKÅ-len.", "en": "There are bananas, apples and oranges in the bowl." },
+            { "no": "Jeg ser at alle er opptatt med morgenrutiner.", "pron": "JEG SER at AL-le er OPP-tatt med MOR-gen-ru-ti-ner.", "en": "I see that everyone is busy with morning routines." },
+            { "no": "Jeg synes bildet viser en koselig frokost med familien.", "pron": "JEG SYN-es BIL-det VI-ser en KO-se-lig FRO-kost med FA-mi-li-en.", "en": "I think the picture shows a cozy breakfast with the family." },
+            { "no": "Det var alt jeg kan si om dette bildet.", "pron": "DET var ALT JEG kan SI om DET-te BIL-det.", "en": "That was all I can say about this picture." }
+            ]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf": "å spise", "inf_pron": "å SPI-se", "inf_en": "to eat", "pres": "spiser", "pres_pron": "SPI-ser", "pres_en": "eats", "pret": "spiste", "pret_pron": "SPIS-te", "pret_en": "ate", "perf": "har spist", "perf_pron": "har SPIST", "perf_en": "has eaten", "fut": "skal spise", "fut_pron": "skal SPI-se", "fut_en": "will eat", "notes": "" },
+        { "inf": "å lese", "inf_pron": "å LE-se", "inf_en": "to read", "pres": "leser", "pres_pron": "LE-ser", "pres_en": "reads", "pret": "leste", "pret_pron": "LES-te", "pret_en": "read", "perf": "har lest", "perf_pron": "har LEST", "perf_en": "has read", "fut": "skal lese", "fut_pron": "skal LE-se", "fut_en": "will read", "notes": "" },
+        { "inf": "å pusse", "inf_pron": "å PUS-se", "inf_en": "to brush", "pres": "pusser", "pres_pron": "PUS-ser", "pres_en": "brushes", "pret": "pusset", "pret_pron": "PUS-set", "pret_en": "brushed", "perf": "har pusset", "perf_pron": "har PUS-set", "perf_en": "has brushed", "fut": "skal pusse", "fut_pron": "skal PUS-se", "fut_en": "will brush", "notes": "" },
+        { "inf": "å smøre", "inf_pron": "å SMØ-re", "inf_en": "to spread", "pres": "smører", "pres_pron": "SMØ-rer", "pres_en": "spreads", "pret": "smurte", "pret_pron": "SMUR-te", "pret_en": "spread", "perf": "har smurt", "perf_pron": "har SMURT", "perf_en": "has spread", "fut": "skal smøre", "fut_pron": "skal SMØ-re", "fut_en": "will spread", "notes": "irreg." },
+        { "inf": "å drikke", "inf_pron": "å DRIK-ke", "inf_en": "to drink", "pres": "drikker", "pres_pron": "DRIK-ker", "pres_en": "drinks", "pret": "drakk", "pret_pron": "DRAKK", "pret_en": "drank", "perf": "har drukket", "perf_pron": "har DRUK-ket", "perf_en": "has drunk", "fut": "skal drikke", "fut_pron": "skal DRIK-ke", "fut_en": "will drink", "notes": "irreg." },
+        { "inf": "å rydde", "inf_pron": "å RYD-de", "inf_en": "to tidy/clean", "pres": "rydder", "pres_pron": "RYD-der", "pres_en": "tidies", "pret": "ryddet", "pret_pron": "RYD-det", "pret_en": "tidied", "perf": "har ryddet", "perf_pron": "har RYD-det", "perf_en": "has tidied", "fut": "skal rydde", "fut_pron": "skal RYD-de", "fut_en": "will tidy", "notes": "" }
+        ]
+    }
+  ]
+}

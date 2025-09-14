@@ -2,26 +2,50 @@
 "tree": [
 { "alias": "nav.home", "route": "#home", "type": "route", "label": "Home", "emoji": "🏠", "children": [
 
+ {"alias": "nav.home.aboutme", "type": "group", "label": "About Me", "emoji": "👤", "children": [    
+ {"alias": "nav.home.aboutme.intro", "type": "dataset", "label": "Introduction", "emoji": "💼", "path": "/data/aboutme/intro.json"},
+  {"alias": "nav.home.aboutme.weather", "type": "dataset", "label": "Weather", "emoji": "💼", "path": "/data/aboutme/weather.json"}
+]},   
 
 { "alias": "nav.home.listening", "type": "group", "label": "Listening", "emoji": "👤", "children": [
 { "alias": "nav.home.listening.normalday", "type": "dataset", "label": "Normal Day", "emoji": "💼", "path": "/data/listening/normalday.json" },
-{ "alias": "nav.home.listening.city", "type": "dataset", "label": "City", "emoji": "💼", "path": "/data/listening/city.json" }
+{ "alias": "nav.home.listening.city", "type": "dataset", "label": "City", "emoji": "💼", "path": "/data/listening/city.json" },
+{ "alias": "nav.home.listening.FamilyFriends", "type": "dataset", "label": "Family & Friends", "emoji": "💼", "path": "/data/listening/familyfriends.json"},
+{ "alias": "nav.home.listening.leisurehobbies", "type": "dataset", "label": "Leisure & Hobbies", "emoji": "💼", "path": "/data/listening/leisurehobbies.json"},
+{ "alias": "nav.home.listening.describingperson", "type": "dataset", "label": "Describing a Person", "emoji": "💼", "path": "/data/listening/describingperson.json" },
+{ "alias": "nav.home.listening.everydaylife", "type": "dataset", "label": "Everyday Life", "emoji": "💼", "path": "/data/listening/everdaylife.json" },
+{ "alias": "nav.home.listening.temp", "type": "dataset", "label": "Temp", "emoji": "💼", "path": "/data/listening/temp.json" }
 ] },
 
 
 { "alias": "nav.home.describe", "type": "group", "label": "Picture", "emoji": "🖼️", "children": [
-{ "alias": "nav.home.describe.winter", "type": "dataset", "label": "Winter", "emoji": "🏞️", "path": "/data/describe/mai.json" },  
-
 { "alias": "nav.home.describe.park", "type": "group", "label": "Park Scene", "emoji": "🧍", "children": [
 { "alias": "nav.home.describe.park.exercise", "type": "dataset", "label": "Exercise", "emoji": "📚", "path": "/data/describe/mai.json" }
 ] },
 
-{ "alias": "nav.home.describe.Mai", "type": "dataset", "label": "Mai 17", "emoji": "🏙️", "path": "/data/describe/mai.json" }
+{ "alias": "nav.home.describe.Mai", "type": "dataset", "label": "Mai 17", "emoji": "🏙️", "path": "/data/describe/mai.json" },
+{ "alias": "nav.home.describe.Summer", "type": "dataset", "label": "Summer", "emoji": "🏙️", "path": "/data/describe/summer.json" },
+{ "alias": "nav.home.describe.sykehus", "type": "dataset", "label": "sykehus", "emoji": "🏙️", "path": "/data/describe/sykehus.json" },
+{ "alias": "nav.home.describe.halloween", "type": "dataset", "label": "halloween", "emoji": "🏙️", "path": "/data/describe/halloween.json" },
+{ "alias": "nav.home.describe.Kontoret", "type": "dataset", "label": "Kontoret", "emoji": "🏙️", "path": "/data/describe/Kontoret.json" },
+{ "alias": "nav.home.describe.winter", "type": "dataset", "label": "winter", "emoji": "🏙️", "path": "/data/describe/winter.json" },
+{ "alias": "nav.home.describe.farm", "type": "dataset", "label": "farm", "emoji": "🏙️", "path": "/data/describe/farm.json" },
+{ "alias": "nav.home.describe.city", "type": "dataset", "label": "city", "emoji": "🏙️", "path": "/data/describe/city.json" },
+{ "alias": "nav.home.describe.park", "type": "dataset", "label": "park", "emoji": "🏙️", "path": "/data/describe/park.json" }
 ] },
 
 { "alias": "nav.home.conversation", "type": "group", "label": "Conversation", "emoji": "👥", "children": [
 { "alias": "nav.home.conversation.School", "type": "dataset", "label": "School", "emoji": "🏫", "path": "/data/conversation/school.json" },
-{ "alias": "nav.home.conversation.Sports", "type": "dataset", "label": "Sports", "emoji": "🛒", "path": "/data/conversation/sports.json" }
+{ "alias": "nav.home.conversation.Sports", "type": "dataset", "label": "Sports", "emoji": "🛒", "path": "/data/conversation/sports.json" },
+{ "alias": "nav.home.conversation.Pets", "type": "dataset", "label": "Pets", "emoji": "🛒", "path": "/data/conversation/Pets.json" },
+{ "alias": "nav.home.conversation.Restaurant", "type": "dataset", "label": "Restaurant", "emoji": "🛒", "path": "/data/conversation/restaurant.json" },
+{ "alias": "nav.home.conversation.news", "type": "dataset", "label": "News", "emoji": "🛒", "path": "/data/conversation/news.json" }
+
+] },
+
+{ "alias": "nav.home.uttale", "type": "group", "label": "uttale", "emoji": "👥", "children": [
+{ "alias": "nav.home.uttale.School", "type": "dataset", "label": "uttale", "emoji": "🏫", "path": "/data/uttale/uttale.json" }
+
 ] }
 
 

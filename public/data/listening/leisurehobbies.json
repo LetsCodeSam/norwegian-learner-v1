@@ -1,0 +1,101 @@
+{
+  "title": "Leisure and Hobbies",
+  "meta": { "cefr": "A2", "topic": "City, shops, transport", "tags": ["city", "shops", "transport", "school", "work"] },
+  "blocks": [
+    {
+      "kind": "qa_list",
+      "title": "Q & A",
+      "items": [
+        {
+          "noQ": "Hvordan kommer du til skolen og jobben?",
+          "pronQ": "HVOR-dan KOM-mer du til SKO-len og JOB-ben?",
+          "enQ": "How do you get to school and work?",
+          "noA": "Jeg tar bussen til skolen, og jeg sykler til jobben. Hva med deg?",
+          "pronA": "Jeg TAR BUS-sen til SKO-len, og jeg SYK-ler til JOB-ben. Hva med deg?",
+          "enA": "I take the bus to school, and I cycle to work. What about you?"
+        },
+        {
+          "noQ": "Hvilket transportmiddel liker du best?",
+          "pronQ": "HVIL-ket TRAN-sport-mid-del LI-ker du BEST?",
+          "enQ": "What type of transportation do you like best?",
+          "noA": "Jeg liker toget best, for det er raskt og behagelig.",
+          "pronA": "Jeg LI-ker TO-get BEST, for det er RASKT og be-HA-ge-lig.",
+          "enA": "I like the train best because it is fast and comfortable."
+        },
+        {
+          "noQ": "Hva liker du å gjøre når du er i byen?",
+          "pronQ": "Hva LI-ker du å GJØ-re når du er i BY-en?",
+          "enQ": "What do you like to do when you're in town?",
+          "noA": "Jeg liker å gå på kafé og handle klær. Og du?",
+          "pronA": "Jeg LI-ker å gå på ka-FÉ og HAN-dle KLÆR. Og du?",
+          "enA": "I like to go to cafés and shop for clothes. And you?"
+        },
+        {
+          "noQ": "Hvor ofte drar du til byen?",
+          "pronQ": "Hvor OF-te DRAR du til BY-en?",
+          "enQ": "How often do you go to town?",
+          "noA": "Jeg drar til byen to ganger i uka.",
+          "pronA": "Jeg DRAR til BY-en to GANG-er i U-ka.",
+          "enA": "I go to town twice a week."
+        },
+        {
+          "noQ": "Hva kjøper du vanligvis i butikken?",
+          "pronQ": "Hva KJØ-per du VAN-lig-vis i bu-TIK-ken?",
+          "enQ": "What do you usually buy in the shop?",
+          "noA": "Jeg kjøper mat og noen ganger klær.",
+          "pronA": "Jeg KJØ-per MAT og NO-en GAN-ger KLÆR.",
+          "enA": "I buy food and sometimes clothes."
+        }
+      ]
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog – By og transport",
+      "items": [
+        {
+          "no": "Snakk om byen, butikker og transport.",
+          "pron": "SNAKK om BY-en, bu-TIK-ker og TRAN-sport.",
+          "en": "Talk about the city, shops and transport.",
+          "model": [
+            { "no": "Hei! Jeg heter Anna, og jeg vil fortelle om fritid og hobbyer.", "pron": "HEI! JEG HE-ter AN-na, og JEG vil for-TEL-le om FRI-tid og HOB-by-er.", "en": "Hi! My name is Anna, and I want to talk about leisure and hobbies." },
+            { "no": "I fritiden liker jeg å lese bøker.", "pron": "I FRI-ti-den LI-ker JEG å LE-se BØ-ker.", "en": "In my free time I like to read books." },
+            { "no": "Jeg liker å lese fordi det gjør meg rolig.", "pron": "JEG LI-ker å LE-se fo-DI det GJØR MEG RO-lig.", "en": "I like to read because it makes me calm." },
+            { "no": "Jeg liker også å spille gitar.", "pron": "JEG LI-ker ÅG-so å SPIL-le gi-TAR.", "en": "I also like to play guitar." },
+            { "no": "Musikk gjør meg glad og kreativ.", "pron": "MU-sikk GJØR MEG GLAD og kre-a-TIV.", "en": "Music makes me happy and creative." },
+            { "no": "Noen ganger tegner eller maler jeg.", "pron": "NO-en GAN-ger TEG-ner el-ler MA-ler JEG.", "en": "Sometimes I draw or paint." },
+            { "no": "Jeg synes maling er en spennende hobby.", "pron": "JEG SYN-es MA-ling er en SPEN-nen-de HOB-by.", "en": "I think painting is an exciting hobby." },
+            { "no": "I hjemlandet mitt er sport en vanlig hobby.", "pron": "I HJEM-lan-det MITT er SPORT en VAN-lig HOB-by.", "en": "In my home country, sports are a common hobby." },
+            { "no": "Mange liker å spille fotball.", "pron": "MAN-ge LI-ker å SPIL-le FOT-ball.", "en": "Many like to play football." },
+            { "no": "Noen driver også med svømming eller sykling.", "pron": "NO-en DRI-ver ÅG-so med SVØM-ming el-ler SYK-ling.", "en": "Some also do swimming or cycling." },
+            { "no": "Da jeg var liten, spilte jeg ofte fotball med venner.", "pron": "DA JEG var LI-ten, SPIL-te JEG OF-te FOT-ball med VEN-ner.", "en": "When I was little, I often played football with friends." },
+            { "no": "Jeg husker at vi hadde små turneringer.", "pron": "JEG HUS-ker at VI HAD-de SMÅ tur-ne-RING-er.", "en": "I remember that we had small tournaments." },
+            { "no": "Jeg vil gjerne lære mer om fotografering.", "pron": "JEG vil JÆR-ne LÆ-re MER om FO-to-gra-FE-ring.", "en": "I would like to learn more about photography." },
+            { "no": "Jeg synes det er spennende å ta bilder av naturen.", "pron": "JEG SYN-es det er SPEN-nen-de å ta BIL-der av NA-tu-ren.", "en": "I think it is exciting to take pictures of nature." },
+            { "no": "Jeg vil også lære mer om dans.", "pron": "JEG vil ÅG-so LÆ-re MER om DANS.", "en": "I also want to learn more about dance." },
+            { "no": "Dans ser morsomt og sosialt ut.", "pron": "DANS SER MOR-somt og so-si-ALT ut.", "en": "Dance looks fun and social." },
+            { "no": "Jeg liker hobbyer fordi de gir meg energi.", "pron": "JEG LI-ker HOB-by-er fo-DI de GIR MEG e-ner-GI.", "en": "I like hobbies because they give me energy." },
+            { "no": "Jeg tror alle trenger fritid.", "pron": "JEG TROR AL-le TREN-ger FRI-tid.", "en": "I think everyone needs free time." },
+            { "no": "Jeg vil si at fritid og hobbyer gjør livet bedre.", "pron": "JEG vil SI at FRI-tid og HOB-by-er GJØR LI-vet BED-re.", "en": "I would say that leisure and hobbies make life better." },
+            { "no": "Jeg er glad for at jeg har tid til hobbyene mine.", "pron": "JEG er GLAD for at JEG har TID til HOB-by-e-ne MI-ne.", "en": "I am happy that I have time for my hobbies." },
+            { "no": "Jeg har venner som også har mange hobbyer.", "pron": "JEG har VEN-ner som ÅG-so har MAN-ge HOB-by-er.", "en": "I have friends who also have many hobbies." },
+            { "no": "Vi deler erfaringer og lærer av hverandre.", "pron": "VI DE-ler er-FA-ring-er og LÆR-er av hver-AN-dre.", "en": "We share experiences and learn from each other." },
+            { "no": "Jeg synes det er inspirerende å høre om andres hobbyer.", "pron": "JEG SYN-es det er in-spi-re-REN-de å HØ-re om AN-dres HOB-by-er.", "en": "I think it is inspiring to hear about other people’s hobbies." },
+            { "no": "Jeg vil fortsette å prøve nye aktiviteter.", "pron": "JEG vil for-SET-te å PRØ-ve NY-e ak-ti-vi-TE-ter.", "en": "I want to continue to try new activities." },
+            { "no": "Det var alt jeg kan si om fritid og hobbyer.", "pron": "DET var ALT JEG kan SI om FRI-tid og HOB-by-er.", "en": "That was all I can say about leisure and hobbies." }
+            ]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf":"å dra","inf_pron":"å DRA","inf_en":"to go/leave","pres":"drar","pres_pron":"DRAR","pres_en":"go","pret":"dro","pret_pron":"DRO","pret_en":"went","perf":"har dratt","perf_pron":"har DRATT","perf_en":"has/have gone","fut":"skal dra","fut_pron":"skal DRA","fut_en":"will go","notes":"⚠ irregular" },
+        { "inf":"å kjøre","inf_pron":"å KJØ-re","inf_en":"to drive","pres":"kjører","pres_pron":"KJØ-rer","pres_en":"drive","pret":"kjørte","pret_pron":"KJØR-te","pret_en":"drove","perf":"har kjørt","perf_pron":"har KJØRT","perf_en":"has/have driven","fut":"skal kjøre","fut_pron":"skal KJØ-re","fut_en":"will drive","notes":"" },
+        { "inf":"å sykle","inf_pron":"å SYK-le","inf_en":"to cycle","pres":"sykler","pres_pron":"SYK-ler","pres_en":"cycle","pret":"syklet","pret_pron":"SYK-let","pret_en":"cycled","perf":"har syklet","perf_pron":"har SYK-let","perf_en":"has/have cycled","fut":"skal sykle","fut_pron":"skal SYK-le","fut_en":"will cycle","notes":"" },
+        { "inf":"å handle","inf_pron":"å HAN-dle","inf_en":"to shop","pres":"handler","pres_pron":"HAN-dler","pres_en":"shop","pret":"handlet","pret_pron":"HAN-dlet","pret_en":"shopped","perf":"har handlet","perf_pron":"har HAN-dlet","perf_en":"has/have shopped","fut":"skal handle","fut_pron":"skal HAN-dle","fut_en":"will shop","notes":"" },
+        { "inf":"å møte","inf_pron":"å MØ-te","inf_en":"to meet","pres":"møter","pres_pron":"MØ-ter","pres_en":"meet","pret":"møtte","pret_pron":"MØT-te","pret_en":"met","perf":"har møtt","perf_pron":"har MØTT","perf_en":"has/have met","fut":"skal møte","fut_pron":"skal MØ-te","fut_en":"will meet","notes":"" }
+      ]
+    }
+  ]
+}

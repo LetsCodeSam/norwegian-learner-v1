@@ -1,0 +1,82 @@
+{
+  "title": "På Landet",
+  "meta": { "cefr": "A2", "topic": "På Landet", "tags": ["farm", "counter side", "village"] },
+  "blocks": [
+    {
+      "kind": "image",
+      "src": "assets/describe/pic-landet.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Beskriv bildet fra 17. mai.",
+          "pron": "be-SKRIV BIL-det fra søtt-ende mai",
+          "en": "Describe the picture from May 17th.",
+          "model": [
+            { "no": "På bildet ser jeg en vinterdag med snø overalt.", "pron": "PÅ BIL-det SER JEG en VIN-ter-dag med SNØ O-ver-ALT.", "en": "In the picture I see a winter day with snow everywhere." },
+            { "no": "Til venstre går et barn med rød lue og blå jakke.", "pron": "TIL VEN-stre GÅR et BARN med RØD LUE og BLÅ JAK-ke.", "en": "On the left a child walks with a red hat and blue jacket." },
+            { "no": "Barnet holder en slede i hånden.", "pron": "BAR-net HOL-der en SLE-de i HÅN-den.", "en": "The child is holding a sled in the hand." },
+            { "no": "Ved siden av barnet står en hund i snøen.", "pron": "VED SI-den av BAR-net STÅR en HUND i SNØ-en.", "en": "Next to the child stands a dog in the snow." },
+            { "no": "I midten renner en bakke full av barn som aker.", "pron": "I MID-ten REN-ner en BAK-ke FULL av BARN som A-ker.", "en": "In the middle there is a slope full of children sledding." },
+            { "no": "En gutt i grønn jakke aker raskt ned bakken.", "pron": "EN GUTT i GRØNN JAK-ke A-ker RASKT NED BAK-ken.", "en": "A boy in a green jacket sleds quickly down the slope." },
+            { "no": "Bak ham kommer en jente i rosa dress med stor fart.", "pron": "BAK HAM KOM-mer en JEN-te i RO-sa DRESS med STOR FART.", "en": "Behind him comes a girl in a pink suit with great speed." },
+            { "no": "Foran bakken står en mann og ser på barna.", "pron": "FO-ran BAK-ken STÅR en MANN og SER på BAR-na.", "en": "In front of the slope stands a man watching the children." },
+            { "no": "Han har svart lue og holder et kamera.", "pron": "HAN har SVART LUE og HOL-der et KA-me-ra.", "en": "He has a black hat and holds a camera." },
+            { "no": "Til høyre går en kvinne med barnevogn på stien.", "pron": "TIL HØY-re GÅR en KVIN-ne med BARN-e-vogn på STI-en.", "en": "On the right a woman walks with a stroller on the path." },
+            { "no": "Hun har på seg en lang brun kåpe.", "pron": "HUN har på SEG en LANG BRUN KÅ-pe.", "en": "She is wearing a long brown coat." },
+            { "no": "Bak henne går et lite barn i gul jakke.", "pron": "BAK HEN-ne GÅR et LI-te BARN i GUL JAK-ke.", "en": "Behind her walks a small child in a yellow jacket." },
+            { "no": "Lenger bak ser jeg en gruppe mennesker som går på ski.", "pron": "LENG-er BAK SER JEG en GRUP-pe MEN-nes-ker som GÅR på SKI.", "en": "Further back I see a group of people skiing." },
+            { "no": "En mann i blå jakke holder staver og går på langrenn.", "pron": "EN MANN i BLÅ JAK-ke HOL-der STA-ver og GÅR på LANG-renn.", "en": "A man in a blue jacket holds poles and goes cross-country skiing." },
+            { "no": "Ved siden av ham går en kvinne i hvit jakke også på ski.", "pron": "VED SI-den av HAM GÅR en KVIN-ne i HVIT JAK-ke ÅG-so på SKI.", "en": "Next to him a woman in a white jacket also goes skiing." },
+            { "no": "I bakgrunnen står høye grantrær fulle av snø.", "pron": "I BAK-grun-nen STÅR HØY-e GRAN-trær FUL-le av SNØ.", "en": "In the background stand tall spruce trees full of snow." },
+            { "no": "Mellom trærne ser jeg et lite rødt hus.", "pron": "MEL-lom TRÆR-ne SER JEG et LI-te RØDT HUS.", "en": "Between the trees I see a small red house." },
+            { "no": "På taket ligger det mye snø.", "pron": "PÅ TA-ket LIG-ger det MY-e SNØ.", "en": "On the roof lies a lot of snow." },
+            { "no": "Foran huset står en snømann med gul skjerf.", "pron": "FO-ran HUS-et STÅR en SNØ-mann med GUL SKJERF.", "en": "In front of the house stands a snowman with a yellow scarf." },
+            { "no": "Snømannen har gulrot som nese og kull som øyne.", "pron": "SNØ-man-nen har GUL-rot som NE-se og KULL som ØY-ne.", "en": "The snowman has a carrot as a nose and coal as eyes." },
+            { "no": "Ved siden av snømannen leker to barn med snøballer.", "pron": "VED SI-den av SNØ-man-nen LE-ker TO BARN med SNØ-bal-ler.", "en": "Next to the snowman two children play with snowballs." },
+            { "no": "Et barn kaster en snøball mot et annet.", "pron": "ET BARN KAS-ter en SNØ-ball MOT et AN-net.", "en": "One child throws a snowball at another." },
+            { "no": "På himmelen flyr noen fugler over trærne.", "pron": "PÅ HIM-mel-en FLYR NO-en FUG-ler O-ver TRÆR-ne.", "en": "In the sky some birds fly over the trees." },
+            { "no": "Jeg ser mange aktiviteter som gjør vinteren livlig.", "pron": "JEG SER MAN-ge ak-ti-vi-TE-ter som GJØR VIN-ter-en LIV-lig.", "en": "I see many activities that make the winter lively." },
+            { "no": "Jeg synes bildet viser en hyggelig vinterdag for både barn og voksne.", "pron": "JEG SYN-es BIL-det VI-ser en HYG-ge-lig VIN-ter-dag for BÅ-de BARN og VOKS-ne.", "en": "I think the picture shows a nice winter day for both children and adults." },
+            { "no": "Det var alt jeg kan si om bildet.", "pron": "DET var ALT JEG kan SI om BIL-det.", "en": "That was all I can say about the picture." }
+]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        {  "inf": "å se", "inf_pron": "å SE", "inf_en": "to see",
+          "pres": "ser", "pres_pron": "SER", "pres_en": "sees",
+          "pret": "så", "pret_pron": "SÅ", "pret_en": "saw",
+          "perf": "har sett", "perf_pron": "har SETT", "perf_en": "has seen",
+          "fut": "skal se", "fut_pron": "skal SE", "fut_en": "will see", "notes": "" },
+        { "inf": "å male", "inf_pron": "å MA-le", "inf_en": "to paint",
+          "pres": "maler", "pres_pron": "MA-ler", "pres_en": "paints",
+          "pret": "malte", "pret_pron": "MALT-e", "pret_en": "painted",
+          "perf": "har malt", "perf_pron": "har MALT", "perf_en": "has painted",
+          "fut": "skal male", "fut_pron": "skal MA-le", "fut_en": "will paint", "notes": "" },
+        { "inf": "å strikke", "inf_pron": "å STRIK-ke", "inf_en": "to knit",
+          "pres": "strikker", "pres_pron": "STRIK-ker", "pres_en": "knits",
+          "pret": "strikket", "pret_pron": "STRIK-ket", "pret_en": "knitted",
+          "perf": "har strikket", "perf_pron": "har STRIK-ket", "perf_en": "has knitted",
+          "fut": "skal strikke", "fut_pron": "skal STRIK-ke", "fut_en": "will knit", "notes": "" },
+        { "inf": "å ri", "inf_pron": "å RI", "inf_en": "to ride",
+          "pres": "rir", "pres_pron": "RIR", "pres_en": "rides",
+          "pret": "red", "pret_pron": "RED", "pret_en": "rode",
+          "perf": "har ridd", "perf_pron": "har RIDD", "perf_en": "has ridden",
+          "fut": "skal ri", "fut_pron": "skal RI", "fut_en": "will ride", "notes": "irregular" },
+        { "inf": "å like", "inf_pron": "å LI-ke", "inf_en": "to like",
+          "pres": "liker", "pres_pron": "LI-ker", "pres_en": "likes",
+          "pret": "likte", "pret_pron": "LIK-te", "pret_en": "liked",
+          "perf": "har likt", "perf_pron": "har LIKT", "perf_en": "has liked",
+          "fut": "skal like", "fut_pron": "skal LI-ke", "fut_en": "will like", "notes": "" }
+      ]
+    }
+  ]
+}

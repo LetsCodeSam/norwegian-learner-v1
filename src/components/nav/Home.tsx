@@ -1,6 +1,6 @@
 // File: src/components/nav/Home.tsx
-// Home screen grouped by Category (Listening / Describe / Conversation)
-// Includes: search (æ/ø/å tolerant), level filter, category chips, and grouped sections
+// Home screen with dynamic categories discovered from navigation.json groups
+// Features: search (æ/ø/å tolerant), level filter, dynamic category chips & grouped sections
 
 import { useEffect, useMemo, useState } from 'react';
 import { loadNav } from './NavIndex';
@@ -9,30 +9,52 @@ import { normalizeForSearch } from '../../lib/lang';
 
 // ---- Types ----
 export type Level = 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2' | 'Unknown';
-export type Category = 'listening' | 'describe' | 'conversation' | 'other';
 
 type DatasetItem = {
   alias: string;
   label: string;
   emoji?: string;
   path: string;
-  level?: Level; // meta.cefr from dataset file or explicit in nav (optional)
+  level?: Level;        // from dataset meta.cefr or explicit in nav
+  category?: string;    // label of the ancestor group (dynamic)
 };
 
 // ---- Helpers ----
-function collectDatasets(node: any): DatasetItem[] {
+
+// Walk the nav tree and collect datasets while carrying the nearest group label as 'category'.
+function collectDatasets(node: any, currentCat?: string): DatasetItem[] {
   if (!node) return [];
+
+  // If we hit a group, update the active category
+  if (node.type === 'group') {
+    const cat = node.label || currentCat || 'Other';
+    const kids: any[] = node.children || [];
+    return kids.flatMap((ch) => collectDatasets(ch, cat));
+  }
+
+  // If this is a dataset, capture it with the current category
   if (node.type === 'dataset') {
     const level: Level | undefined = (node.level as Level | undefined) || undefined;
-    return [{ alias: node.alias, label: node.label, emoji: node.emoji, path: node.path, level }];
+    return [{
+      alias: node.alias,
+      label: node.label,
+      emoji: node.emoji,
+      path: node.path,
+      level,
+      category: currentCat || 'Other',
+    }];
   }
+
+  // Otherwise, descend
   const kids: any[] = node.children || [];
-  return kids.flatMap(collectDatasets);
+  return kids.flatMap((ch) => collectDatasets(ch, currentCat));
 }
 
-function getCategoryFromPath(path: string): Category {
-  const m = path.match(/^\/(?:norwegian-learner-v1\/)?data\/(listening|describe|conversation)\//i);
-  return (m?.[1]?.toLowerCase() as Category) || 'other';
+// Get the ordered list of top-level group labels under the Home route,
+// so our chips/sections follow nav order (not alphabetical).
+function getTopGroupOrder(homeNode: any): string[] {
+  const groups = (homeNode?.children || []).filter((c: any) => c?.type === 'group');
+  return groups.map((g: any) => g?.label).filter(Boolean);
 }
 
 // ---- Component ----
@@ -45,18 +67,23 @@ export function Home({ onOpen }: { onOpen: (title: string, path: string) => void
   // filters
   const [q, setQ] = useState('');
   const [level, setLevel] = useState<'All' | Level>('All');
-  const [cat, setCat] = useState<'all' | Category>('all');
+  const [cat, setCat] = useState<string>('All');
 
   // 1) Load navigation
   useEffect(() => {
     loadNav().then(setNav).catch(console.error);
   }, []);
 
-  // 2) Flatten datasets when nav arrives
+  // 2) Flatten datasets + figure category order from nav
+  const [catOrder, setCatOrder] = useState<string[]>([]);
   useEffect(() => {
     if (!nav) return;
-    const root = nav.tree?.[0] || nav;
-    setItems(collectDatasets(root));
+    const root = nav.tree?.[0] || nav; // route 'Home'
+    // Collect datasets with categories
+    const ds = collectDatasets(root);
+    setItems(ds);
+    // Record the top-level group order (chips/sections follow this)
+    setCatOrder(getTopGroupOrder(root));
   }, [nav]);
 
   // 3) Enrich with meta.cefr — run once per dataset list (tracked by stable key of paths)
@@ -74,10 +101,9 @@ export function Home({ onOpen }: { onOpen: (title: string, path: string) => void
             try {
               const data = await fetchJSON(it.path);
               const raw = (data?.meta?.cefr as string | undefined) || undefined;
-              const lvl: Level | undefined = raw && ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'].includes(raw)
-                ? (raw as Level)
-                : raw
-                ? 'Unknown'
+              const lvl: Level | undefined =
+                raw && ['A1','A2','B1','B2','C1','C2'].includes(raw) ? (raw as Level)
+                : raw ? 'Unknown'
                 : undefined;
               return { ...it, level: lvl ?? it.level };
             } catch {
@@ -90,17 +116,24 @@ export function Home({ onOpen }: { onOpen: (title: string, path: string) => void
         if (!cancelled) setLoadingMeta(false);
       }
     })();
-    return () => {
-      cancelled = true;
-    };
+    return () => { cancelled = true; };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [pathsKey]);
 
-  // 4) Apply search + level filters
-  const filtered = useMemo(() => {
+  // 4) Build dynamic categories list: ["All", ...top-level groups from nav, ...any extra from data]
+  const categories = useMemo(() => {
+    const fromData = Array.from(new Set(items.map(i => i.category).filter(Boolean) as string[]));
+    // merge keeping nav order first, then any unlisted extras
+    const ordered = [...catOrder, ...fromData.filter(c => !catOrder.includes(c))];
+    return ['All', ...ordered];
+  }, [items, catOrder]);
+
+  // 5) Apply search + level filters
+  const searchFiltered = useMemo(() => {
     const nq = normalizeForSearch(q);
     return items.filter((it) => {
-      const matchQ = !nq ||
+      const matchQ =
+        !nq ||
         normalizeForSearch(it.label).includes(nq) ||
         normalizeForSearch(it.path).includes(nq);
       const lvl = (it.level || 'Unknown') as Level;
@@ -109,38 +142,39 @@ export function Home({ onOpen }: { onOpen: (title: string, path: string) => void
     });
   }, [items, q, level]);
 
-  // 5) Category filter
+  // 6) Category filter
   const catFiltered = useMemo(() => {
-    if (cat === 'all') return filtered;
-    return filtered.filter((it) => getCategoryFromPath(it.path) === cat);
-  }, [filtered, cat]);
+    if (cat === 'All') return searchFiltered;
+    return searchFiltered.filter((it) => (it.category || 'Other') === cat);
+  }, [searchFiltered, cat]);
 
-  // 6) Group by category for rendering
+  // 7) Group by category for rendering (preserve category order)
   const groups = useMemo(() => {
-    const map: Record<Category, DatasetItem[]> = {
-      listening: [],
-      describe: [],
-      conversation: [],
-      other: [],
-    };
+    const m = new Map<string, DatasetItem[]>();
+    for (const c of categories) if (c !== 'All') m.set(c, []);
     for (const it of catFiltered) {
-      map[getCategoryFromPath(it.path)].push(it);
+      const key = it.category || 'Other';
+      if (!m.has(key)) m.set(key, []);
+      m.get(key)!.push(it);
     }
-    return map;
-  }, [catFiltered]);
+    return m;
+  }, [catFiltered, categories]);
 
   // UI helpers
-  const Chip = ({ value, label }: { value: 'all' | Category; label: string }) => (
-    <button
-      onClick={() => setCat(value)}
-      className={`px-3 py-1 rounded-full border text-sm transition-shadow
-        ${cat === value
-          ? 'bg-black text-white border-black dark:bg-white dark:text-black dark:border-white shadow'
-          : 'bg-white dark:bg-neutral-800 text-gray-800 dark:text-gray-200 border-gray-300 dark:border-neutral-700 hover:shadow'}`}
-    >
-      {label}
-    </button>
-  );
+  const Chip = ({ value }: { value: string }) => {
+    const active = cat === value;
+    return (
+      <button
+        onClick={() => setCat(value)}
+        className={`px-3 py-1 rounded-full border text-sm transition-shadow
+          ${active
+            ? 'bg-black text-white border-black dark:bg-white dark:text-black dark:border-white shadow'
+            : 'bg-white dark:bg-neutral-800 text-gray-800 dark:text-gray-200 border-gray-300 dark:border-neutral-700 hover:shadow'}`}
+      >
+        {value}
+      </button>
+    );
+  };
 
   const Section = ({ title, items }: { title: string; items: DatasetItem[] }) =>
     items.length ? (
@@ -185,29 +219,25 @@ export function Home({ onOpen }: { onOpen: (title: string, path: string) => void
             className="rounded-xl border border-gray-300 dark:border-neutral-700 bg-white dark:bg-neutral-800 px-2 py-2 text-sm shadow-sm focus:outline-none focus:ring-2 focus:ring-black"
           >
             {(['All', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2', 'Unknown'] as const).map((lv) => (
-              <option key={lv} value={lv}>
-                {lv}
-              </option>
+              <option key={lv} value={lv}>{lv}</option>
             ))}
           </select>
         </label>
       </div>
 
-      {/* Category Chips */}
+      {/* Category Chips (dynamic) */}
       <div className="flex flex-wrap items-center gap-2">
         <span className="text-sm font-medium text-gray-800 dark:text-gray-200">Categories</span>
-        <Chip value="all" label="All" />
-        <Chip value="listening" label="Listening" />
-        <Chip value="describe" label="Describe" />
-        <Chip value="conversation" label="Conversation" />
+        {categories.map((c) => (
+          <Chip key={c} value={c} />
+        ))}
         {loadingMeta && <span className="text-xs text-gray-500">loading levels…</span>}
       </div>
 
-      {/* Grouped Sections */}
-      <Section title="Listening" items={groups.listening} />
-      <Section title="Describe" items={groups.describe} />
-      <Section title="Conversation" items={groups.conversation} />
-      <Section title="Other" items={groups.other} />
+      {/* Grouped Sections in nav order */}
+      {[...groups.entries()].map(([title, list]) => (
+        <Section key={title} title={title} items={list} />
+      ))}
 
       {/* Empty state */}
       {catFiltered.length === 0 && (
@@ -216,3 +246,5 @@ export function Home({ onOpen }: { onOpen: (title: string, path: string) => void
     </div>
   );
 }
+
+export default Home;

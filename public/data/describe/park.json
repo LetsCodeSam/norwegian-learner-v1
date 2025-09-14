@@ -1,0 +1,62 @@
+{
+  "title": "Park",
+  "meta": { "cefr": "A2", "topic": "Park", "tags": ["city", "counter side", "village"] },
+  "blocks": [
+    {
+      "kind": "image",
+      "src": "assets/describe/pic-landet.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Beskriv bildet fra 17. mai.",
+          "pron": "be-SKRIV BIL-det fra søtt-ende mai",
+          "en": "Describe the picture from May 17th.",
+          "model": [
+            { "no": "På bildet ser jeg en park med mange mennesker.", "pron": "PÅ BIL-det SER JEG en PARK med MAN-ge MEN-nes-ker.", "en": "In the picture I see a park with many people." },
+            { "no": "Til venstre sitter en kvinne på en benk.", "pron": "TIL VEN-stre SIT-ter en KVIN-ne på en BENK.", "en": "On the left a woman sits on a bench." },
+            { "no": "Hun leser en bok og har en hatt på hodet.", "pron": "HUN LE-ser en BOK og har en HATT på HO-det.", "en": "She is reading a book and has a hat on her head." },
+            { "no": "Ved siden av henne sitter en mann med en avis.", "pron": "VED SI-den av HEN-ne SIT-ter en MANN med en A-vis.", "en": "Next to her sits a man with a newspaper." },
+            { "no": "Foran benken leker to barn med en ball.", "pron": "FO-ran BENK-en LE-ker TO BARN med en BALL.", "en": "In front of the bench two children are playing with a ball." },
+            { "no": "En gutt sparker ballen, og en jente løper etter den.", "pron": "EN GUTT SPAR-ker BAL-len, og en JEN-te LØ-per ET-ter DEN.", "en": "A boy kicks the ball, and a girl runs after it." },
+            { "no": "I midten av bildet går en familie sammen.", "pron": "I MID-ten av BIL-det GÅR en FA-mi-lie SAM-men.", "en": "In the middle of the picture a family walks together." },
+            { "no": "Foreldrene holder hendene til et lite barn.", "pron": "fo-RELD-re-ne HOL-der HEN-de-ne til et LI-te BARN.", "en": "The parents are holding the hands of a small child." },
+            { "no": "Bak familien sykler en mann på en blå sykkel.", "pron": "BAK FA-mi-li-en SYK-ler en MANN på en BLÅ SYK-kel.", "en": "Behind the family a man rides a blue bicycle." },
+            { "no": "Til høyre sitter to ungdommer på gresset.", "pron": "TIL HØY-re SIT-ter TO UNG-dom-mer på GRES-set.", "en": "On the right two teenagers sit on the grass." },
+            { "no": "De snakker sammen og spiser is.", "pron": "DE SNAK-ker SAM-men og SPI-ser IS.", "en": "They talk together and eat ice cream." },
+            { "no": "Bak dem spiller noen voksne volleyball.", "pron": "BAK DEM SPIL-ler NO-en VOKS-ne VOL-ley-ball.", "en": "Behind them some adults are playing volleyball." },
+            { "no": "En kvinne slår ballen over nettet.", "pron": "EN KVIN-ne SLÅR BAL-len O-ver NETT-et.", "en": "A woman hits the ball over the net." },
+            { "no": "En mann prøver å ta imot ballen.", "pron": "EN MANN PRØ-ver å TA i-MOT BAL-len.", "en": "A man tries to catch the ball." },
+            { "no": "Lenger bak ser jeg et tre med grønt løv.", "pron": "LENG-er BAK SER JEG et TRE med GRØNT LØV.", "en": "Further back I see a tree with green leaves." },
+            { "no": "Under treet ligger en hund og hviler.", "pron": "UN-der TRE-et LIG-ger en HUND og HVI-ler.", "en": "Under the tree a dog is lying and resting." },
+            { "no": "Ved siden av hunden sitter en jente med mobiltelefon.", "pron": "VED SI-den av HUND-en SIT-ter en JEN-te med mo-BIL-te-le-fon.", "en": "Next to the dog a girl sits with a mobile phone." },
+            { "no": "Hun tar et bilde av hunden.", "pron": "HUN TAR et BIL-de av HUND-en.", "en": "She takes a picture of the dog." },
+            { "no": "Bak i bildet ser jeg en fontene.", "pron": "BAK i BIL-det SER JEG en fon-TE-ne.", "en": "In the back of the picture I see a fountain." },
+            { "no": "Vannet spruter høyt opp i lufta.", "pron": "VAN-net SPRU-ter HØYT OPP i LUF-ta.", "en": "The water sprays high into the air." },
+            { "no": "Rundt fontenen står flere mennesker og ser på.", "pron": "RUNDt fon-TE-nen STÅR FLÆ-re MEN-nes-ker og SER på.", "en": "Around the fountain several people stand and watch." },
+            { "no": "Noen tar bilder med kamera.", "pron": "NO-en TAR BIL-der med KA-me-ra.", "en": "Some take pictures with a camera." },
+            { "no": "Jeg ser mange detaljer som viser liv i parken.", "pron": "JEG SER MAN-ge de-TA-ler som VI-ser LIV i PAR-ken.", "en": "I see many details that show life in the park." },
+            { "no": "Folk leker, slapper av og snakker sammen.", "pron": "FOLK LE-ker, SLAP-per AV og SNAK-ker SAM-men.", "en": "People play, relax and talk together." },
+            { "no": "Jeg synes bildet viser en fin dag i parken.", "pron": "JEG SYN-es BIL-det VI-ser en FIN DAG i PAR-ken.", "en": "I think the picture shows a nice day in the park." },
+            { "no": "Det var alt jeg kan si om bildet.", "pron": "DET var ALT JEG kan SI om BIL-det.", "en": "That was all I can say about the picture." }
+            ]
+                    }
+          ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf": "å lese", "inf_pron": "å LE-se", "inf_en": "to read", "pres": "leser", "pres_pron": "LE-ser", "pres_en": "reads", "pret": "leste", "pret_pron": "LES-te", "pret_en": "read", "perf": "har lest", "perf_pron": "har LEST", "perf_en": "has read", "fut": "skal lese", "fut_pron": "skal LE-se", "fut_en": "will read", "notes": "" },
+        { "inf": "å løpe", "inf_pron": "å LØ-pe", "inf_en": "to run", "pres": "løper", "pres_pron": "LØ-per", "pres_en": "runs", "pret": "løp", "pret_pron": "LØP", "pret_en": "ran", "perf": "har løpt", "perf_pron": "har LØPT", "perf_en": "has run", "fut": "skal løpe", "fut_pron": "skal LØ-pe", "fut_en": "will run", "notes": "irreg." },
+        { "inf": "å sykle", "inf_pron": "å SYK-le", "inf_en": "to cycle", "pres": "sykler", "pres_pron": "SYK-ler", "pres_en": "cycles", "pret": "syklet", "pret_pron": "SYK-let", "pret_en": "cycled", "perf": "har syklet", "perf_pron": "har SYK-let", "perf_en": "has cycled", "fut": "skal sykle", "fut_pron": "skal SYK-le", "fut_en": "will cycle", "notes": "" },
+        { "inf": "å prate", "inf_pron": "å PRA-te", "inf_en": "to talk", "pres": "prater", "pres_pron": "PRA-ter", "pres_en": "talks", "pret": "pratet", "pret_pron": "PRA-tet", "pret_en": "talked", "perf": "har pratet", "perf_pron": "har PRA-tet", "perf_en": "has talked", "fut": "skal prate", "fut_pron": "skal PRA-te", "fut_en": "will talk", "notes": "" },
+        { "inf": "å leke", "inf_pron": "å LE-ke", "inf_en": "to play", "pres": "leker", "pres_pron": "LE-ker", "pres_en": "plays", "pret": "lekte", "pret_pron": "LEK-te", "pret_en": "played", "perf": "har lekt", "perf_pron": "har LEKT", "perf_en": "has played", "fut": "skal leke", "fut_pron": "skal LE-ke", "fut_en": "will play", "notes": "" }
+        ]
+    }
+  ]
+}

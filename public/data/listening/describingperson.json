@@ -1,0 +1,100 @@
+{
+  "title": "Describing a Person",
+  "meta": { "cefr": "A2", "topic": "City, shops, transport", "tags": ["city", "shops", "transport", "school", "work"] },
+  "blocks": [
+    {
+      "kind": "qa_list",
+      "title": "Q & A",
+      "items": [
+        {
+          "noQ": "Hvordan kommer du til skolen og jobben?",
+          "pronQ": "HVOR-dan KOM-mer du til SKO-len og JOB-ben?",
+          "enQ": "How do you get to school and work?",
+          "noA": "Jeg tar bussen til skolen, og jeg sykler til jobben. Hva med deg?",
+          "pronA": "Jeg TAR BUS-sen til SKO-len, og jeg SYK-ler til JOB-ben. Hva med deg?",
+          "enA": "I take the bus to school, and I cycle to work. What about you?"
+        },
+        {
+          "noQ": "Hvilket transportmiddel liker du best?",
+          "pronQ": "HVIL-ket TRAN-sport-mid-del LI-ker du BEST?",
+          "enQ": "What type of transportation do you like best?",
+          "noA": "Jeg liker toget best, for det er raskt og behagelig.",
+          "pronA": "Jeg LI-ker TO-get BEST, for det er RASKT og be-HA-ge-lig.",
+          "enA": "I like the train best because it is fast and comfortable."
+        },
+        {
+          "noQ": "Hva liker du å gjøre når du er i byen?",
+          "pronQ": "Hva LI-ker du å GJØ-re når du er i BY-en?",
+          "enQ": "What do you like to do when you're in town?",
+          "noA": "Jeg liker å gå på kafé og handle klær. Og du?",
+          "pronA": "Jeg LI-ker å gå på ka-FÉ og HAN-dle KLÆR. Og du?",
+          "enA": "I like to go to cafés and shop for clothes. And you?"
+        },
+        {
+          "noQ": "Hvor ofte drar du til byen?",
+          "pronQ": "Hvor OF-te DRAR du til BY-en?",
+          "enQ": "How often do you go to town?",
+          "noA": "Jeg drar til byen to ganger i uka.",
+          "pronA": "Jeg DRAR til BY-en to GANG-er i U-ka.",
+          "enA": "I go to town twice a week."
+        },
+        {
+          "noQ": "Hva kjøper du vanligvis i butikken?",
+          "pronQ": "Hva KJØ-per du VAN-lig-vis i bu-TIK-ken?",
+          "enQ": "What do you usually buy in the shop?",
+          "noA": "Jeg kjøper mat og noen ganger klær.",
+          "pronA": "Jeg KJØ-per MAT og NO-en GAN-ger KLÆR.",
+          "enA": "I buy food and sometimes clothes."
+        }
+      ]
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog – By og transport",
+      "items": [
+        {
+          "no": "Snakk om byen, butikker og transport.",
+          "pron": "SNAKK om BY-en, bu-TIK-ker og TRAN-sport.",
+          "en": "Talk about the city, shops and transport.",
+          "model": [
+            { "no": "Hei! Jeg heter Anna, og jeg vil beskrive en person som er viktig for meg.", "pron": "HEI! JEG HE-ter AN-na, og JEG vil be-SKRI-ve en PER-son som er VIK-tig for MEG.", "en": "Hi! My name is Anna, and I want to describe a person who is important to me." },
+            { "no": "Jeg vil fortelle om min beste venn Maria.", "pron": "JEG vil for-TEL-le om MIN BES-te VENN MA-ria.", "en": "I want to talk about my best friend Maria." },
+            { "no": "Hun er snill og morsom.", "pron": "HUN er SNILL og MOR-som.", "en": "She is kind and funny." },
+            { "no": "Hun er 29 år gammel.", "pron": "HUN er tju-NI ÅR GAM-mel.", "en": "She is 29 years old." },
+            { "no": "Hun har langt brunt hår og blå øyne.", "pron": "HUN har LANGT BRUNT HÅR og BLÅ ØY-ne.", "en": "She has long brown hair and blue eyes." },
+            { "no": "Hun jobber som lærer.", "pron": "HUN JOB-ber som LÆR-er.", "en": "She works as a teacher." },
+            { "no": "Hun liker å lese bøker og gå på tur.", "pron": "HUN LI-ker å LE-se BØ-ker og GÅ på TUR.", "en": "She likes reading books and going for walks." },
+            { "no": "Vi møttes da vi var barn.", "pron": "VI MØT-tes DA VI var BARN.", "en": "We met when we were children." },
+            { "no": "Vi har kjent hverandre i mange år.", "pron": "VI har KJENT hver-AN-dre i MAN-ge ÅR.", "en": "We have known each other for many years." },
+            { "no": "Vi møtes ofte i helgene.", "pron": "VI MØ-tes OF-te i HEL-ge-ne.", "en": "We often meet on the weekends." },
+            { "no": "Noen ganger møtes vi etter jobb.", "pron": "NO-en GAN-ger MØ-tes VI ET-ter JOBB.", "en": "Sometimes we meet after work." },
+            { "no": "Vi liker å drikke kaffe sammen.", "pron": "VI LI-ker å DRIK-ke KAF-fe SAM-men.", "en": "We like to drink coffee together." },
+            { "no": "Vi snakker om livet vårt og deler erfaringer.", "pron": "VI SNAK-ker om LI-vet VÅRT og DE-ler er-FA-ring-er.", "en": "We talk about our lives and share experiences." },
+            { "no": "Vi går ofte tur i parken.", "pron": "VI GÅR OF-te TUR i PAR-ken.", "en": "We often go for walks in the park." },
+            { "no": "Noen ganger handler vi klær sammen.", "pron": "NO-en GAN-ger HAN-dler VI KLÆR SAM-men.", "en": "Sometimes we shop for clothes together." },
+            { "no": "Hun er alltid positiv og smilende.", "pron": "HUN er ALL-tid PO-si-tiv og SMI-len-de.", "en": "She is always positive and smiling." },
+            { "no": "Jeg liker å ha en venn som støtter meg.", "pron": "JEG LI-ker å ha en VENN som STØT-ter MEG.", "en": "I like having a friend who supports me." },
+            { "no": "Hun hjelper meg når jeg har problemer.", "pron": "HUN HJEL-per MEG NÅR JEG har pro-BLE-mer.", "en": "She helps me when I have problems." },
+            { "no": "Jeg hjelper også henne når hun trenger det.", "pron": "JEG HJEL-per ÅG-so HEN-ne NÅR HUN TREN-ger DET.", "en": "I also help her when she needs it." },
+            { "no": "Vi feirer ofte bursdager sammen.", "pron": "VI FEI-rer OF-te BURS-da-ger SAM-men.", "en": "We often celebrate birthdays together." },
+            { "no": "Hun liker å danse på fester.", "pron": "HUN LI-ker å DAN-se på FES-ter.", "en": "She likes to dance at parties." },
+            { "no": "Jeg synes Maria er en god venn.", "pron": "JEG SYN-es MA-ria er en GOD VENN.", "en": "I think Maria is a good friend." },
+            { "no": "Jeg vil si at jeg er heldig som har henne.", "pron": "JEG vil SI at JEG er HEL-dig som HAR HEN-ne.", "en": "I would say that I am lucky to have her." },
+            { "no": "Det var alt jeg kan si om Maria.", "pron": "DET var ALT JEG kan SI om MA-ria.", "en": "That was all I can say about Maria." }
+            ]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf":"å dra","inf_pron":"å DRA","inf_en":"to go/leave","pres":"drar","pres_pron":"DRAR","pres_en":"go","pret":"dro","pret_pron":"DRO","pret_en":"went","perf":"har dratt","perf_pron":"har DRATT","perf_en":"has/have gone","fut":"skal dra","fut_pron":"skal DRA","fut_en":"will go","notes":"⚠ irregular" },
+        { "inf":"å kjøre","inf_pron":"å KJØ-re","inf_en":"to drive","pres":"kjører","pres_pron":"KJØ-rer","pres_en":"drive","pret":"kjørte","pret_pron":"KJØR-te","pret_en":"drove","perf":"har kjørt","perf_pron":"har KJØRT","perf_en":"has/have driven","fut":"skal kjøre","fut_pron":"skal KJØ-re","fut_en":"will drive","notes":"" },
+        { "inf":"å sykle","inf_pron":"å SYK-le","inf_en":"to cycle","pres":"sykler","pres_pron":"SYK-ler","pres_en":"cycle","pret":"syklet","pret_pron":"SYK-let","pret_en":"cycled","perf":"har syklet","perf_pron":"har SYK-let","perf_en":"has/have cycled","fut":"skal sykle","fut_pron":"skal SYK-le","fut_en":"will cycle","notes":"" },
+        { "inf":"å handle","inf_pron":"å HAN-dle","inf_en":"to shop","pres":"handler","pres_pron":"HAN-dler","pres_en":"shop","pret":"handlet","pret_pron":"HAN-dlet","pret_en":"shopped","perf":"har handlet","perf_pron":"har HAN-dlet","perf_en":"has/have shopped","fut":"skal handle","fut_pron":"skal HAN-dle","fut_en":"will shop","notes":"" },
+        { "inf":"å møte","inf_pron":"å MØ-te","inf_en":"to meet","pres":"møter","pres_pron":"MØ-ter","pres_en":"meet","pret":"møtte","pret_pron":"MØT-te","pret_en":"met","perf":"har møtt","perf_pron":"har MØTT","perf_en":"has/have met","fut":"skal møte","fut_pron":"skal MØ-te","fut_en":"will meet","notes":"" }
+      ]
+    }
+  ]
+}

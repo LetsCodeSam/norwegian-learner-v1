@@ -1,0 +1,45 @@
+{
+  "title": "Beskriv bilde – Sommer ved sjøen (detaljert)",
+  "meta": { "cefr": "A2", "topic": "Picture description", "tags": ["summer", "beach", "details", "verb-second"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Styrt monolog – Beskriv alt du ser",
+      "items": [
+        {
+          "no": "Beskriv bildet detaljert. Bruk verb som nummer to i setningen.",
+          "pron": "Be-SKRIV BIL-det de-TAL-jert. BRUK VERB som NUM-mer to i SET-ning-en.",
+          "en": "Describe the picture in detail. Use the verb as number two in the sentence.",
+          "model": [
+            { "no": "På bildet ser jeg en sommerkveld ved sjøen.", "pron": "PÅ BIL-det SER JEG en SOM-mer-kveld ved SJØ-en.", "en": "In the picture I see a summer evening by the sea." },
+            { "no": "Til venstre sitter to personer på en benk.", "pron": "TIL VEN-stre SIT-ter TO per-SON-er på en BENK.", "en": "On the left two people sit on a bench." },
+            { "no": "De ser ut over vannet.", "pron": "DE SER ut O-ver VAN-net.", "en": "They look out over the water." },
+            { "no": "Ved siden av benken står en sykkel.", "pron": "VED SI-den av BENK-en STÅR en SYK-kel.", "en": "Next to the bench stands a bicycle." },
+            { "no": "I midten av bildet ser jeg en brygge.", "pron": "I MID-ten av BIL-det SER JEG en BRYG-ge.", "en": "In the middle of the picture I see a pier." },
+            { "no": "På brygga sitter tre ungdommer og prater.", "pron": "PÅ BRYG-ga SIT-ter TRE UNG-dom-mer og PRA-ter.", "en": "On the pier three teenagers sit and talk." },
+            { "no": "En av dem spiller gitar.", "pron": "EN av DEM SPIL-ler gi-TAR.", "en": "One of them plays guitar." },
+            { "no": "En annen synger med.", "pron": "EN AN-nen SYN-ger MED.", "en": "Another one sings along." },
+            { "no": "Til høyre ser jeg en familie som griller.", "pron": "TIL HØY-re SER JEG en FA-mi-lie som GRIL-ler.", "en": "On the right I see a family barbecuing." },
+            { "no": "Faren snur maten på grillen.", "pron": "FA-ren SNUR MA-ten på GRIL-len.", "en": "The father turns the food on the grill." },
+            { "no": "Moren setter tallerkener på bordet.", "pron": "MO-ren SET-ter tal-LER-ke-ner på BOR-det.", "en": "The mother puts plates on the table." },
+            { "no": "Et barn hjelper til med å dekke på.", "pron": "ET BARN HJEL-per TIL med å DEK-ke PÅ.", "en": "A child helps set the table." },
+            { "no": "Foran familien leker en hund på gresset.", "pron": "FO-ran FA-mi-li-en LE-ker en HUND på GRES-set.", "en": "In front of the family a dog plays on the grass." },
+            { "no": "Bak familien står et telt.", "pron": "BAK FA-mi-li-en STÅR et TELT.", "en": "Behind the family stands a tent." },
+            { "no": "Jeg ser at de kanskje skal overnatte ute.", "pron": "JEG SER at DE KANS-je SKAL O-ver-nat-te U-te.", "en": "I see that they might spend the night outside." },
+            { "no": "Lenger bak i bildet flyr noen måker.", "pron": "LENG-er BAK i BIL-det FLYR NO-en MÅ-ker.", "en": "Further back in the picture some seagulls fly." },
+            { "no": "På vannet seiler en liten båt.", "pron": "PÅ VAN-net SEI-ler en LI-ten BÅT.", "en": "On the water a small boat sails." },
+            { "no": "Ved brygga ligger en kano.", "pron": "VED BRYG-ga LIG-ger en KA-no.", "en": "By the pier lies a canoe." },
+            { "no": "Sola holder på å gå ned bak fjellene.", "pron": "SO-la HOL-der på å GÅ NED BAK FJEL-le-ne.", "en": "The sun is about to set behind the mountains." },
+            { "no": "Himmelen er rød og oransje.", "pron": "HIM-me-len er RØD og o-RANSJ-e.", "en": "The sky is red and orange." },
+            { "no": "Jeg ser refleksjoner i vannet.", "pron": "JEG SER re-flek-SJO-ner i VAN-net.", "en": "I see reflections in the water." },
+            { "no": "Noen mennesker går langs stien ved vannet.", "pron": "NO-en MEN-nes-ker GÅR langs STI-en ved VAN-net.", "en": "Some people walk along the path by the water." },
+            { "no": "Et par holder hender mens de går.", "pron": "ET PAR HOL-der HEN-der MENS de GÅR.", "en": "A couple hold hands as they walk." },
+            { "no": "Jeg legger merke til at alle ser glade og rolige ut.", "pron": "JEG LEG-ger MER-ke til at AL-le SER GLA-de og RO-li-ge ut.", "en": "I notice that everyone looks happy and calm." },
+            { "no": "Jeg synes bildet viser en koselig sommerkveld ved sjøen.", "pron": "JEG SYN-es BIL-det VI-ser en KO-se-lig SOM-mer-kveld ved SJØ-en.", "en": "I think the picture shows a cozy summer evening by the sea." },
+            { "no": "Det var alt jeg kan si om dette bildet.", "pron": "DET var ALT JEG kan SI om DET-te BIL-det.", "en": "That was all I can say about this picture." }
+            ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,6 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Verb card font scaling based on the card's own width */
+@container (max-width: 560px) {
+  .verb-card .verb-form { font-size: 14px; }
+  .verb-card .verb-label, .verb-card .verb-meta { font-size: 11px; }
+  .verb-card .verb-grid { column-gap: 1rem; }
+}
+
+@container (max-width: 500px) {
+  .verb-card .verb-form { font-size: 13px; }
+  .verb-card .verb-label, .verb-card .verb-meta { font-size: 10.5px; }
+}
+
+@container (max-width: 440px) {
+  .verb-card .verb-form { font-size: 12px; }
+  .verb-card .verb-label, .verb-card .verb-meta { font-size: 10px; }
+}
+
+
 
 /* Light default */
 body { @apply bg-gray-100 text-gray-900; }

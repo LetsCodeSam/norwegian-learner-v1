@@ -1,0 +1,78 @@
+{
+  "title": "Self-Introduction – Dette er meg (Schema v2, 25 Sentences)",
+  "meta": { "cefr": "A2", "topic": "Self", "tags": ["education", "subjects", "children"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "items": [
+        { "no": "Hei Dette er meg.", "pron": "HEI! DET-te er MEG.", "en": "Hi! This is me." },
+        { "no": "Jeg heter Anna.", "pron": "JEG HE-ter AN-na.", "en": "My name is Anna." },
+        { "no": "Jeg kommer fra Polen.", "pron": "JEG KOM-mer fra PO-len.", "en": "I come from Poland." },
+        { "no": "Jeg vokste opp i en liten by i sør i Polen.", "pron": "JEG VOK-ste OPP i en LI-ten BY i SØR i PO-len.", "en": "I grew up in a small town in the south of Poland." },
+        { "no": "Nå bor jeg i Oslo i Norge.", "pron": "NÅ BOR JEG i OS-lo i NOR-ge.", "en": "Now I live in Oslo in Norway." },
+        { "no": "Jeg bor i en leilighet sammen med en venn.", "pron": "JEG BOR i en LEI-lig-het SAM-men med en VENN.", "en": "I live in an apartment with a friend." },
+        { "no": "Jeg har bodd i Norge i to år.", "pron": "JEG har BODD i NOR-ge i TO ÅR.", "en": "I have lived in Norway for two years." },
+        { "no": "Da jeg kom hit, var alt nytt for meg.", "pron": "DA JEG KOM HIT, var ALT NYTT for MEG.", "en": "When I came here, everything was new for me." },
+        { "no": "Jeg jobber nå som servitør på en restaurant.", "pron": "JEG JOB-ber NÅ som ser-vi-TØR på en RES-tau-rant.", "en": "I now work as a waiter in a restaurant." },
+        { "no": "Jeg liker å jobbe der fordi jeg møter mange mennesker.", "pron": "JEG LI-ker å JOB-be DER fo-DI JEG MØ-ter MAN-ge MEN-nes-ker.", "en": "I like working there because I meet many people." },
+        { "no": "Jeg studerer også norsk på kvelden.", "pron": "JEG stu-DE-rer ÅG-so NORSK på KVEL-den.", "en": "I also study Norwegian in the evening." },
+        { "no": "Jeg vil lære norsk fordi jeg bor her.", "pron": "JEG vil LÆ-re NORSK fo-DI JEG BOR HER.", "en": "I want to learn Norwegian because I live here." },
+        { "no": "Jeg vil også få en bedre jobb i fremtiden.", "pron": "JEG vil ÅG-so få en BED-re JOBB i FREM-ti-den.", "en": "I also want to get a better job in the future." },
+        { "no": "Jeg vil kunne snakke med naboene mine.", "pron": "JEG vil KUN-ne SNAK-ke med NA-bo-e-ne MI-ne.", "en": "I want to be able to talk with my neighbors." },
+        { "no": "Jeg vil forstå nyheter og TV.", "pron": "JEG vil for-STÅ NY-he-ter og TE-VE.", "en": "I want to understand news and TV." },
+        { "no": "Jeg synes norsk er et vakkert språk.", "pron": "JEG SYN-es NORSK er et VAK-kert SPRÅK.", "en": "I think Norwegian is a beautiful language." },
+        { "no": "Jeg liker å lese bøker på norsk for å øve.", "pron": "JEG LI-ker å LE-se BØ-ker på NORSK for å Ø-ve.", "en": "I like to read books in Norwegian to practice." },
+        { "no": "Jeg liker også å høre norsk musikk.", "pron": "JEG LI-ker ÅG-so å HØ-re NORSK MU-sikk.", "en": "I also like listening to Norwegian music." },
+        { "no": "Jeg har fått nye venner i Norge.", "pron": "JEG har FÅTT NY-e VEN-ner i NOR-ge.", "en": "I have made new friends in Norway." },
+        { "no": "Jeg synes nordmenn er hyggelige.", "pron": "JEG SYN-es NORD-menn er HYG-ge-li-ge.", "en": "I think Norwegians are friendly." },
+        { "no": "Jeg vil bli bedre i norsk hver dag.", "pron": "JEG vil BLI BED-re i NORSK HVER DAG.", "en": "I want to get better in Norwegian every day." },
+        { "no": "Jeg vil si at jeg er motivert til å lære.", "pron": "JEG vil SI at JEG er mo-ti-VERT til å LÆ-re.", "en": "I would say that I am motivated to learn." },
+        { "no": "Jeg har mange mål, men å lære norsk er viktigst nå.", "pron": "JEG har MAN-ge MÅL, MEN å LÆ-re NORSK er VIK-tigst NÅ.", "en": "I have many goals, but learning Norwegian is the most important now." },
+        { "no": "Jeg tror at norsk vil hjelpe meg å få et bedre liv her.", "pron": "JEG TROR at NORSK vil HJEL-pe MEG å FÅ et BED-re LIV HER.", "en": "I believe that Norwegian will help me to have a better life here." },
+        { "no": "Det var alt jeg kan si om meg selv.", "pron": "DET var ALT JEG kan SI om MEG SELV.", "en": "That was all I can say about myself." }
+      ]
+    },
+    {
+      "kind": "qa_list",
+      "title": "Q & A – Dette er meg",
+      "items": [
+        { "noQ": "Hva heter du?", "pronQ": "HVA HE-ter DU?", "enQ": "What is your name?", "noA": "Jeg heter Anna.", "pronA": "JEG HE-ter AN-na.", "enA": "My name is Anna." },
+        { "noQ": "Hvor kommer du fra?", "pronQ": "HVOR KOM-mer DU FRA?", "enQ": "Where are you from?", "noA": "Jeg kommer fra Polen.", "pronA": "JEG KOM-mer fra PO-len.", "enA": "I come from Poland." },
+        { "noQ": "Hvor bor du?", "pronQ": "HVOR BOR DU?", "enQ": "Where do you live?", "noA": "Jeg bor i Oslo.", "pronA": "JEG BOR i OS-lo.", "enA": "I live in Oslo." },
+        { "noQ": "Hvor lenge har du bodd i Norge?", "pronQ": "HVOR LENG-e har DU BODD i NOR-ge?", "enQ": "How long have you lived in Norway?", "noA": "Jeg har bodd her i to år.", "pronA": "JEG har BODD HER i TO ÅR.", "enA": "I have lived here for two years." },
+        { "noQ": "Hva gjør du i Norge?", "pronQ": "HVA GJØR DU i NOR-ge?", "enQ": "What do you do in Norway?", "noA": "Jeg jobber som servitør og studerer norsk.", "pronA": "JEG JOB-ber som ser-vi-TØR og stu-DE-rer NORSK.", "enA": "I work as a waiter and study Norwegian." },
+        { "noQ": "Hvorfor vil du lære norsk?", "pronQ": "HVOR-for vil DU LÆ-re NORSK?", "enQ": "Why do you want to learn Norwegian?", "noA": "Fordi jeg bor her og vil få en bedre jobb.", "pronA": "fo-DI JEG BOR HER og vil FÅ en BED-re JOBB.", "enA": "Because I live here and want to get a better job." }
+      ]
+    },
+    {
+      "kind": "mcq_list",
+      "title": "Comprehension Quiz",
+      "items": [
+        { "noQ": "Hvor bor Anna nå?", "options": [ {"no": "I Oslo", "en": "In Oslo"}, {"no": "I Krakow", "en": "In Krakow"}, {"no": "I Bergen", "en": "In Bergen"} ], "answerIndex": 0 },
+        { "noQ": "Hvor lenge har hun bodd i Norge?", "options": [ {"no": "To år", "en": "Two years"}, {"no": "Fem år", "en": "Five years"}, {"no": "Ett år", "en": "One year"} ], "answerIndex": 0 },
+        { "noQ": "Hva gjør hun i Norge?", "options": [ {"no": "Hun jobber som servitør og studerer norsk", "en": "She works as a waiter and studies Norwegian"}, {"no": "Hun jobber som lærer", "en": "She works as a teacher"}, {"no": "Hun jobber ikke", "en": "She does not work"} ], "answerIndex": 0 }
+      ]
+    },
+    {
+      "kind": "tf_list",
+      "title": "Sant/Usant Quiz",
+      "items": [
+        { "no": "Anna kommer fra Polen.", "en": "Anna comes from Poland.", "answer": true },
+        { "no": "Hun har bodd i Norge i fem år.", "en": "She has lived in Norway for five years.", "answer": false },
+        { "no": "Hun jobber som servitør.", "en": "She works as a waiter.", "answer": true },
+        { "no": "Hun synes norsk er et stygt språk.", "en": "She thinks Norwegian is an ugly language.", "answer": false }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf": "å hete", "inf_pron": "å HE-te", "inf_en": "to be called", "pres": "heter", "pres_pron": "HE-ter", "pres_en": "is called", "pret": "hette", "pret_pron": "HET-te", "pret_en": "was called", "perf": "har hett", "perf_pron": "har HETT", "perf_en": "has been called", "fut": "skal hete", "fut_pron": "skal HE-te", "fut_en": "will be called", "notes": "irreg." },
+        { "inf": "å komme", "inf_pron": "å KOM-me", "inf_en": "to come", "pres": "kommer", "pres_pron": "KOM-mer", "pres_en": "comes", "pret": "kom", "pret_pron": "KOM", "pret_en": "came", "perf": "har kommet", "perf_pron": "har KOM-met", "perf_en": "has come", "fut": "skal komme", "fut_pron": "skal KOM-me", "fut_en": "will come", "notes": "irreg." },
+        { "inf": "å bo", "inf_pron": "å BO", "inf_en": "to live", "pres": "bor", "pres_pron": "BOR", "pres_en": "lives", "pret": "bodde", "pret_pron": "BOD-de", "pret_en": "lived", "perf": "har bodd", "perf_pron": "har BODD", "perf_en": "has lived", "fut": "skal bo", "fut_pron": "skal BO", "fut_en": "will live", "notes": "" },
+        { "inf": "å jobbe", "inf_pron": "å JOB-be", "inf_en": "to work", "pres": "jobber", "pres_pron": "JOB-ber", "pres_en": "works", "pret": "jobbet", "pret_pron": "JOB-bet", "pret_en": "worked", "perf": "har jobbet", "perf_pron": "har JOB-bet", "perf_en": "has worked", "fut": "skal jobbe", "fut_pron": "skal JOB-be", "fut_en": "will work", "notes": "" },
+        { "inf": "å lære", "inf_pron": "å LÆ-re", "inf_en": "to learn", "pres": "lærer", "pres_pron": "LÆ-rer", "pres_en": "learns", "pret": "lærte", "pret_pron": "LÆR-te", "pret_en": "learned", "perf": "har lært", "perf_pron": "har LÆRT", "perf_en": "has learned", "fut": "skal lære", "fut_pron": "skal LÆ-re", "fut_en": "will learn", "notes": "" }
+      ]
+    }
+  ]
+}

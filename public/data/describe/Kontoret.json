@@ -1,0 +1,71 @@
+{
+  "title": "Kontoret",
+  "meta": { "cefr": "A2", "topic": "Kontoret", "tags": ["farm", "counter side", "village"] },
+  "blocks": [
+    {
+      "kind": "image",
+      "src": "assets/describe/pic-Kontoret.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Beskriv bildet fra Kontoret.",
+          "pron": "be-SKRIV BIL-det fra søtt-ende mai",
+          "en": "Describe the picture from May 17th.",
+          "model": [
+            { "no": "På bildet ser jeg et travelt kontor med mange mennesker og ting som skjer.", "pron": "På BIL-det ser jeg et TRA-velt kon-TOR med MAN-ge MEN-nes-ker og TING som SKJER.", "en": "In the picture I see a busy office with many people and things happening." },
+            { "no": "Til venstre ser jeg et vindu, og ute regner det.", "pron": "Til VEN-stre ser jeg et VIN-du, og U-te REG-ner det.", "en": "On the left I see a window, and outside it is raining." },
+            { "no": "Under vinduet henger en rund klokke på veggen.", "pron": "UN-der VIN-du-et HENG-er en RUND KLOK-ke på VEG-gen.", "en": "Below the window a round clock hangs on the wall." },
+            { "no": "Ved venstre kant står en liten serveringsdisk med kopper og poser.", "pron": "Ved VEN-stre KANT står en LI-ten ser-VE-rings-disk med KOP-per og PO-ser.", "en": "At the left edge there is a small serving counter with cups and bags." },
+            { "no": "En matbud-kurer med hjelm og ryggsekk merket «MATBUDET» leverer mat.", "pron": "En MAT-bud ku-RER med HJELM og RYGG-sekk MER-ket MAT-bu-det le-VE-rer MAT.", "en": "A food-delivery courier with a helmet and a backpack labeled “MATBUDET” delivers food." },
+            { "no": "En kvinne ved disken tar imot en pose med lunsj.", "pron": "En KVIN-ne ved DIS-ken TAR i-MOT en PO-se med LUNSJ.", "en": "A woman at the counter receives a lunch bag." },
+            { "no": "Foran til venstre står en stor kaffemaskin med mange kopper og skjeer.", "pron": "FO-ran til VEN-stre står en STOR KAF-fe-ma-SKIN med MAN-ge KOP-per og SKJE-er.", "en": "In the front left there is a big coffee machine with many cups and spoons." },
+            { "no": "Det er søl på bordet, og kaffe renner litt nedover kanten.", "pron": "Det er SØL på BOR-det, og KAF-fe REN-ner litt NED-o-ver KANT-en.", "en": "There is a spill on the table, and coffee is running a bit over the edge." },
+            { "no": "En renholder med mopp tørker opp en stor dam på gulvet.", "pron": "En REN-hol-der med MOPP TØR-ker OPP en STOR DAM på GUL-vet.", "en": "A cleaner with a mop wipes up a big puddle on the floor." },
+            { "no": "På gulvet ligger også en knust kopp og litt kaffegrut.", "pron": "På GUL-vet LIG-ger OGS-å en KNUST KOPP og litt KAF-fe-grut.", "en": "On the floor there is also a broken cup and some coffee grounds." },
+            { "no": "Midt i bildet går to anleggsarbeidere gjennom kontoret med refleksvester.", "pron": "MIDT i BIL-det GÅR to AN-leggs-ar-BEI-de-re GJEN-nom kon-TOR-et med re-FLEKS-ves-ter.", "en": "In the middle two construction workers walk through the office wearing reflective vests." },
+            { "no": "På ryggen til den ene står det «LEDER».", "pron": "På RYG-gen til den E-ne står det LE-der.", "en": "On the back of one of them it says “LEDER” (manager)." },
+            { "no": "Støvlene deres er gjørmete, og de setter spor på gulvet.", "pron": "STØV-le-ne DE-res er GJØR-me-te, og de SET-ter SPOR på GUL-vet.", "en": "Their boots are muddy, and they leave tracks on the floor." },
+            { "no": "Bak dem ser jeg en glassvegg med døren merket «MØTEROM».", "pron": "BAK dem ser jeg en GLASS-vegg med DØ-ren MER-ket MØ-te-rom.", "en": "Behind them I see a glass wall with a door labeled “MØTEROM” (meeting room)." },
+            { "no": "Inne i møterommet peker en kollega på en stor skjerm eller tavle.", "pron": "IN-ne i MØ-te-rom-met PE-ker en ko-LE-ga på en STOR SKJERM el-ler TAV-le.", "en": "Inside the meeting room a colleague points at a large screen or board." },
+            { "no": "En annen person sitter ved et bord og jobber med datamaskin.", "pron": "En AN-nen per-SON SIT-ter ved et BORD og JOB-ber med DA-ta-ma-SKIN.", "en": "Another person sits at a table working on a computer." },
+            { "no": "Det står en stor grønn plante ved glassveggen.", "pron": "Det STÅR en STOR GRØNN PLAN-te ved GLASS-veg-gen.", "en": "There is a big green plant by the glass wall." },
+            { "no": "Litt til høyre, foran resepsjonsområdet, går en kvinne i lilla kjole med en pappkopp.", "pron": "LITT til HØY-re, FO-ran re-sep-SJONS-om-rå-det, GÅR en KVIN-ne i LIL-la KJO-le med en PAPP-kopp.", "en": "A bit to the right, in front of the reception area, a woman in a purple dress walks with a paper cup." },
+            { "no": "Bak henne ser jeg et hevet område med bokhyller.", "pron": "BAK HEN-ne ser jeg et HE-vet OM-rå-de med BOK-hyl-ler.", "en": "Behind her I see a raised area with bookshelves." },
+            { "no": "En dame i rød kjole leser et ark foran hyllene.", "pron": "En DA-me i RØD KJO-le LE-ser et ARK FO-ran HYL-le-ne.", "en": "A lady in a red dress reads a sheet in front of the shelves." },
+            { "no": "Lengst bak til høyre tegner en eldre mann på en stor tegning.", "pron": "LENGST BAK til HØY-re TEG-ner en EL-dre MANN på en STOR TEG-ning.", "en": "Farthest back on the right an older man draws on a large drawing." },
+            { "no": "I høyre del sitter en kontormedarbeider med rosa hår flette og spiser en sandwich.", "pron": "I HØY-re del SIT-ter en kon-TOR-med-ar-BEI-der med RO-sa HÅR FLET-te og SPI-ser en SAND-wich.", "en": "On the right a staff member with red hair in a bun sits eating a sandwich." },
+            { "no": "Hun skriver samtidig på tastaturet sitt.", "pron": "HUN SKRI-ver sam-TI-dig på tas-ta-TU-ret sitt.", "en": "She types on her keyboard at the same time." },
+            { "no": "På pulten hennes står en gul lampe, flere planter og en kopp kaffe som ryker.", "pron": "På PULT-en HEN-nes STÅR en GUL LAM-pe, FLÆ-re PLAN-ter og en KOPP KAF-fe som RY-ker.", "en": "On her desk there is a yellow lamp, several plants, and a steaming cup of coffee." },
+            { "no": "Skjermen viser en kalender eller tabell med tall og linjer.", "pron": "SKJERM-en VI-ser en ka-len-DER el-ler ta-BELL med TALL og LIN-jer.", "en": "The monitor shows a calendar or table with numbers and lines." },
+            { "no": "Rett bak henne sitter en kvinne med headset og tygger på en penn.", "pron": "RETT BAK HEN-ne SIT-ter en KVIN-ne med HEAD-sett og TYG-ger på en PENN.", "en": "Right behind her a woman with a headset sits and chews on a pen." },
+            { "no": "På skranken foran henne ligger briller, et glass og papirer.", "pron": "På SKRAN-ken FO-ran HEN-ne LIG-ger BRIL-ler, et GLASS og pa-PI-rer.", "en": "On the counter in front of her lie glasses, a glass, and papers." },
+            { "no": "Midt på gulvet står også en stor potteplante ved siden av en skjerm.", "pron": "MIDT på GUL-vet STÅR OGS-å en STOR POT-te-plan-te ved SI-den av en SKJERM.", "en": "In the middle of the floor there is also a large potted plant next to a monitor." },
+            { "no": "Under pultene ser jeg en liten papirkurv med krøllete ark.", "pron": "UN-der PULT-ene ser jeg en LI-ten PA-pir-kurv med KRØL-le-te ARK.", "en": "Under the desks I see a small paper bin with crumpled sheets." },
+            { "no": "På gulvet ved kaffemaskinen er det en stor søledam fra moppen.", "pron": "På GUL-vet ved KAF-fe-ma-SKIN-en er det en STOR SØ-le-dam fra MOPP-en.", "en": "On the floor by the coffee machine there is a big puddle from the mop." },
+            { "no": "Bak i bildet, innenfor glassveggen, jobber flere personer i ro og konsentrasjon.", "pron": "BAK i BIL-det, IN-nen-for GLASS-veg-gen, JOB-ber FLÆ-re per-SON-er i RO og kon-sen-tra-SJON.", "en": "In the back, inside the glass wall, several people work calmly and with concentration." },
+            { "no": "Hele kontoret virker hektisk, men folk gjør ulike oppgaver.", "pron": "HE-le kon-TOR-et VIR-ker HEK-tisk, MEN folk GJØR U-like OPP-ga-ver.", "en": "The whole office seems hectic, but people are doing different tasks." },
+            { "no": "Noen spiser lunsj, noen leverer mat, noen rydder og noen planlegger.", "pron": "NO-en SPI-ser LUNSJ, NO-en le-VE-rer MAT, NO-en RYD-der og NO-en PLAN-leg-ger.", "en": "Some eat lunch, some deliver food, some clean, and some plan." },
+            { "no": "Jeg legger merke til mange små detaljer som viser en vanlig arbeidsdag.", "pron": "JEG LEG-ger MER-ke til MAN-ge SMÅ de-TA-ljer som VI-ser en VAN-lig AR-beids-dag.", "en": "I notice many small details that show an ordinary workday." },
+            { "no": "Alt i alt er bildet fargerikt, livlig og litt kaotisk.", "pron": "ALT i ALT er BIL-det FAR-ge-rikt, LIV-lig og LITT ka-O-tisk.", "en": "All in all, the picture is colorful, lively, and a bit chaotic." }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "verbs": [
+        { "inf": "å jobbe", "inf_pron": "å JOB-be", "inf_en": "to work", "pres": "jobber", "pres_pron": "JOB-ber", "pres_en": "works", "pret": "jobbet", "pret_pron": "JOB-bet", "pret_en": "worked", "perf": "har jobbet", "perf_pron": "har JOB-bet", "perf_en": "has worked", "fut": "skal jobbe", "fut_pron": "skal JOB-be", "fut_en": "will work", "notes": "" },
+        { "inf": "å drikke", "inf_pron": "å DRIK-ke", "inf_en": "to drink", "pres": "drikker", "pres_pron": "DRIK-ker", "pres_en": "drinks", "pret": "drakk", "pret_pron": "DRAKK", "pret_en": "drank", "perf": "har drukket", "perf_pron": "har DRUK-ket", "perf_en": "has drunk", "fut": "skal drikke", "fut_pron": "skal DRIK-ke", "fut_en": "will drink", "notes": "irreg." },
+        { "inf": "å spise", "inf_pron": "å SPI-se", "inf_en": "to eat", "pres": "spiser", "pres_pron": "SPI-ser", "pres_en": "eats", "pret": "spiste", "pret_pron": "SPIS-te", "pret_en": "ate", "perf": "har spist", "perf_pron": "har SPIST", "perf_en": "has eaten", "fut": "skal spise", "fut_pron": "skal SPI-se", "fut_en": "will eat", "notes": "" },
+        { "inf": "å samarbeide", "inf_pron": "å sam-ar-BEI-de", "inf_en": "to cooperate", "pres": "samarbeider", "pres_pron": "sam-ar-BEI-der", "pres_en": "cooperates", "pret": "samarbeidet", "pret_pron": "sam-ar-BEI-det", "pret_en": "cooperated", "perf": "har samarbeidet", "perf_pron": "har sam-ar-BEI-det", "perf_en": "has cooperated", "fut": "skal samarbeide", "fut_pron": "skal sam-ar-BEI-de", "fut_en": "will cooperate", "notes": "" },
+        { "inf": "å skrive", "inf_pron": "å SKRI-ve", "inf_en": "to write", "pres": "skriver", "pres_pron": "SKRI-ver", "pres_en": "writes", "pret": "skrev", "pret_pron": "SKREV", "pret_en": "wrote", "perf": "har skrevet", "perf_pron": "har SKRE-vet", "perf_en": "has written", "fut": "skal skrive", "fut_pron": "skal SKRI-ve", "fut_en": "will write", "notes": "irreg." }
+]
+    }
+  ]
+}
