@@ -31,7 +31,8 @@
 { "alias": "nav.home.describe.winter", "type": "dataset", "label": "winter", "emoji": "🏙️", "path": "/data/describe/winter.json" },
 { "alias": "nav.home.describe.farm", "type": "dataset", "label": "farm", "emoji": "🏙️", "path": "/data/describe/farm.json" },
 { "alias": "nav.home.describe.city", "type": "dataset", "label": "city", "emoji": "🏙️", "path": "/data/describe/city.json" },
-{ "alias": "nav.home.describe.park", "type": "dataset", "label": "park", "emoji": "🏙️", "path": "/data/describe/park.json" }
+{ "alias": "nav.home.describe.park", "type": "dataset", "label": "park", "emoji": "🏙️", "path": "/data/describe/park.json" },
+{ "alias": "nav.home.describe.breakfast", "type": "dataset", "label": "Breakfast", "emoji": "🏙️", "path": "/data/describe/breakfast.json" }
 ] },
 
 { "alias": "nav.home.conversation", "type": "group", "label": "Conversation", "emoji": "👥", "children": [
