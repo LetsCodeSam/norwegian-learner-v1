@@ -167,7 +167,7 @@ export default function MonoBlock({ block }: { block: any }) {
   const canNext = lp !== 'All' && start + pageSize < all.length;
 
   return (
-    <section className="space-y-4">
+    <section className="space-y-4 px-3">
       {/* Sub‑menu chips (only when more than one subsection) */}
       {/* subsection chips – grid (3 per row on mobile) */}
         {groups.length > 1 && (
@@ -201,7 +201,7 @@ export default function MonoBlock({ block }: { block: any }) {
 
 
       {/* Active subsection card */}
-      <div className="rounded-2xl border bg-white dark:bg-neutral-900 dark:border-neutral-700 shadow p-3 md:p-4">
+      <div className="w-full max-w-full rounded-2xl border bg-white dark:bg-neutral-900 dark:border-neutral-700 shadow p-3 md:p-4">
         {/* Section header */}
         <div className="flex flex-wrap items-center gap-3 justify-between">
           <h3 className="text-base md:text-lg font-semibold">{g?.title}</h3>

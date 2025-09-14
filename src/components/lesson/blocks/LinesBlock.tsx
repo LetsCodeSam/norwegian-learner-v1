@@ -5,9 +5,12 @@ import { ClickableText } from '../../common/ClickableText';
 export function LinesBlock({ block }: { block: any }) {
   const { state, queuePlay, speakNow } = React.useContext(AudioCtx);
   return (
-    <section className="space-y-3">
+    <section className="space-y-3 px-3">{/* ← match Home side padding */}
       {block.items.map((row: any, idx: number) => (
-        <div key={idx} className="p-3 rounded-2xl shadow border bg-white">
+        <div
+          key={idx}
+          className="w-full max-w-full overflow-hidden rounded-2xl border border-gray-300 dark:border-neutral-700 shadow bg-white dark:bg-neutral-900 p-3"
+        >
           <div className="flex items-start justify-between gap-2">
             <div className="text-lg">
               <ClickableText text={row.no} onWord={(w) => speakNow(w)} />

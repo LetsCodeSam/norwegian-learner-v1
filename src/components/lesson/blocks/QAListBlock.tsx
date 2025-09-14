@@ -115,7 +115,7 @@ export function QAListBlock({ block }: { block: any }) {
 
         return (
           <details key={start + i}
-                   className="rounded-2xl bg-white dark:bg-neutral-900 border dark:border-neutral-700 shadow">
+                   className="w-full max-w-full overflow-hidden rounded-2xl border border-gray-300 dark:border-neutral-700 shadow bg-white dark:bg-neutral-900">
             <summary className="cursor-pointer p-3 text-base">
               <div className="flex items-start justify-between gap-2">
                 <div className="flex-1">

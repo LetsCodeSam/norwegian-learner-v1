@@ -5,16 +5,19 @@ export type Route =
   | { view: 'home' }
   | { view: 'lesson'; path: string; title?: string };
 
-const BASE = (import.meta as any).env?.BASE_URL || '/';
+// src/lib/hashRouter.ts
+const RAW_BASE = (import.meta as any).env?.BASE_URL || '/';
+const BASE = RAW_BASE.endsWith('/') ? RAW_BASE : RAW_BASE + '/';
 
 export function buildHomeURL(): string {
-  return `${String(BASE).replace(/\/$/, '')}#/home`;
+  return `${BASE}#/home`;
 }
 
 export function buildLessonURL(path: string, title?: string): string {
   const qs = new URLSearchParams({ p: path, ...(title ? { t: title } : {}) });
-  return `${String(BASE).replace(/\/$/, '')}#/lesson?${qs}`;
+  return `${BASE}#/lesson?${qs}`;
 }
+
 
 export function parseRoute(): Route {
   const raw = location.hash || '#/home';
