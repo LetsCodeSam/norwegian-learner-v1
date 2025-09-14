@@ -1,0 +1,68 @@
+{
+  "title": "By, butikker og transport",
+  "meta": { "cefr": "A2", "topic": "City, shops, transport", "tags": ["city", "shops", "transport", "school", "work"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Monolog",
+      "groups": [
+
+    {
+      "title": "Video-1-Opp og ned",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1102077261"
+    },
+    {
+      "title": "Video-2-I midten",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1102144457"
+    },
+    {
+      "title": "Video-3-Hjørner og kanter",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1103054676"
+    },
+    {
+      "title": "Video-4-Foran og bak",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1103393891"
+    },
+    {
+      "title": "Video-5-Ovenfor og overfor",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1102119889"
+    },
+    {
+      "title": "Video-6-Over og under",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1102162561"
+    },
+    {
+      "title": "Video-7-Til høyre og til venstre",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1102069833"
+    },
+    {
+      "title": "Video-7B-Til høyre for og til venstre",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1103394521"
+    },
+    {
+      "title": "Video-8-Ved siden av",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1103394723"
+    },
+    {
+      "title": "Video-9-Nærmest og lengst unna",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1103394121"
+    },
+    {
+      "title": "Video-10-På skrå",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1102476494"
+    }
+      ]
+    }
+  ]
+}

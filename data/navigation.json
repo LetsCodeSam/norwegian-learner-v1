@@ -7,10 +7,6 @@
   {"alias": "nav.home.aboutme.weather", "type": "dataset", "label": "Weather", "emoji": "💼", "path": "/data/aboutme/weather.json"}
 ]},   
 
- {"alias": "nav.home.uttale", "type": "group", "label": "About Me", "emoji": "👤", "children": [    
- {"alias": "nav.home.uttale.Waethers", "type": "dataset", "label": "Weathers", "emoji": "💼", "path": "/data/uttale/weaters.json"}
-]},
-
 { "alias": "nav.home.listening", "type": "group", "label": "Listening", "emoji": "👤", "children": [
 { "alias": "nav.home.listening.normalday", "type": "dataset", "label": "Normal Day", "emoji": "💼", "path": "/data/listening/normalday.json" },
 { "alias": "nav.home.listening.city", "type": "dataset", "label": "City", "emoji": "💼", "path": "/data/listening/city.json" },
@@ -48,7 +44,13 @@
 ] },
 
 { "alias": "nav.home.uttale", "type": "group", "label": "uttale", "emoji": "👥", "children": [
-{ "alias": "nav.home.uttale.School", "type": "dataset", "label": "uttale", "emoji": "🏫", "path": "/data/uttale/uttale.json" }
+{ "alias": "nav.home.uttale.School", "type": "dataset", "label": "uttale", "emoji": "🏫", "path": "/data/uttale/uttale.json" },
+{ "alias": "nav.home.uttale.beskrive", "type": "dataset", "label": "beskrive", "emoji": "🏫", "path": "/data/uttale/beskrive.json" }
+
+] },
+
+{ "alias": "nav.home.seogsnakk", "type": "group", "label": "Se og Snakk", "emoji": "👥", "children": [
+{ "alias": "nav.home.seogsnakk.seogsnakk", "type": "dataset", "label": "Se og Snakk", "emoji": "🏫", "path": "/data/seogsnakk/seogsnakk.json" }
 
 ] }
 

@@ -1,0 +1,63 @@
+{
+  "title": "By, butikker og transport",
+  "meta": { "cefr": "A2", "topic": "City, shops, transport", "tags": ["city", "shops", "transport", "school", "work"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Monolog",
+      "groups": [
+
+    {
+      "title": "1-En vanlig dag",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1100313313"
+    },
+    {
+      "title": "2-Mat og måltider",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1100531452"
+    },
+    {
+      "title": "3-Norge og natur",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1101824186"
+    },
+    {
+      "title": "4-Bolig",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1100550172"
+    },
+    {
+      "title": "5-Skole",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1100557436"
+    },
+    {
+      "title": "6-Transport",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1100576961"
+    },
+    {
+      "title": "7-Fritid",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1101787346"
+    },
+    {
+      "title": "8-Kropp og helse",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1101798724"
+    },
+    {
+      "title": "9-Vær og årstider",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1100344005"
+    },
+    {
+      "title": "10-Yrker",
+      "type": "video",
+      "url": "https://player.vimeo.com/video/1100623673"
+    }
+      ]
+    }
+  ]
+}
