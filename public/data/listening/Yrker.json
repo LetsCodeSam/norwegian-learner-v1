@@ -1,0 +1,106 @@
+{
+  "title": "Yrker",
+  "meta": { "cefr": "A2", "topic": "Yrker", "tags": ["city", "shops", "transport", "school", "work"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Yrker",
+      "groups": [
+         {
+          "title": "Yrker",
+          "items": [
+            {
+              "model": [
+                { "no": "Hei! Jeg heter Ravi, og jeg vil fortelle om yrker.", "pron": "HEI! JEG HE-ter RA-vi, og JEG vil for-TEL-le om YR-ker.", "en": "Hi! My name is Ravi, and I want to talk about jobs." },
+                { "no": "Jeg jobber som prosjektleder og ingeniør.", "pron": "JEG JOB-ber som pro-sjekt-LE-der og in-ge-NI-ØR.", "en": "I work as a project manager and engineer." },
+                { "no": "En prosjektleder planlegger og organiserer arbeidet.", "pron": "EN pro-sjekt-LE-der PLAN-leg-ger og or-ga-ni-SE-rer AR-bei-det.", "en": "A project manager plans and organizes the work." },
+                { "no": "En ingeniør finner tekniske løsninger.", "pron": "EN in-ge-NI-ØR FIN-ner TEK-nis-ke LØS-ning-er.", "en": "An engineer finds technical solutions." },
+                { "no": "Jeg liker jobben min fordi den er spennende og variert.", "pron": "JEG LI-ker JOB-ben MIN fo-DI den er SPEN-nen-de og va-ri-ERT.", "en": "I like my job because it is exciting and varied." },
+                { "no": "Det er viktig å ha en jobb fordi man tjener penger.", "pron": "DET er VIK-tig å ha en JOBB fo-DI man TJEN-er PENG-er.", "en": "It is important to have a job because you earn money." },
+                { "no": "En jobb gir også trygghet og struktur i livet.", "pron": "EN JOBB GIR ÅG-so TRYGG-het og struk-TUR i LI-vet.", "en": "A job also gives security and structure in life." },
+                { "no": "Jeg synes det er bra å møte kollegaer på jobb.", "pron": "JEG SYN-es DET er BRA å MØ-te ko-LE-ga-er på JOBB.", "en": "I think it is good to meet colleagues at work." },
+                { "no": "På jobb lærer jeg nye ting hver dag.", "pron": "PÅ JOBB LÆR-er JEG NY-e TING HVER DAG.", "en": "At work I learn new things every day." },
+                { "no": "Da jeg var liten, drømte jeg om å bli lærer.", "pron": "DA JEG var LI-ten, DRØM-te JEG om å BLI LÆR-er.", "en": "When I was little, I dreamed of becoming a teacher." },
+                { "no": "Jeg trodde det var spennende å undervise.", "pron": "JEG Trod-de DET var SPEN-nen-de å UN-der-vi-se.", "en": "I thought it was exciting to teach." },
+                { "no": "Nå er drømmejobben min å jobbe som leder for store prosjekter.", "pron": "NÅ er DRØM-me-JOB-ben MIN å JOB-be som LE-der for STO-re pro-SJEK-ter.", "en": "Now my dream job is to work as a leader for big projects." },
+                { "no": "Jeg vil si at en drømmejobb er en jobb man liker og lærer av.", "pron": "JEG vil SI at EN DRØM-me-JOBB er EN JOBB man LI-ker og LÆR-er av.", "en": "I would say that a dream job is a job you like and learn from." },
+                { "no": "Mange mennesker drømmer om å bli lege.", "pron": "MAN-ge MEN-nes-ker DRØM-mer om å BLI LE-ge.", "en": "Many people dream of becoming doctors." },
+                { "no": "En lege hjelper syke mennesker.", "pron": "EN LE-ge HJEL-per SY-ke MEN-nes-ker.", "en": "A doctor helps sick people." },
+                { "no": "Andre vil bli politi for å beskytte samfunnet.", "pron": "AN-dre vil BLI po-LI-ti for å be-SKYT-te SAM-funn-et.", "en": "Others want to become police to protect society." },
+                { "no": "Jeg liker også tanken på å jobbe som lærer i fremtiden.", "pron": "JEG LI-ker ÅG-so TAN-ken på å JOB-be som LÆR-er i FREM-ti-den.", "en": "I also like the idea of working as a teacher in the future." },
+                { "no": "Selv om det kan være krevende, tror jeg det er givende.", "pron": "SELV om DET kan VÆ-re KRE-ven-de, TROR JEG DET er GI-ven-de.", "en": "Even though it can be demanding, I think it is rewarding." },
+                { "no": "Jeg synes alle jobber er viktige for samfunnet.", "pron": "JEG SYN-es AL-le JOB-ber er VIK-ti-ge for SAM-funn-et.", "en": "I think all jobs are important for society." },
+                { "no": "Jeg liker å høre om hva slags jobber andre har.", "pron": "JEG LI-ker å HØ-re om HVA SLAGS JOB-ber AN-dre har.", "en": "I like hearing about what kinds of jobs other people have." },
+                { "no": "Jobber gir oss erfaring, og erfaring hjelper oss videre.", "pron": "JOB-ber GIR OSS er-FA-ring, og er-FA-ring HJEL-per OSS VI-de-re.", "en": "Jobs give us experience, and experience helps us move forward." },
+                { "no": "Derfor tror jeg det er viktig å finne en jobb man liker.", "pron": "DER-for TROR JEG DET er VIK-tig å FIN-ne EN JOBB man LI-ker.", "en": "Therefore I think it is important to find a job you like." },
+                { "no": "Jeg vil si at drømmejobben min kombinerer teknologi og ledelse.", "pron": "JEG vil SI at DRØM-me-JOB-ben MIN kom-bi-NER-er tek-no-LO-gi og LED-el-se.", "en": "I would say my dream job combines technology and management." },
+                { "no": "Jeg håper å utvikle meg mer i denne retningen.", "pron": "JEG HÅ-per å UT-vik-le MEG MER i DEN-ne ret-ning-en.", "en": "I hope to develop myself more in this direction." },
+                { "no": "Det var alt jeg kan si om yrker.", "pron": "DET var ALT JEG kan SI om YR-ker.", "en": "That was all I can say about jobs." }
+                ]
+          }
+        ]
+      },
+      {
+          "title": "Yrket Lærer",
+          "items": [
+            {
+              "model": [
+                { "no": "Hei! Jeg heter Ravi, og jeg vil fortelle om yrket lærer.", "pron": "HEI! JEG HE-ter RA-vi, og JEG vil for-TEL-le om YR-ket LÆR-er.", "en": "Hi! My name is Ravi, and I want to talk about the profession teacher." },
+                { "no": "En lærer jobber på skole eller universitet.", "pron": "EN LÆR-er JOB-ber på SKO-le el-ler u-ni-ver-si-TET.", "en": "A teacher works at a school or university." },
+                { "no": "En lærer underviser elever i mange fag.", "pron": "EN LÆR-er UN-der-vi-ser e-LE-ver i MAN-ge FAG.", "en": "A teacher teaches students in many subjects." },
+                { "no": "Det kan være matematikk, norsk, engelsk eller naturfag.", "pron": "DET kan VÆ-re ma-te-MAT-ikk, NORSK, ENG-elsk el-ler na-TUR-fag.", "en": "It can be mathematics, Norwegian, English or science." },
+                { "no": "En lærer forbereder timer og lager planer.", "pron": "EN LÆR-er FOR-be-re-der TI-mer og LA-ger PLA-ner.", "en": "A teacher prepares lessons and makes plans." },
+                { "no": "En lærer retter prøver og oppgaver.", "pron": "EN LÆR-er RET-ter PRØ-ver og OPP-ga-ver.", "en": "A teacher grades tests and assignments." },
+                { "no": "En lærer hjelper elever når de trenger støtte.", "pron": "EN LÆR-er HJEL-per e-LE-ver NÅR de TREN-ger STØT-te.", "en": "A teacher helps students when they need support." },
+                { "no": "En lærer må være tålmodig og tydelig.", "pron": "EN LÆR-er MÅ VÆ-re TÅL-mo-dig og TY-de-lig.", "en": "A teacher must be patient and clear." },
+                { "no": "En god lærer kan inspirere elever til å lære mer.", "pron": "EN GOD LÆR-er kan in-spi-RE e-LE-ver til å LÆ-re MER.", "en": "A good teacher can inspire students to learn more." },
+                { "no": "Jeg synes lærere har en veldig viktig jobb.", "pron": "JEG SYN-es LÆR-e-re har en VEL-dig VIK-tig JOBB.", "en": "I think teachers have a very important job." },
+                { "no": "Uten lærere kan ikke barn og unge få utdanning.", "pron": "U-ten LÆR-e-re kan IK-ke BARN og UN-ge FÅ ut-DAN-ning.", "en": "Without teachers, children and young people cannot get education." },
+                { "no": "Da jeg var liten, hadde jeg en lærer som het Mr. Kumar.", "pron": "DA JEG var LI-ten, HAD-de JEG en LÆR-er som het Mr. Ku-MAR.", "en": "When I was little, I had a teacher called Mr. Kumar." },
+                { "no": "Han var snill og hjalp meg mye.", "pron": "HAN var SNILL og HJALP MEG MY-e.", "en": "He was kind and helped me a lot." },
+                { "no": "Jeg tror alle husker en lærer som var spesiell.", "pron": "JEG TROR AL-le HUS-ker en LÆR-er som var spe-si-ELL.", "en": "I think everyone remembers a teacher who was special." },
+                { "no": "Mange barn drømmer om å bli lærere når de vokser opp.", "pron": "MAN-ge BARN DRØM-mer om å BLI LÆR-e-re NÅR de VOKS-er OPP.", "en": "Many children dream of becoming teachers when they grow up." },
+                { "no": "Drømmejobben min kunne også være å undervise.", "pron": "DRØM-me-JOB-ben MIN KUN-ne ÅG-so VÆ-re å UN-der-vi-se.", "en": "My dream job could also be to teach." },
+                { "no": "Jeg liker å forklare og hjelpe andre.", "pron": "JEG LI-ker å for-KLA-re og HJEL-pe AN-dre.", "en": "I like to explain and help others." },
+                { "no": "Jeg vil si at lærere bygger fremtiden for samfunnet.", "pron": "JEG vil SI at LÆR-e-re BYG-ger FREM-ti-den for SAM-funn-et.", "en": "I would say that teachers build the future for society." },
+                { "no": "Selv om jobben kan være stressende, er den veldig meningsfull.", "pron": "SELV om JOBB-en kan VÆ-re STRES-sen-de, er den VEL-dig ME-nings-full.", "en": "Even though the job can be stressful, it is very meaningful." },
+                { "no": "Jeg synes det er flott når elever lærer noe nytt.", "pron": "JEG SYN-es DET er FLOTT NÅR e-LE-ver LÆR-er NO-e NYTT.", "en": "I think it is great when students learn something new." },
+                { "no": "Lærere jobber ikke bare i klasserommet, men også hjemme.", "pron": "LÆR-e-re JOB-ber IK-ke BÅ-re i KLASS-e-rom-met, MEN ÅG-so HJEM-me.", "en": "Teachers do not only work in the classroom, but also at home." },
+                { "no": "De forbereder timer og retter prøver etter skoletid.", "pron": "DE FOR-be-re-der TI-mer og RET-ter PRØ-ver ET-ter SKO-le-tid.", "en": "They prepare lessons and grade tests after school hours." },
+                { "no": "Jeg beundrer lærere fordi de gjør en forskjell i livet til mange.", "pron": "JEG be-UND-rer LÆR-e-re fo-DI de GJØR en FOR-skjell i LI-vet til MAN-ge.", "en": "I admire teachers because they make a difference in the lives of many." },
+                { "no": "Jeg vil si at yrket lærer er både krevende og givende.", "pron": "JEG vil SI at YR-ket LÆR-er er BÅ-de KREV-en-de og GI-ven-de.", "en": "I would say that the profession teacher is both demanding and rewarding." },
+                { "no": "Det var alt jeg kan si om yrket lærer.", "pron": "DET var ALT JEG kan SI om YR-ket LÆR-er.", "en": "That was all I can say about the teaching profession." }
+                ]
+          }
+        ]
+      }
+      ]
+      },
+    {
+      "kind": "verbs_table",
+      "title": "Verb",
+      "groups": [
+        {
+          "title": "Yrker",
+          "verbs": [
+            { "inf": "å jobbe", "inf_pron": "å JOB-be", "inf_en": "to work", "pres": "jobber", "pres_pron": "JOB-ber", "pres_en": "works", "pret": "jobbet", "pret_pron": "JOB-bet", "pret_en": "worked", "perf": "har jobbet", "perf_pron": "har JOB-bet", "perf_en": "has worked", "fut": "skal jobbe", "fut_pron": "skal JOB-be", "fut_en": "will work", "notes": "" },
+            { "inf": "å tjene", "inf_pron": "å TJEN-e", "inf_en": "to earn", "pres": "tjener", "pres_pron": "TJEN-er", "pres_en": "earns", "pret": "tjente", "pret_pron": "TJEN-te", "pret_en": "earned", "perf": "har tjent", "perf_pron": "har TJENT", "perf_en": "has earned", "fut": "skal tjene", "fut_pron": "skal TJEN-e", "fut_en": "will earn", "notes": "" },
+            { "inf": "å lede", "inf_pron": "å LE-de", "inf_en": "to lead", "pres": "leder", "pres_pron": "LE-der", "pres_en": "leads", "pret": "ledet", "pret_pron": "LE-det", "pret_en": "led", "perf": "har ledet", "perf_pron": "har LE-det", "perf_en": "has led", "fut": "skal lede", "fut_pron": "skal LE-de", "fut_en": "will lead", "notes": "" },
+            { "inf": "å lære", "inf_pron": "å LÆ-re", "inf_en": "to learn", "pres": "lærer", "pres_pron": "LÆ-rer", "pres_en": "learns", "pret": "lærte", "pret_pron": "LÆR-te", "pret_en": "learned", "perf": "har lært", "perf_pron": "har LÆRT", "perf_en": "has learned", "fut": "skal lære", "fut_pron": "skal LÆ-re", "fut_en": "will learn", "notes": "" },
+            { "inf": "å hjelpe", "inf_pron": "å HJEL-pe", "inf_en": "to help", "pres": "hjelper", "pres_pron": "HJEL-per", "pres_en": "helps", "pret": "hjalp", "pret_pron": "HJALP", "pret_en": "helped", "perf": "har hjulpet", "perf_pron": "har HJUL-pet", "perf_en": "has helped", "fut": "skal hjelpe", "fut_pron": "skal HJEL-pe", "fut_en": "will help", "notes": "irreg." }
+            ]
+        },
+        {
+          "title": "Yrker2",
+          "verbs": [
+            { "inf": "å undervise", "inf_pron": "å UN-der-vi-se", "inf_en": "to teach", "pres": "underviser", "pres_pron": "UN-der-vi-ser", "pres_en": "teaches", "pret": "underviste", "pret_pron": "UN-der-vis-te", "pret_en": "taught", "perf": "har undervist", "perf_pron": "har UN-der-vist", "perf_en": "has taught", "fut": "skal undervise", "fut_pron": "skal UN-der-vi-se", "fut_en": "will teach", "notes": "" },
+            { "inf": "å rette", "inf_pron": "å RET-te", "inf_en": "to grade", "pres": "retter", "pres_pron": "RET-ter", "pres_en": "grades", "pret": "rettet", "pret_pron": "RET-tet", "pret_en": "graded", "perf": "har rettet", "perf_pron": "har RET-tet", "perf_en": "has graded", "fut": "skal rette", "fut_pron": "skal RET-te", "fut_en": "will grade", "notes": "" },
+            { "inf": "å forklare", "inf_pron": "å for-KLA-re", "inf_en": "to explain", "pres": "forklarer", "pres_pron": "for-KLA-rer", "pres_en": "explains", "pret": "forklarte", "pret_pron": "for-KLAR-te", "pret_en": "explained", "perf": "har forklart", "perf_pron": "har for-KLART", "perf_en": "has explained", "fut": "skal forklare", "fut_pron": "skal for-KLA-re", "fut_en": "will explain", "notes": "" },
+            { "inf": "å hjelpe", "inf_pron": "å HJEL-pe", "inf_en": "to help", "pres": "hjelper", "pres_pron": "HJEL-per", "pres_en": "helps", "pret": "hjalp", "pret_pron": "HJALP", "pret_en": "helped", "perf": "har hjulpet", "perf_pron": "har HJUL-pet", "perf_en": "has helped", "fut": "skal hjelpe", "fut_pron": "skal HJEL-pe", "fut_en": "will help", "notes": "irreg." },
+            { "inf": "å forberede", "inf_pron": "å FOR-be-re-de", "inf_en": "to prepare", "pres": "forbereder", "pres_pron": "FOR-be-re-der", "pres_en": "prepares", "pret": "forberedte", "pret_pron": "FOR-be-red-te", "pret_en": "prepared", "perf": "har forberedt", "perf_pron": "har FOR-be-redt", "perf_en": "has prepared", "fut": "skal forberede", "fut_pron": "skal FOR-be-re-de", "fut_en": "will prepare", "notes": "" }
+            ]
+        }
+  ]
+}
+  ]
+}

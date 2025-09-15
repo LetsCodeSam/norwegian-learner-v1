@@ -14,6 +14,7 @@
 { "alias": "nav.home.listening.leisurehobbies", "type": "dataset", "label": "Leisure & Hobbies", "emoji": "💼", "path": "/data/listening/leisurehobbies.json"},
 { "alias": "nav.home.listening.describingperson", "type": "dataset", "label": "Describing a Person", "emoji": "💼", "path": "/data/listening/describingperson.json" },
 { "alias": "nav.home.listening.everydaylife", "type": "dataset", "label": "Everyday Life", "emoji": "💼", "path": "/data/listening/everdaylife.json" },
+{ "alias": "nav.home.listening.Yrker", "type": "dataset", "label": "Yrker", "emoji": "💼", "path": "/data/listening/Yrker.json" },
 { "alias": "nav.home.listening.temp", "type": "dataset", "label": "Temp", "emoji": "💼", "path": "/data/listening/temp.json" }
 ] },
 

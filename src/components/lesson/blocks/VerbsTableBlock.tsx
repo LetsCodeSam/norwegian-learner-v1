@@ -1,169 +1,143 @@
-// File: src/components/lesson/blocks/VerbsTableBlock.tsx
-// Cards-only verbs view with sizing option + tuned horizontal scrollbar behavior.
-// - "Viewport": clamp()-based responsive fonts (by screen width)
-// - "Fit to card": container queries (fonts shrink only when the card is narrow)
-// - Scrollbar: shows only when needed, reserves gutter space, with extra bottom
-//   padding so it never hugs the English line.
-
-import React, { useMemo, useState } from 'react';
+// src/components/lesson/blocks/VerbsTableBlock.tsx
+import React from 'react';
 import { AudioCtx } from '../../audio/AudioProvider';
 
-type VerbRow = Record<string, any>;
+type ColumnKey = 'inf' | 'pres' | 'pret' | 'perf' | 'fut';
+type VerbRow = {
+  inf: string;   inf_pron?: string;   inf_en?: string;
+  pres: string;  pres_pron?: string;  pres_en?: string;
+  pret: string;  pret_pron?: string;  pret_en?: string;
+  perf: string;  perf_pron?: string;  perf_en?: string;
+  fut: string;   fut_pron?: string;   fut_en?: string;
+  notes?: string;
+};
 
-type SizeMode = 'viewport' | 'container';
+type VerbsGroup = { title?: string; verbs: VerbRow[] };
 
-const COLS = [
+type VerbsBlock =
+  | { title?: string; verbs: VerbRow[]; groups?: undefined }
+  | { title?: string; groups: VerbsGroup[]; verbs?: undefined };
+
+const COLS: { key: ColumnKey; label: string }[] = [
   { key: 'inf',  label: 'Infinitiv' },
   { key: 'pres', label: 'Presens' },
   { key: 'pret', label: 'Preteritum' },
   { key: 'perf', label: 'Perfektum' },
   { key: 'fut',  label: 'Futur' },
-] as const;
+];
 
-const pick = (obj: any, paths: string[]): string | undefined => {
-  for (const p of paths) {
-    const v = p.split('.').reduce((acc, k) => (acc ? (acc as any)[k] : undefined), obj);
-    if (typeof v === 'string' && v.trim()) return v;
-  }
-  return undefined;
-};
-const getForm = (v: VerbRow, key: string) => pick(v, [key, `${key}_no`, `forms.${key}`, `form.${key}`]);
-const getPron = (v: VerbRow, key: string) => pick(v, [`${key}_pron`, `pron_${key}`, `${key}Pron`, `pron.${key}`, `pronunciation.${key}`, 'pron', 'pron_no']);
-const getEn   = (v: VerbRow, key: string) => pick(v, [`${key}_en`, `en_${key}`, `${key}En`, `en.${key}`, `english.${key}`, 'en']);
+export default function VerbsTableBlock({
+  block,
+  scope,
+}: {
+  block: VerbsBlock;
+  scope?: string;               // Optional: inherited label (e.g., nearest mono title)
+}) {
+  const { state, speakNow } = React.useContext(AudioCtx);
 
-export default function VerbsTableBlock({ block }: { block: any }) {
-  const { state, speakNow, queuePlay } = React.useContext(AudioCtx);
-  const verbs: VerbRow[] = useMemo(() => (Array.isArray(block?.verbs) ? block.verbs : []), [block]);
+  // Normalize to groups: if no groups provided, treat top-level verbs as a single group
+  const groups: VerbsGroup[] = React.useMemo(() => {
+    if (Array.isArray((block as any).groups) && (block as any).groups.length) {
+      return (block as any).groups as VerbsGroup[];
+    }
+    if (Array.isArray((block as any).verbs)) {
+      return [{ title: block.title, verbs: (block as any).verbs as VerbRow[] }];
+    }
+    return [];
+  }, [block]);
 
-  const [sizeMode, setSizeMode] = useState<SizeMode>('viewport');
+  // Which group is active
+  const [active, setActive] = React.useState(0);
+  React.useEffect(() => {
+    if (active >= groups.length) setActive(0);
+  }, [groups.length, active]);
 
-  if (!verbs.length) return <div className="text-sm text-gray-500">No verbs provided.</div>;
-
-  // font classes for the Norwegian form text
-  const formClass =
-    sizeMode === 'viewport'
-      ? 'text-[clamp(12px,3.2vw,16px)] md:text-base'
-      : 'verb-form text-base md:text-lg';
-
-  const labelClass = sizeMode === 'viewport' ? 'text-[10px] md:text-[11px]' : 'verb-label text-[11px] md:text-[12px]';
-  const metaClass  = sizeMode === 'viewport' ? 'text-[11px] md:text-[12px]' : 'verb-meta text-[12px] md:text-[13px]';
+  const title = block.title || 'Verb';
+  const hasGroups = groups.length > 1;
+  const g = groups[active] || { title, verbs: [] };
 
   return (
-    <section className="space-y-3">
-      {/* Sizing option */}
-      <div className="flex items-center gap-2">
-        <span className="text-sm text-gray-600 dark:text-gray-300">Sizing</span>
-        <div className="inline-flex rounded-xl border border-gray-300 dark:border-neutral-700 overflow-hidden">
-          <button
-            type="button"
-            className={`px-3 py-1 text-sm ${sizeMode === 'viewport' ? 'bg-black text-white' : 'bg-white dark:bg-neutral-900'}`}
-            onClick={() => setSizeMode('viewport')}
-            title="Shrink based on screen width"
-          >
-            Viewport
-          </button>
-          <button
-            type="button"
-            className={`px-3 py-1 text-sm ${sizeMode === 'container' ? 'bg-black text-white' : 'bg-white dark:bg-neutral-900'}`}
-            onClick={() => setSizeMode('container')}
-            title="Shrink only when the card is narrow"
-          >
-            Fit to card
-          </button>
+    <section className="space-y-3 px-3">
+      <div className="w-full max-w-full rounded-2xl border bg-white dark:bg-neutral-900 dark:border-neutral-700 shadow p-3 md:p-4">
+        {/* Header */}
+        <div className="flex items-center justify-between gap-3">
+          <h3 className="text-base md:text-lg font-semibold">
+            {title}{scope ? ` — ${scope}` : ''}{g?.title && hasGroups ? ` • ${g.title}` : ''}
+          </h3>
         </div>
-      </div>
 
-      {/* Container-query CSS (used when sizeMode === 'container') */}
-      {sizeMode === 'container' && (
-        <style>{`
-          /* Enable font scaling based on the card's width */
-          @container (max-width: 560px) {
-            .verb-form { font-size: 14px; }
-            .verb-label, .verb-meta { font-size: 11px; }
-            .verb-grid { column-gap: 1rem; }
-          }
-          @container (max-width: 500px) {
-            .verb-form { font-size: 13px; }
-            .verb-label, .verb-meta { font-size: 10.5px; }
-          }
-          @container (max-width: 440px) {
-            .verb-form { font-size: 12px; }
-            .verb-label, .verb-meta { font-size: 10px; }
-          }
-        `}</style>
-      )}
+        {/* Subsection selector (grid chips, like Monolog) */}
+        {hasGroups && (
+          <div className="mt-3 px-1" role="tablist" aria-label="Verb groups">
+            <div className="grid grid-cols-3 gap-2 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8">
+              {groups.map((grp, i) => {
+                const activeChip = i === active;
+                return (
+                  <button
+                    key={i}
+                    type="button"
+                    title={grp.title || `Del ${i + 1}`}
+                    aria-pressed={activeChip}
+                    onClick={() => setActive(i)}
+                    className={[
+                      "w-full px-3 py-1.5 rounded-full border transition-shadow focus:outline-none focus:ring-2",
+                      "text-xs sm:text-sm",
+                      "truncate",
+                      activeChip
+                        ? "bg-black text-white border-black dark:bg-white dark:text-black dark:border-white shadow"
+                        : "bg-white dark:bg-neutral-800 text-gray-800 dark:text-gray-200 border-gray-300 dark:border-neutral-700 hover:shadow",
+                    ].join(" ")}
+                  >
+                    {grp.title || `Del ${i + 1}`}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+        )}
 
-      {/* Cards list */}
-      <div className="grid grid-cols-1 gap-4 max-w-5xl mx-auto">
-        {verbs.map((v, i) => {
-          const notes = (v.notes as string) || '';
-          const playAll = () => {
-            const seq = COLS.map((c) => getForm(v, c.key)).filter(Boolean).join(' ');
-            if (seq) queuePlay(seq);
-          };
-          return (
+        {/* Cards for the active group */}
+        <div className="mt-3 space-y-3">
+          {g.verbs.map((v, i) => (
             <div
               key={i}
-              className={`p-3 md:p-4 rounded-2xl shadow-md hover:shadow-lg transition-shadow border bg-white dark:bg-neutral-900 dark:border-neutral-700 ${
-                sizeMode === 'container' ? '[container-type:inline-size]' : ''
-              }`}
+              className="w-full max-w-full overflow-hidden rounded-2xl border border-gray-300 dark:border-neutral-700 shadow bg-white dark:bg-neutral-900 p-3"
             >
-              <div className="flex items-center justify-end">
-                <button
-                  className="w-7 h-7 md:w-8 md:h-8 rounded-full border border-gray-300 dark:border-neutral-700 shadow flex items-center justify-center hover:shadow-md"
-                  onClick={playAll}
-                  title="Play all forms"
-                  aria-label="Play all forms"
-                >
-                  ▶
-                </button>
-              </div>
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-x-3 gap-y-2 items-start">
+                {COLS.map(({ key, label }) => (
+                  <div key={key} className="min-w-0">
+                    <div className="text-[11px] uppercase tracking-wide text-gray-500">{label}</div>
+                    <button
+                      className="underline decoration-dotted hover:decoration-solid"
+                      onClick={() => speakNow((v as any)[key] as string)}
+                      title="Play"
+                    >
+                      {(v as any)[key] as string}
+                    </button>
+                    {state.showPron && (v as any)[`${key}_pron`] && (
+                      <div className="text-xs text-gray-500">{(v as any)[`${key}_pron`]}</div>
+                    )}
+                    {state.showEN && (v as any)[`${key}_en`] && (
+                      <div className="text-xs mt-0.5">{(v as any)[`${key}_en`]}</div>
+                    )}
+                  </div>
+                ))}
 
-              {/* Five fixed columns. On very narrow widths this block scrolls horizontally. */}
-              <div
-                className="mt-1 sm:overflow-x-auto sm:overflow-y-hidden pb-4 sm:pb-3"
-                style={{ scrollbarGutter: 'stable both-edges' as any }}
-            >
-                <div
-                    className="
-                    verb-grid grid grid-cols-3 sm:grid-cols-5
-                    gap-x-5 md:gap-x-8 gap-y-2
-                    min-w-0 sm:min-w-[40rem] md:min-w-[44rem] lg:min-w-[48rem]"
-  >
-                  {COLS.map((c) => {
-                    const form = getForm(v, c.key) || '';
-                    const pron = getPron(v, c.key);
-                    const en   = getEn(v, c.key);
-                    return (
-                      <div key={c.key} className="min-w-0 leading-tight">
-                        <div className={`uppercase tracking-wide text-gray-500 dark:text-gray-400 mb-1 ${labelClass}`}>{c.label}</div>
-                        <button
-                          className={`underline decoration-1 underline-offset-2 hover:decoration-2 break-words text-left ${formClass}`}
-                          onClick={() => form && speakNow(form)}
-                          title={`Play ${c.label.toLowerCase()}`}
-                        >
-                          {form}
-                        </button>
-                        {state.showPron && pron && (
-                          <div className={`text-gray-600 mt-0.5 break-words ${metaClass}`}>{pron}</div>
-                        )}
-                        {state.showEN && en && (
-                          <div className={`mt-0.5 break-words ${metaClass}`}>{en}</div>
-                        )}
-                      </div>
-                    );
-                  })}
-                </div>
+                {/* Notes (optional) */}
+                {v.notes && (
+                  <div className="min-w-0 md:col-span-6">
+                    <div className="text-[11px] uppercase tracking-wide text-gray-500">Notater</div>
+                    <div className="text-xs">{v.notes}</div>
+                  </div>
+                )}
               </div>
-
-              {notes && (
-                <div className="mt-2 inline-flex items-center gap-1 text-[10px] md:text-[11px] px-2 py-0.5 rounded-full bg-amber-100 text-amber-800 dark:bg-amber-900/40 dark:text-amber-300">
-                  ⚠ {notes}
-                </div>
-              )}
             </div>
-          );
-        })}
+          ))}
+
+          {g.verbs.length === 0 && (
+            <div className="text-sm text-gray-500">Ingen verb i denne delen.</div>
+          )}
+        </div>
       </div>
     </section>
   );
