@@ -37,11 +37,23 @@
 ] },
 
 { "alias": "nav.home.conversation", "type": "group", "label": "Conversation", "emoji": "👥", "children": [
-{ "alias": "nav.home.conversation.School", "type": "dataset", "label": "School", "emoji": "🏫", "path": "/data/conversation/school.json" },
+{ "alias": "nav.home.conversation.restaurant", "type": "dataset", "label": "Restaurant", "emoji": "🏫", "path": "/data/conversation/restaurant.json" },
 { "alias": "nav.home.conversation.Sports", "type": "dataset", "label": "Sports", "emoji": "🛒", "path": "/data/conversation/sports.json" },
 { "alias": "nav.home.conversation.Pets", "type": "dataset", "label": "Pets", "emoji": "🛒", "path": "/data/conversation/Pets.json" },
 { "alias": "nav.home.conversation.Restaurant", "type": "dataset", "label": "Restaurant", "emoji": "🛒", "path": "/data/conversation/restaurant.json" },
-{ "alias": "nav.home.conversation.news", "type": "dataset", "label": "News", "emoji": "🛒", "path": "/data/conversation/news.json" }
+{ "alias": "nav.home.conversation.news", "type": "dataset", "label": "News", "emoji": "🛒", "path": "/data/conversation/news.json" },
+{ "alias": "nav.home.conversation.shop", "type": "dataset", "label": "Shop", "emoji": "🛒", "path": "/data/conversation/shop.json"},
+{ "alias": "nav.home.conversation.legevakt", "type": "dataset", "label": "Legevakt", "emoji": "🛒", "path": "/data/conversation/legevakt.json"},
+{ "alias": "nav.home.conversation.gronnsakerfrukt", "type": "dataset", "label": "Grønnsaker og frukt", "emoji": "🛒", "path": "/data/conversation/gronnsakerfrukt.json" },
+{ "alias": "nav.home.conversation.season", "type": "dataset", "label": "Season", "emoji": "🛒", "path": "/data/conversation/season.json" },
+{ "alias": "nav.home.conversation.hobbies", "type": "dataset", "label": "Hobbies", "emoji": "🛒", "path": "/data/conversation/hobbies.json" }
+] },
+
+{ "alias": "nav.home.navigation", "type": "group", "label": "Navigation", "emoji": "🧭", "children": [
+{ "alias": "nav.home.navigation.transport", "type": "dataset", "label": "Transport", "emoji": "🏫", "path": "/data/navigation/transport.json" },
+{ "alias": "nav.home.navigation.direction", "type": "dataset", "label": "Direction", "emoji": "🏫", "path": "/data/navigation/direction.json" },
+{ "alias": "nav.home.navigation.city", "type": "dataset", "label": "City", "emoji": "🏫", "path": "/data/navigation/city.json" },
+{ "alias": "nav.home.navigation.navigation", "type": "dataset", "label": "Navigation", "emoji": "🏫", "path": "/data/navigation/navigation.json" }
 
 ] },
 

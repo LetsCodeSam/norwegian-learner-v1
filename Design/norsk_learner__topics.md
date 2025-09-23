@@ -299,7 +299,55 @@ Here is a larger topic bank for each exam task. You can use these topics as **in
 
 ---
 
-## 11) Verb Practice (verbs\_table)
+
+## 11) Yrker
+Here’s what I suggest for the next batch of “Yrker” canvases in your Self-Introduction Sets Collection:
+
+🔹 Healthcare professions
+
+Lege (Doctor)
+
+Sykepleier (Nurse)
+
+Tannlege (Dentist)
+
+👉 Useful because health & hospitals often come up in oral tests.
+
+🔹 Service professions
+
+Butikkmedarbeider (Shop assistant)
+
+Servitør (Waiter/Waitress)
+
+Kokk (Cook/Chef)
+
+Barnehageassistent (Kindergarten assistant)
+
+Renholder (Cleaner)
+
+👉 These are very common in everyday life and easy to describe.
+
+🔹 Practical professions
+
+Sjåfør (Driver – taxi/bus)
+
+Snekker (Carpenter)
+
+Elektriker (Electrician)
+
+Bonde (Farmer)
+
+👉 Good for talking about tools, workplaces, and practical skills.
+
+🔹 Safety professions
+
+Politi (Police officer)
+
+Brannmann (Firefighter)
+
+👉 Easy to add opinions (important, dangerous, helpful).
+
+## 12) Verb Practice (verbs\_table)
 
 Suggested verbs to rotate in exercises:
 

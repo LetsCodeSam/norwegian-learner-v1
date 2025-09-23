@@ -1,0 +1,43 @@
+{
+  "title": "Role-Play – At the Restaurant (A1–A2, 30 Turns)",
+  "meta": { "cefr": "A1–A2", "task": "roleplay", "method": "dialogue", "schema": "v2" },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Dialog – På restaurant",
+      "model": [
+        { "no": "Hei, har dere ledig bord for to personer?", "pron": "HEI, HAR DE-re LE-dig BORD for TO per-SON-er?", "en": "Hi, do you have a free table for two people?" },
+        { "no": "Ja, velkommen! Dere kan sitte her ved vinduet.", "pron": "JA, VEL-kom-men! DE-re kan SIT-te HER ved VIN-du-et.", "en": "Yes, welcome! You can sit here by the window." },
+        { "no": "Takk, dette ser hyggelig ut.", "pron": "TAKK, DET-te SER HYG-ge-lig UT.", "en": "Thanks, this looks nice." },
+        { "no": "Vil dere ha menyen nå?", "pron": "VIL DE-re HA me-NY-en NÅ?", "en": "Would you like the menu now?" },
+        { "no": "Ja, gjerne, vi vil se på maten dere har.", "pron": "JA, JÆR-ne, VI vil SE på MA-ten DE-re HAR.", "en": "Yes, please, we want to see the food you have." },
+        { "no": "Her er menyen, vi har både kjøtt, fisk og vegetar.", "pron": "HER er me-NY-en, VI HAR BÅ-de KJØTT, FISK og ve-ge-TAR.", "en": "Here is the menu, we have meat, fish and vegetarian." },
+        { "no": "Hva anbefaler du i dag?", "pron": "HVA AN-be-FA-ler DU i DAG?", "en": "What do you recommend today?" },
+        { "no": "Dagens spesial er laks med poteter og grønnsaker.", "pron": "DA-gens spe-SIAL er LAKS med po-TE-ter og GRØNN-sa-ker.", "en": "Today’s special is salmon with potatoes and vegetables." },
+        { "no": "Det høres godt ut. Jeg tar laksen.", "pron": "DET HØ-res GODT UT. JEG TAR LAKS-en.", "en": "That sounds good. I’ll take the salmon." },
+        { "no": "Og jeg vil ha en pizza med ost og skinke.", "pron": "OG JEG vil HA en PIT-sa med OST og SKIN-ke.", "en": "And I will have a pizza with cheese and ham." },
+        { "no": "Vil dere ha noe å drikke også?", "pron": "VIL DE-re HA NO-e å DRIK-ke ÅG-so?", "en": "Would you like something to drink as well?" },
+        { "no": "Ja, jeg vil ha et glass vann, takk.", "pron": "JA, JEG vil HA et GLASS VANN, TAKK.", "en": "Yes, I would like a glass of water, thank you." },
+        { "no": "Jeg vil ha en kopp kaffe etter maten.", "pron": "JEG vil HA en KOPP KAF-fe ET-ter MA-ten.", "en": "I will have a cup of coffee after the meal." },
+        { "no": "Flott, jeg skal si fra til kjøkkenet.", "pron": "FLOTT, JEG skal SI fra til KJØK-ken-et.", "en": "Great, I’ll let the kitchen know." },
+        { "no": "Hvor lenge må vi vente på maten?", "pron": "HVOR LENG-e MÅ VI VEN-te på MA-ten?", "en": "How long must we wait for the food?" },
+        { "no": "Det tar omtrent tjue minutter.", "pron": "DET TAR om-TRENT TJUE mi-NUT-ter.", "en": "It takes about twenty minutes." },
+        { "no": "Ok, det går bra. Vi har tid.", "pron": "O-K, DET GÅR BRA. VI HAR TID.", "en": "Ok, that’s fine. We have time." },
+        { "no": "Her er maten, vær så god!", "pron": "HER er MA-ten, VÆR så GOD!", "en": "Here is the food, here you go!" },
+        { "no": "Tusen takk, dette ser veldig godt ut.", "pron": "TU-sen TAKK, DET-te SER VEL-dig GODT UT.", "en": "Thank you very much, this looks very good." },
+        { "no": "Kan jeg få litt salt, vær så snill?", "pron": "KAN JEG FÅ LITT SALT, VÆR så SNILL?", "en": "Can I have some salt, please?" },
+        { "no": "Selvfølgelig, her er saltet.", "pron": "selv-FØL-ge-lig, HER er SALT-et.", "en": "Of course, here is the salt." },
+        { "no": "Hvordan smaker maten?", "pron": "HVOR-dan SMA-ker MA-ten?", "en": "How does the food taste?" },
+        { "no": "Maten smaker deilig, jeg liker laksen.", "pron": "MA-ten SMA-ker DEI-lig, JEG LI-ker LAKS-en.", "en": "The food tastes delicious, I like the salmon." },
+        { "no": "Pizzaen er også veldig god og varm.", "pron": "PIT-sa-en er ÅG-so VEL-dig GOD og VARM.", "en": "The pizza is also very good and warm." },
+        { "no": "Vil dere ha dessert i dag?", "pron": "VIL DE-re HA de-SERT i DAG?", "en": "Would you like dessert today?" },
+        { "no": "Ja, jeg vil ha en liten iskrem.", "pron": "JA, JEG vil HA en LI-ten IS-krem.", "en": "Yes, I would like a small ice cream." },
+        { "no": "Og jeg vil ha et stykke kake.", "pron": "OG JEG vil HA et STYK-ke KA-ke.", "en": "And I would like a piece of cake." },
+        { "no": "Vil dere betale samlet eller hver for seg?", "pron": "VIL DE-re be-TA-le SAM-let el-ler HVER for SEG?", "en": "Would you like to pay together or separately?" },
+        { "no": "Vi vil betale samlet med kort.", "pron": "VI vil be-TA-le SAM-let med KORT.", "en": "We will pay together with card." },
+        { "no": "Her er kvitteringen, takk for besøket!", "pron": "HER er kvi-TE-ring-en, TAKK for be-SØ-ket!", "en": "Here is the receipt, thank you for the visit!" },
+        { "no": "Tusen takk, maten var kjempegod. Ha det bra!", "pron": "TU-sen TAKK, MA-ten var KJEM-pe-god. HA det BRA!", "en": "Thank you very much, the food was very good. Goodbye!" }
+      ]
+    }
+  ]
+}

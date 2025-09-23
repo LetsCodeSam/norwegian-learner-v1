@@ -1,0 +1,48 @@
+{
+  "title": "Dialog – Grønnsaker og frukt",
+  "meta": { "cefr": "A2", "topic": "Pets", "tags": ["education", "subjects", "children"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Snakk om skolen.",
+          "pron": "snakk om SKO-len",
+          "en": "Talk about school.",
+          "model": [
+                { "no": "Hei! Hva kan vi høste i hagen nå?", "pron": "HEI! HVA KAN VI HØ-ste i HA-gen NÅ?", "en": "Hi! What can we harvest in the garden now?" },
+                { "no": "Hei! Vi kan høste poteter og gulrøtter nå.", "pron": "HEI! VI KAN HØ-ste po-TE-ter og GUL-røt-ter NÅ.", "en": "Hi! We can harvest potatoes and carrots now." },
+                { "no": "Kan du nevne flere grønnsaker vi kan høste?", "pron": "KAN DU NEV-ne FLÆ-re GRØNN-sa-ker VI KAN HØ-ste?", "en": "Can you name more vegetables we can harvest?" },
+                { "no": "Ja, vi kan høste løk, kål og tomater.", "pron": "JA, VI KAN HØ-ste LØK, KÅL og to-MA-ter.", "en": "Yes, we can harvest onions, cabbage and tomatoes." },
+                { "no": "Jeg liker tomater best fordi de er søte og gode.", "pron": "JEG LI-ker to-MA-ter BEST fo-DI DE er SØ-te og GO-de.", "en": "I like tomatoes best because they are sweet and tasty." },
+                { "no": "Hva slags frukt kan vi høste nå?", "pron": "HVA SLAGS FRUKT KAN VI HØ-ste NÅ?", "en": "What kind of fruit can we harvest now?" },
+                { "no": "Vi kan høste epler, pærer og plommer.", "pron": "VI KAN HØ-ste EP-ler, PÆR-er og PLOM-mer.", "en": "We can harvest apples, pears and plums." },
+                { "no": "Jeg liker epler fordi de er sunne.", "pron": "JEG LI-ker EP-ler fo-DI DE er SUN-ne.", "en": "I like apples because they are healthy." },
+                { "no": "Hvilke grønnsaker spiser du mest av?", "pron": "HVIL-ke GRØNN-sa-ker SPI-ser DU MEST AV?", "en": "Which vegetables do you eat the most?" },
+                { "no": "Jeg spiser mest poteter og salat.", "pron": "JEG SPI-ser MEST po-TE-ter og sa-LAT.", "en": "I eat mostly potatoes and salad." },
+                { "no": "Jeg spiser mye gulrøtter fordi de er billige.", "pron": "JEG SPI-ser MY-e GUL-røt-ter fo-DI DE er BIL-li-ge.", "en": "I eat many carrots because they are cheap." },
+                { "no": "Hva med deg, hvilke frukter spiser du mest?", "pron": "HVA med DEG, HVIL-ke FRUK-ter SPI-ser DU MEST?", "en": "What about you, which fruits do you eat the most?" },
+                { "no": "Jeg spiser mest bananer og appelsiner.", "pron": "JEG SPI-ser MEST ba-NA-ner og ap-pel-SI-ner.", "en": "I eat mostly bananas and oranges." },
+                { "no": "Bananer er gode og enkle å ta med.", "pron": "ba-NA-ner er GO-de og ENK-le å TA MED.", "en": "Bananas are good and easy to bring along." },
+                { "no": "Appelsiner gir meg mye vitamin C.", "pron": "ap-pel-SI-ner GIR MEG MY-e vi-ta-MIN C.", "en": "Oranges give me a lot of vitamin C." },
+                { "no": "Kan du nevne andre vekster vi kan høste?", "pron": "KAN DU NEV-ne AN-dre VEK-ster VI KAN HØ-ste?", "en": "Can you name other plants we can harvest?" },
+                { "no": "Ja, vi kan høste bær som jordbær og bringebær.", "pron": "JA, VI KAN HØ-ste BÆR som JORD-bær og BRING-e-bær.", "en": "Yes, we can harvest berries like strawberries and raspberries." },
+                { "no": "Vi kan også høste urter som persille og dill.", "pron": "VI KAN ÅG-so HØ-ste UR-ter som per-SIL-le og DILL.", "en": "We can also harvest herbs like parsley and dill." },
+                { "no": "Jeg synes urter gjør maten bedre.", "pron": "JEG SYN-es UR-ter GJØR MA-ten BED-re.", "en": "I think herbs make the food better." },
+                { "no": "Hva liker du best, frukt eller grønnsaker?", "pron": "HVA LI-ker DU BEST, FRUKT el-ler GRØNN-sa-ker?", "en": "What do you like best, fruit or vegetables?" },
+                { "no": "Jeg liker frukt best fordi den er søt.", "pron": "JEG LI-ker FRUKT BEST fo-DI DEN er SØT.", "en": "I like fruit best because it is sweet." },
+                { "no": "Jeg liker grønnsaker best fordi de er sunne.", "pron": "JEG LI-ker GRØNN-sa-ker BEST fo-DI DE er SUN-ne.", "en": "I like vegetables best because they are healthy." },
+                { "no": "Spiser du grønnsaker hver dag?", "pron": "SPI-ser DU GRØNN-sa-ker HVER DAG?", "en": "Do you eat vegetables every day?" },
+                { "no": "Ja, jeg prøver å spise grønnsaker til middag hver dag.", "pron": "JA, JEG PRØ-ver å SPI-se GRØNN-sa-ker til MID-dag HVER DAG.", "en": "Yes, I try to eat vegetables for dinner every day." },
+                { "no": "Jeg spiser frukt hver dag fordi det er lett å ha med.", "pron": "JEG SPI-ser FRUKT HVER DAG fo-DI DET er LETT å HA MED.", "en": "I eat fruit every day because it is easy to bring along." },
+                { "no": "Jeg tror det er viktig å spise variert.", "pron": "JEG TROR DET er VIK-tig å SPI-se va-RI-ert.", "en": "I think it is important to eat varied." },
+                { "no": "Ja, jeg er enig. Kroppen trenger mange vitaminer.", "pron": "JA, JEG er E-nig. KROP-pen TREN-ger MAN-ge vi-ta-MI-ner.", "en": "Yes, I agree. The body needs many vitamins." },
+                { "no": "Det var hyggelig å snakke om grønnsaker og frukt.", "pron": "DET var HYG-ge-lig å SNAK-ke om GRØNN-sa-ker og FRUKT.", "en": "It was nice to talk about vegetables and fruit." },
+                { "no": "Ja, tusen takk for praten, vi sees igjen snart.", "pron": "JA, TU-sen TAKK for PRA-ten, VI SE-es i-GJEN SNART.", "en": "Yes, thank you very much for the talk, we will see each other again soon." }
+]
+        }
+      ]
+    }
+  ]
+}

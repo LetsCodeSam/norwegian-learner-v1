@@ -1,0 +1,36 @@
+{
+  "title": "Self-Introduction – Dette er meg (Schema v2, 25 Sentences)",
+  "meta": { "cefr": "A2", "topic": "Self", "tags": ["education", "subjects", "children"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "items": [
+        { "no": "Hei Dette er meg.", "pron": "HEI! DET-te er MEG.", "en": "Hi! This is me." },
+        { "no": "Jeg heter Anna.", "pron": "JEG HE-ter AN-na.", "en": "My name is Anna." },
+        { "no": "Jeg kommer fra Polen.", "pron": "JEG KOM-mer fra PO-len.", "en": "I come from Poland." },
+        { "no": "Jeg vokste opp i en liten by i sør i Polen.", "pron": "JEG VOK-ste OPP i en LI-ten BY i SØR i PO-len.", "en": "I grew up in a small town in the south of Poland." },
+        { "no": "Nå bor jeg i Oslo i Norge.", "pron": "NÅ BOR JEG i OS-lo i NOR-ge.", "en": "Now I live in Oslo in Norway." },
+        { "no": "Jeg bor i en leilighet sammen med en venn.", "pron": "JEG BOR i en LEI-lig-het SAM-men med en VENN.", "en": "I live in an apartment with a friend." },
+        { "no": "Jeg har bodd i Norge i to år.", "pron": "JEG har BODD i NOR-ge i TO ÅR.", "en": "I have lived in Norway for two years." },
+        { "no": "Da jeg kom hit, var alt nytt for meg.", "pron": "DA JEG KOM HIT, var ALT NYTT for MEG.", "en": "When I came here, everything was new for me." },
+        { "no": "Jeg jobber nå som servitør på en restaurant.", "pron": "JEG JOB-ber NÅ som ser-vi-TØR på en RES-tau-rant.", "en": "I now work as a waiter in a restaurant." },
+        { "no": "Jeg liker å jobbe der fordi jeg møter mange mennesker.", "pron": "JEG LI-ker å JOB-be DER fo-DI JEG MØ-ter MAN-ge MEN-nes-ker.", "en": "I like working there because I meet many people." },
+        { "no": "Jeg studerer også norsk på kvelden.", "pron": "JEG stu-DE-rer ÅG-so NORSK på KVEL-den.", "en": "I also study Norwegian in the evening." },
+        { "no": "Jeg vil lære norsk fordi jeg bor her.", "pron": "JEG vil LÆ-re NORSK fo-DI JEG BOR HER.", "en": "I want to learn Norwegian because I live here." },
+        { "no": "Jeg vil også få en bedre jobb i fremtiden.", "pron": "JEG vil ÅG-so få en BED-re JOBB i FREM-ti-den.", "en": "I also want to get a better job in the future." },
+        { "no": "Jeg vil kunne snakke med naboene mine.", "pron": "JEG vil KUN-ne SNAK-ke med NA-bo-e-ne MI-ne.", "en": "I want to be able to talk with my neighbors." },
+        { "no": "Jeg vil forstå nyheter og TV.", "pron": "JEG vil for-STÅ NY-he-ter og TE-VE.", "en": "I want to understand news and TV." },
+        { "no": "Jeg synes norsk er et vakkert språk.", "pron": "JEG SYN-es NORSK er et VAK-kert SPRÅK.", "en": "I think Norwegian is a beautiful language." },
+        { "no": "Jeg liker å lese bøker på norsk for å øve.", "pron": "JEG LI-ker å LE-se BØ-ker på NORSK for å Ø-ve.", "en": "I like to read books in Norwegian to practice." },
+        { "no": "Jeg liker også å høre norsk musikk.", "pron": "JEG LI-ker ÅG-so å HØ-re NORSK MU-sikk.", "en": "I also like listening to Norwegian music." },
+        { "no": "Jeg har fått nye venner i Norge.", "pron": "JEG har FÅTT NY-e VEN-ner i NOR-ge.", "en": "I have made new friends in Norway." },
+        { "no": "Jeg synes nordmenn er hyggelige.", "pron": "JEG SYN-es NORD-menn er HYG-ge-li-ge.", "en": "I think Norwegians are friendly." },
+        { "no": "Jeg vil bli bedre i norsk hver dag.", "pron": "JEG vil BLI BED-re i NORSK HVER DAG.", "en": "I want to get better in Norwegian every day." },
+        { "no": "Jeg vil si at jeg er motivert til å lære.", "pron": "JEG vil SI at JEG er mo-ti-VERT til å LÆ-re.", "en": "I would say that I am motivated to learn." },
+        { "no": "Jeg har mange mål, men å lære norsk er viktigst nå.", "pron": "JEG har MAN-ge MÅL, MEN å LÆ-re NORSK er VIK-tigst NÅ.", "en": "I have many goals, but learning Norwegian is the most important now." },
+        { "no": "Jeg tror at norsk vil hjelpe meg å få et bedre liv her.", "pron": "JEG TROR at NORSK vil HJEL-pe MEG å FÅ et BED-re LIV HER.", "en": "I believe that Norwegian will help me to have a better life here." },
+        { "no": "Det var alt jeg kan si om meg selv.", "pron": "DET var ALT JEG kan SI om MEG SELV.", "en": "That was all I can say about myself." }
+      ]
+    }
+  ]
+}

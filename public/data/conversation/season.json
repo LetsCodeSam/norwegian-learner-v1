@@ -1,0 +1,50 @@
+{
+  "title": "Dialog – Årstider",
+  "meta": { "cefr": "A2", "topic": "Årstider", "tags": ["education", "subjects", "children"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Snakk om skolen.",
+          "pron": "snakk om SKO-len",
+          "en": "Talk about school.",
+          "model": [
+                { "no": "Hei! Hvilken årstid liker du best?", "pron": "HEI! HVIL-ken ÅR-stid LI-ker DU BEST?", "en": "Hi! Which season do you like best?" },
+                { "no": "Hei! Jeg liker sommer best fordi det er varmt.", "pron": "HEI! JEG LI-ker SOM-mer BEST fo-DI DET er VARMT.", "en": "Hi! I like summer best because it is warm." },
+                { "no": "Hva liker du å gjøre om sommeren?", "pron": "HVA LI-ker DU å GJØ-re om SOM-mer-en?", "en": "What do you like to do in the summer?" },
+                { "no": "Jeg liker å bade i sjøen og gå turer i skogen.", "pron": "JEG LI-ker å BA-de i SJØ-en og GÅ TU-rer i SKO-gen.", "en": "I like to swim in the sea and go for walks in the forest." },
+                { "no": "Jeg liker også sommer, men noen ganger er det for varmt.", "pron": "JEG LI-ker ÅG-so SOM-mer, MEN NO-en GAN-ger er DET for VARMT.", "en": "I also like summer, but sometimes it is too hot." },
+                { "no": "Hvilken årstid liker du minst?", "pron": "HVIL-ken ÅR-stid LI-ker DU MINST?", "en": "Which season do you like the least?" },
+                { "no": "Jeg liker vinter minst fordi det er kaldt og mørkt.", "pron": "JEG LI-ker VIN-ter MINST fo-DI DET er KALDT og MØRKT.", "en": "I like winter the least because it is cold and dark." },
+                { "no": "Men jeg liker å stå på ski om vinteren.", "pron": "MEN JEG LI-ker å STÅ på SKI om VIN-ter-en.", "en": "But I like to ski in the winter." },
+                { "no": "Hva liker du om våren?", "pron": "HVA LI-ker DU om VÅR-en?", "en": "What do you like in the spring?" },
+                { "no": "Jeg liker å se blomster og høre fugler synge.", "pron": "JEG LI-ker å SE BLOM-ster og HØ-re FUG-ler SYN-ge.", "en": "I like to see flowers and hear birds singing." },
+                { "no": "Våren er fin, men jeg liker ikke pollen.", "pron": "VÅR-en er FIN, MEN JEG LI-ker IK-ke POL-len.", "en": "Spring is nice, but I don’t like the pollen." },
+                { "no": "Hva liker du med høsten?", "pron": "HVA LI-ker DU med HØS-ten?", "en": "What do you like about autumn?" },
+                { "no": "Jeg liker fargene på trærne, rødt, gult og oransje.", "pron": "JEG LI-ker FAR-ge-ne på TRÆR-ne, RØDT, GULT og o-RANSJ-e.", "en": "I like the colors of the trees, red, yellow and orange." },
+                { "no": "Jeg liker også å drikke varm te når det regner.", "pron": "JEG LI-ker ÅG-so å DRIK-ke VARM TE NÅR DET REG-ner.", "en": "I also like to drink hot tea when it rains." },
+                { "no": "Er det noe du ikke liker med høsten?", "pron": "ER DET NO-e DU IK-ke LI-ker med HØS-ten?", "en": "Is there something you don’t like about autumn?" },
+                { "no": "Jeg liker ikke at dagene blir korte og mørke.", "pron": "JEG LI-ker IK-ke at DA-ge-ne BLIR KOR-te og MØR-ke.", "en": "I don’t like that the days get short and dark." },
+                { "no": "Hva synes du om vinteren da?", "pron": "HVA SYN-es DU om VIN-ter-en DA?", "en": "What do you think about winter then?" },
+                { "no": "Jeg synes vinteren kan være koselig med snø.", "pron": "JEG SYN-es VIN-ter-en KAN VÆ-re KO-se-lig med SNØ.", "en": "I think winter can be cozy with snow." },
+                { "no": "Ja, jeg liker å lage snømann med barna.", "pron": "JA, JEG LI-ker å LA-ge SNØ-mann med BAR-na.", "en": "Yes, I like to make a snowman with the children." },
+                { "no": "Har du noen gang prøvd å gå på skøyter?", "pron": "HAR DU NO-en GANG PRØVD å GÅ på SKØY-ter?", "en": "Have you ever tried ice skating?" },
+                { "no": "Ja, jeg har prøvd det, men jeg falt mange ganger.", "pron": "JA, JEG HAR PRØVD DET, MEN JEG FALT MAN-ge GAN-ger.", "en": "Yes, I have tried it, but I fell many times." },
+                { "no": "Hva liker du med alle årstider?", "pron": "HVA LI-ker DU med AL-le ÅR-sti-der?", "en": "What do you like about all seasons?" },
+                { "no": "Jeg liker at hver årstid har noe spesielt.", "pron": "JEG LI-ker at HVER ÅR-stid HAR NO-e spe-si-ELT.", "en": "I like that each season has something special." },
+                { "no": "Om sommeren er det ferie, om vinteren er det jul.", "pron": "OM SOM-mer-en er DET FE-ri-e, OM VIN-ter-en er DET JUL.", "en": "In summer there is holiday, in winter there is Christmas." },
+                { "no": "Om våren blir det grønt igjen, og om høsten er fargene fine.", "pron": "OM VÅR-en BLIR DET GRØNT i-GJEN, og OM HØS-ten er FAR-ge-ne FI-ne.", "en": "In spring it becomes green again, and in autumn the colors are nice." },
+                { "no": "Jeg liker at været forandrer seg gjennom året.", "pron": "JEG LI-ker at VÆ-ret fo-RAN-drer SEG GJEN-nom ÅR-et.", "en": "I like that the weather changes during the year." },
+                { "no": "Ja, det gjør livet mer variert.", "pron": "JA, DET GJØR LI-vet MER va-ri-ERT.", "en": "Yes, it makes life more varied." },
+                { "no": "Jeg synes det er fint at vi kan gjøre ulike ting i hver årstid.", "pron": "JEG SYN-es DET er FINT at VI KAN GJØ-re U-li-ke TING i HVER ÅR-stid.", "en": "I think it is nice that we can do different things in each season." },
+                { "no": "Ja, jeg er enig, det gjør året interessant.", "pron": "JA, JEG er E-nig, DET GJØR ÅR-et in-te-res-SANT.", "en": "Yes, I agree, it makes the year interesting." },
+                { "no": "Det var hyggelig å snakke om årstider med deg.", "pron": "DET var HYG-ge-lig å SNAK-ke om ÅR-sti-der med DEG.", "en": "It was nice to talk about seasons with you." },
+                { "no": "Ja, tusen takk for praten, vi sees igjen snart.", "pron": "JA, TU-sen TAKK for PRA-ten, VI SE-es i-GJEN SNART.", "en": "Yes, thank you very much for the talk, we will see each other again soon." }
+]
+        }
+      ]
+    }
+  ]
+}

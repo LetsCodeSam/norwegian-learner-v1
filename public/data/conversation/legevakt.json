@@ -1,0 +1,42 @@
+{
+  "title": "Role-Play – At the Doctor (A1–A2, 30 Turns)",
+  "meta": { "cefr": "A1–A2", "task": "roleplay", "method": "dialogue", "schema": "v2" },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Dialog – Hos legen",
+      "model": [
+        { "no": "Hei, jeg har en time hos legen i dag.", "pron": "HEI, JEG HAR en TI-me hos LE-gen i DAG.", "en": "Hi, I have an appointment with the doctor today." },
+        { "no": "Hei, velkommen! Hva heter du, og hva er problemet?", "pron": "HEI, VEL-kom-men! HVA HE-ter DU, og HVA er pro-BLE-met?", "en": "Hi, welcome! What is your name, and what is the problem?" },
+        { "no": "Jeg heter Ravi, og jeg har vondt i hodet.", "pron": "JEG HE-ter RA-vi, og JEG HAR VONDT i HO-det.", "en": "My name is Ravi, and I have a headache." },
+        { "no": "Hvor lenge har du hatt vondt i hodet?", "pron": "HVOR LENG-e HAR DU hatt VONDT i HO-det?", "en": "How long have you had the headache?" },
+        { "no": "Jeg har hatt vondt i to dager nå.", "pron": "JEG HAR hatt VONDT i TO DA-ger NÅ.", "en": "I have had pain for two days now." },
+        { "no": "Har du feber eller andre symptomer i tillegg?", "pron": "HAR DU FE-ber el-ler AN-dre SYMP-to-mer i til-LEGG?", "en": "Do you have fever or other symptoms as well?" },
+        { "no": "Ja, jeg har litt feber og jeg er veldig trøtt.", "pron": "JA, JEG HAR LITT FE-ber og JEG er VEL-dig TRØTT.", "en": "Yes, I have a little fever and I am very tired." },
+        { "no": "Har du kastet opp eller følt deg kvalm?", "pron": "HAR DU KAS-tet OPP el-ler FØLT DEG KVALM?", "en": "Have you vomited or felt nauseous?" },
+        { "no": "Nei, jeg har ikke kastet opp, men jeg føler meg svak.", "pron": "NEI, JEG HAR IK-ke KAS-tet OPP, MEN JEG FØ-ler MEG SVA-k.", "en": "No, I have not vomited, but I feel weak." },
+        { "no": "Jeg vil måle blodtrykket ditt nå.", "pron": "JEG vil MÅ-le BLOD-tryk-ket DITT NÅ.", "en": "I will measure your blood pressure now." },
+        { "no": "Ok, det går bra.", "pron": "O-K, DET GÅR BRA.", "en": "Ok, that’s fine." },
+        { "no": "Blodtrykket ditt er litt høyt i dag.", "pron": "BLOD-tryk-ket DITT er LITT HØYT i DAG.", "en": "Your blood pressure is a bit high today." },
+        { "no": "Hva betyr det? Er det farlig?", "pron": "HVA be-TYR DET? ER DET FAR-lig?", "en": "What does that mean? Is it dangerous?" },
+        { "no": "Nei, det er ikke farlig nå, men vi må følge med.", "pron": "NEI, DET er IK-ke FAR-lig NÅ, MEN VI MÅ FØL-ge MED.", "en": "No, it is not dangerous now, but we must monitor it." },
+        { "no": "Jeg vil også ta temperaturen din.", "pron": "JEG vil ÅG-so TA tem-pe-ra-TUR-en DIN.", "en": "I will also take your temperature." },
+        { "no": "Ja, det er greit.", "pron": "JA, DET er GREIT.", "en": "Yes, that’s fine." },
+        { "no": "Temperaturen din er 38 grader.", "pron": "tem-pe-ra-TUR-en DIN er TRET-ti ÅT-te GRA-der.", "en": "Your temperature is 38 degrees." },
+        { "no": "Så jeg har feber, ikke sant?", "pron": "SÅ JEG HAR FE-ber, IK-ke SANT?", "en": "So I have a fever, right?" },
+        { "no": "Ja, du har feber, men det er ikke veldig høyt.", "pron": "JA, DU HAR FE-ber, MEN DET er IK-ke VEL-dig HØYT.", "en": "Yes, you have a fever, but it is not very high." },
+        { "no": "Hva bør jeg gjøre nå?", "pron": "HVA BØR JEG GJØ-re NÅ?", "en": "What should I do now?" },
+        { "no": "Du bør hvile mye og drikke vann.", "pron": "DU BØR HVI-le MY-e og DRIK-ke VANn.", "en": "You should rest a lot and drink water." },
+        { "no": "Bør jeg ta medisiner også?", "pron": "BØR JEG TA me-di-SI-ner ÅG-so?", "en": "Should I take medicine as well?" },
+        { "no": "Ja, du kan ta paracetamol for å senke feberen.", "pron": "JA, DU KAN TA pa-ra-ce-ta-MOL for å SEN-ke FE-ber-en.", "en": "Yes, you can take paracetamol to lower the fever." },
+        { "no": "Hvor ofte kan jeg ta medisinen?", "pron": "HVOR OF-te KAN JEG TA me-di-SI-nen?", "en": "How often can I take the medicine?" },
+        { "no": "Du kan ta den hver fjerde til sjette time.", "pron": "DU KAN TA DEN HVER FJER-de til SJET-te TI-me.", "en": "You can take it every four to six hours." },
+        { "no": "Ok, jeg skal følge rådene dine.", "pron": "O-K, JEG SKAL FØL-ge RÅ-de-ne DI-ne.", "en": "Ok, I will follow your advice." },
+        { "no": "Hvis du føler deg verre, må du ringe igjen.", "pron": "HVIS DU FØ-ler DEG VER-re, MÅ DU RIN-ge i-GJEN.", "en": "If you feel worse, you must call again." },
+        { "no": "Ja, det skal jeg gjøre, tusen takk for hjelpen.", "pron": "JA, DET SKAL JEG GJØ-re, TU-sen TAKK for HJEL-pen.", "en": "Yes, I will do that, thank you very much for the help." },
+        { "no": "Bare hyggelig, god bedring!", "pron": "BA-re HYG-ge-lig, GOD BE-dring!", "en": "You’re welcome, get well soon!" },
+        { "no": "Ha det bra, og takk igjen.", "pron": "HA det BRA, og TAKK i-GJEN.", "en": "Goodbye, and thanks again." }
+      ]
+    }
+  ]
+}

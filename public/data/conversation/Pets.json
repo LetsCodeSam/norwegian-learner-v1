@@ -1,27 +1,7 @@
 {
-  "title": "Pets",
+  "title": "Dialog – Kjæledyr",
   "meta": { "cefr": "A2", "topic": "Pets", "tags": ["education", "subjects", "children"] },
   "blocks": [
-    {
-      "kind": "lines",
-      "title": "Intro",
-      "items": [
-        { "no": "En god skole er et sted der barna lærer og trives.", "pron": "en go SKO-le er et sted der BAR-na LÆR-er og TREE-ves", "en": "A good school is a place where children learn and thrive." },
-        { "no": "Det er viktig at lærerne er snille og flinke.", "pron": "de er VIK-tig at LÆR-er-ne er SNIL-le og FLIN-ke", "en": "It is important that the teachers are kind and skilled." },
-        { "no": "Elevene lærer fag, men også å være sammen.", "pron": "e-LE-ve-ne LÆR-er fag, men ÅG-så å VÆ-re SAM-men", "en": "The pupils learn subjects, but also how to be together." }
-      ]
-    },
-    {
-      "kind": "qa_list",
-      "title": "Q & A",
-      "items": [
-        { "noQ": "Hva er en god skole?", "pronQ": "va er en go SKO-le?", "enQ": "What is a good school?", "noA": "En god skole har gode lærere og glade elever. Hva synes du?", "pronA": "en go SKO-le har GO-de LÆR-er-e og GLA-de e-LE-ver. va SYY-nes du?", "enA": "A good school has good teachers and happy pupils. What do you think?" },
-        { "noQ": "Hva er viktig for barn å lære på skolen?", "pronQ": "va er VIK-tig for barn å LÆ-re på SKO-len?", "enQ": "What do you think is important for children to learn in school?", "noA": "Det er viktig å lære å lese, skrive og regne. Og du?", "pronA": "de er VIK-tig å LÆ-re å LE-se, SKRI-ve og REG-ne. og du?", "enA": "It is important to learn to read, write and do math. And you?" },
-        { "noQ": "Hva likte du med skolen da du var barn?", "pronQ": "va LIK-te du med SKO-len da du var barn?", "enQ": "What did you like about school when you were a child?", "noA": "Jeg likte friminutt og venner.", "pronA": "jæ LIK-te FRI-mi-nutt og VEN-ner", "enA": "I liked recess and friends." },
-        { "noQ": "Har du et favorittfag?", "pronQ": "har du et fa-vo-RITT-fag?", "enQ": "Do you have a favorite subject?", "noA": "Ja, jeg liker norsk best.", "pronA": "ja, jæ LEE-ker norsk best", "enA": "Yes, I like Norwegian best." },
-        { "noQ": "Hva lærer elevene i tillegg til fag?", "pronQ": "va LÆR-er e-LE-ve-ne i TI-leeg til fag?", "enQ": "What do pupils learn in addition to subjects?", "noA": "De lærer å samarbeide og respektere andre.", "pronA": "de LÆR-er å SAM-ar-bai-de og res-pek-TE-re AN-dre", "enA": "They learn to cooperate and respect others." }
-      ]
-    },
     {
       "kind": "mono",
       "title": "Styrt monolog",
@@ -32,43 +12,37 @@
           "en": "Talk about school.",
           "model": [
                 { "no": "Hei! Har du kjæledyr?", "pron": "HEI! HAR DU KJÆ-le-dyr?", "en": "Hi! Do you have pets?" },
-                { "no": "Ja, jeg har en katt som heter Maja.", "pron": "JA, JEG har en KATT som HE-ter MA-ja.", "en": "Yes, I have a cat named Maja." },
-                { "no": "Har du hatt andre kjæledyr før?", "pron": "HAR DU hatt AN-dre KJÆ-le-dyr FØR?", "en": "Have you had other pets before?" },
-                { "no": "Ja, jeg hadde en hund da jeg var liten.", "pron": "JA, JEG HAD-de en HUND da JEG var LI-ten.", "en": "Yes, I had a dog when I was little." },
-                { "no": "Hva het hunden din?", "pron": "HVA HET HUN-den DIN?", "en": "What was your dog’s name?" },
-                { "no": "Han het Max, og han var veldig snill.", "pron": "HAN HET Max, og HAN var VEL-dig SNILL.", "en": "His name was Max, and he was very kind." },
-                { "no": "Hva liker du best med kjæledyr?", "pron": "HVA LI-ker DU BEST med KJÆ-le-dyr?", "en": "What do you like best about pets?" },
-                { "no": "Jeg liker at de gir selskap og glede.", "pron": "JEG LI-ker at de GIR SEL-skap og GLE-de.", "en": "I like that they give company and joy." },
-                { "no": "Hva synes du kan være vanskelig med kjæledyr?", "pron": "HVA SYN-es DU kan VÆ-re VANS-ke-lig med KJÆ-le-dyr?", "en": "What do you think can be difficult about pets?" },
-                { "no": "De trenger mye tid og stell hver dag.", "pron": "DE TREN-ger MY-e TID og STELL HVER DAG.", "en": "They need a lot of time and care every day." },
-                { "no": "Hva tror du er bra med å ha kjæledyr?", "pron": "HVA TROR DU er BRA med å ha KJÆ-le-dyr?", "en": "What do you think is good about having pets?" },
-                { "no": "Jeg tror kjæledyr gjør livet mindre ensomt.", "pron": "JEG TROR KJÆ-le-dyr GJØR LI-vet MIN-dre EN-somt.", "en": "I think pets make life less lonely." },
-                { "no": "Er det noen kjæledyr du savner?", "pron": "ER det NO-en KJÆ-le-dyr DU SAV-ner?", "en": "Are there any pets you miss?" },
-                { "no": "Ja, jeg savner hunden min Max fordi han var så lojal.", "pron": "JA, JEG SAV-ner HUN-den MIN Max fo-DI han var så lo-JAL.", "en": "Yes, I miss my dog Max because he was so loyal." },
-                { "no": "Har du noen gang passet et dyr for andre?", "pron": "HAR DU NO-en GANG PAS-set et DYR for AN-dre?", "en": "Have you ever looked after a pet for others?" },
-                { "no": "Ja, jeg passet en kanin for naboen min i fjor.", "pron": "JA, JEG PAS-set en ka-NIN for NA-bo-en MIN i FJOR.", "en": "Yes, I looked after a rabbit for my neighbor last year." },
-                { "no": "Hva synes du om fugler som kjæledyr?", "pron": "HVA SYN-es DU om FUG-ler som KJÆ-le-dyr?", "en": "What do you think about birds as pets?" },
-                { "no": "De er fine, men de kan bråke mye.", "pron": "DE er FI-ne, MEN de kan BRÅ-ke MY-e.", "en": "They are nice, but they can make a lot of noise." },
-                { "no": "Hva med fisk, liker du det som kjæledyr?", "pron": "HVA med FISK, LI-ker DU det som KJÆ-le-dyr?", "en": "What about fish, do you like them as pets?" },
-                { "no": "Ja, fisk er lette å passe på, selv om de ikke gir så mye selskap.", "pron": "JA, FISK er LET-te å PAS-se PÅ, SELV om de IK-ke GIR så MY-e SEL-skap.", "en": "Yes, fish are easy to take care of, even though they don’t give much company." },
-                { "no": "Kunne du tenke deg å få et nytt kjæledyr i fremtiden?", "pron": "KUN-ne DU TEN-ke deg å FÅ et NYTT KJÆ-le-dyr i FREM-ti-den?", "en": "Would you like to get a new pet in the future?" },
-                { "no": "Kanskje, jeg vil ha en hund igjen når jeg har tid og plass.", "pron": "KANS-kje, JEG vil ha en HUND ig-JEN NÅR JEG har TID og PLASS.", "en": "Maybe, I want a dog again when I have time and space." },
-                { "no": "Jeg vil si at kjæledyr gjør livet bedre og mer hyggelig.", "pron": "JEG vil SI at KJÆ-le-dyr GJØR LI-vet BED-re og MER HYG-ge-lig.", "en": "I would say that pets make life better and more pleasant." },
-                { "no": "Jeg er enig, derfor vil jeg alltid ha et kjæledyr i livet mitt.", "pron": "JEG er E-nig, DER-for vil JEG ALL-tid ha et KJÆ-le-dyr i LI-vet MITT.", "en": "I agree, therefore I will always have a pet in my life." },
-                { "no": "Det var hyggelig å snakke om kjæledyr!", "pron": "DET var HYG-ge-lig å SNAK-ke om KJÆ-le-dyr!", "en": "It was nice to talk about pets!" }
+                { "no": "Hei! Ja, jeg har en katt hjemme.", "pron": "HEI! JA, JEG HAR en KATT HJEM-me.", "en": "Hi! Yes, I have a cat at home." },
+                { "no": "Hva heter katten din?", "pron": "HVA HE-ter KATT-en DIN?", "en": "What is your cat’s name?" },
+                { "no": "Den heter Luna, og hun er tre år gammel.", "pron": "DEN HE-ter LU-na, og HUN er TRE ÅR GAM-mel.", "en": "Her name is Luna, and she is three years old." },
+                { "no": "Har du hatt andre kjæledyr før?", "pron": "HAR DU HATT AN-dre KJÆ-le-dyr FØR?", "en": "Have you had other pets before?" },
+                { "no": "Ja, jeg hadde en hund da jeg var liten.", "pron": "JA, JEG HAD-de en HUND DA JEG var LI-ten.", "en": "Yes, I had a dog when I was little." },
+                { "no": "Hva het hunden din?", "pron": "HVA HET HUND-en DIN?", "en": "What was your dog’s name?" },
+                { "no": "Han het Max, og han var veldig snill.", "pron": "HAN HET MAX, og HAN var VEL-dig SNILL.", "en": "His name was Max, and he was very kind." },
+                { "no": "Hva med deg, har du kjæledyr nå?", "pron": "HVA med DEG, HAR DU KJÆ-le-dyr NÅ?", "en": "What about you, do you have pets now?" },
+                { "no": "Nei, jeg har ikke kjæledyr nå, men jeg hadde en kanin.", "pron": "NEI, JEG HAR IK-ke KJÆ-le-dyr NÅ, MEN JEG HAD-de en ka-NIN.", "en": "No, I don’t have pets now, but I had a rabbit." },
+                { "no": "Hva het kaninen?", "pron": "HVA HET ka-NI-nen?", "en": "What was the rabbit’s name?" },
+                { "no": "Den het Snø, og den var helt hvit.", "pron": "DEN HET SNØ, og DEN var HELT HVIT.", "en": "It was called Snow, and it was completely white." },
+                { "no": "Hva synes du er bra med å ha kjæledyr?", "pron": "HVA SYN-es DU er BRA med å HA KJÆ-le-dyr?", "en": "What do you think is good about having pets?" },
+                { "no": "Jeg synes det er bra fordi man får selskap.", "pron": "JEG SYN-es DET er BRA fo-DI man FÅR SELS-kap.", "en": "I think it is good because you get company." },
+                { "no": "Ja, og kjæledyr kan gi glede hver dag.", "pron": "JA, og KJÆ-le-dyr KAN GI GLE-de HVER DAG.", "en": "Yes, and pets can give joy every day." },
+                { "no": "Kjæledyr kan også lære barn ansvar.", "pron": "KJÆ-le-dyr KAN ÅG-so LÆ-re BARN ANS-var.", "en": "Pets can also teach children responsibility." },
+                { "no": "Det er sant, barn lærer å passe på dyr.", "pron": "DET er SANT, BARN LÆR-er å PAS-se PÅ DYR.", "en": "That’s true, children learn to take care of animals." },
+                { "no": "Er det noe du ikke liker med kjæledyr?", "pron": "ER DET NO-e DU IK-ke LI-ker med KJÆ-le-dyr?", "en": "Is there something you don’t like about pets?" },
+                { "no": "Ja, noen ganger kan det bli mye hår i huset.", "pron": "JA, NO-en GAN-ger KAN DET BLI MY-e HÅR i HUS-et.", "en": "Yes, sometimes it can be a lot of hair in the house." },
+                { "no": "Og man må alltid gi dem mat og vann.", "pron": "OG man MÅ ALL-tid GI DEM MAT og VANN.", "en": "And you must always give them food and water." },
+                { "no": "Er det et kjæledyr du savner spesielt?", "pron": "ER DET et KJÆ-le-dyr DU SAV-ner spe-si-ELT?", "en": "Is there a pet you especially miss?" },
+                { "no": "Ja, jeg savner hunden min Max veldig mye.", "pron": "JA, JEG SAV-ner HUND-en MIN MAX VEL-dig MY-e.", "en": "Yes, I miss my dog Max very much." },
+                { "no": "Jeg savner kaninen min Snø fordi den var søt.", "pron": "JEG SAV-ner ka-NI-nen MIN SNØ fo-DI DEN var SØT.", "en": "I miss my rabbit Snow because it was cute." },
+                { "no": "Kunne du tenke deg å ha et kjæledyr igjen?", "pron": "KUN-ne DU TEN-ke DEG å HA et KJÆ-le-dyr i-GJEN?", "en": "Would you like to have a pet again?" },
+                { "no": "Ja, kanskje en hund når jeg får mer tid.", "pron": "JA, KANS-je en HUND NÅR JEG FÅR MER TID.", "en": "Yes, maybe a dog when I get more time." },
+                { "no": "Jeg vil gjerne ha en liten katt i fremtiden.", "pron": "JEG vil JÆR-ne HA en LI-ten KATT i FREM-ti-den.", "en": "I would like to have a small cat in the future." },
+                { "no": "Kjæledyr gjør hjemmet mer levende.", "pron": "KJÆ-le-dyr GJØR HJEM-met MER LE-ven-de.", "en": "Pets make the home more lively." },
+                { "no": "Ja, jeg er helt enig, de er en del av familien.", "pron": "JA, JEG er HELT E-nig, DE er en DEL av FA-mi-li-en.", "en": "Yes, I totally agree, they are a part of the family." },
+                { "no": "Det var hyggelig å snakke om kjæledyr med deg.", "pron": "DET var HYG-ge-lig å SNAK-ke om KJÆ-le-dyr med DEG.", "en": "It was nice to talk about pets with you." },
+                { "no": "Ja, tusen takk for praten, vi sees snart igjen.", "pron": "JA, TU-sen TAKK for PRA-ten, VI SE-es SNART i-GJEN.", "en": "Yes, thank you very much for the talk, see you soon again." }
 ]
         }
-      ]
-    },
-    {
-      "kind": "verbs_table",
-      "title": "Verb",
-      "verbs": [
-        { "inf": "å lære", "inf_pron": "å LÆ-re", "inf_en": "to learn", "pres": "lærer", "pres_pron": "LÆR-er", "pres_en": "learns", "pret": "lærte", "pret_pron": "LÆR-te", "pret_en": "learned", "perf": "har lært", "perf_pron": "har LÆRT", "perf_en": "has learned", "fut": "skal lære", "fut_pron": "skal LÆ-re", "fut_en": "will learn", "notes": "" },
-        { "inf": "å lese", "inf_pron": "å LE-se", "inf_en": "to read", "pres": "leser", "pres_pron": "LE-ser", "pres_en": "reads", "pret": "leste", "pret_pron": "LES-te", "pret_en": "read (past)", "perf": "har lest", "perf_pron": "har LEST", "perf_en": "has read", "fut": "skal lese", "fut_pron": "skal LE-se", "fut_en": "will read", "notes": "" },
-        { "inf": "å skrive", "inf_pron": "å SKRI-ve", "inf_en": "to write", "pres": "skriver", "pres_pron": "SKRI-ver", "pres_en": "writes", "pret": "skrev", "pret_pron": "skrev", "pret_en": "wrote", "perf": "har skrevet", "perf_pron": "har SKREV-et", "perf_en": "has written", "fut": "skal skrive", "fut_pron": "skal SKRI-ve", "fut_en": "will write", "notes": "⚠ irregular" },
-        { "inf": "å regne", "inf_pron": "å REG-ne", "inf_en": "to calculate/do math", "pres": "regner", "pres_pron": "REG-ner", "pres_en": "does math", "pret": "regnet", "pret_pron": "REG-net", "pret_en": "did math", "perf": "har regnet", "perf_pron": "har REG-net", "perf_en": "has done math", "fut": "skal regne", "fut_pron": "skal REG-ne", "fut_en": "will do math", "notes": "" },
-        { "inf": "å samarbeide", "inf_pron": "å SAM-ar-bai-de", "inf_en": "to cooperate", "pres": "samarbeider", "pres_pron": "SAM-ar-bai-der", "pres_en": "cooperates", "pret": "samarbeidet", "pret_pron": "SAM-ar-bai-det", "pret_en": "cooperated", "perf": "har samarbeidet", "perf_pron": "har SAM-ar-bai-det", "perf_en": "has cooperated", "fut": "skal samarbeide", "fut_pron": "skal SAM-ar-bai-de", "fut_en": "will cooperate", "notes": "" }
       ]
     }
   ]

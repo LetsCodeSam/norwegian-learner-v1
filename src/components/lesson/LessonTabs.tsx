@@ -18,6 +18,7 @@ function firstAvailableTab(blocks: Block[]): BlockKind {
 }
 
 
+
 export function LessonTabs({ blocks }: { blocks: Block[] }) {
   const [tab, setTab] = React.useState<BlockKind>(() => firstAvailableTab(blocks ?? []));
 
@@ -82,8 +83,10 @@ export function LessonTabs({ blocks }: { blocks: Block[] }) {
           case 'lines':
             return <LinesBlock key={i} block={b} />;
 
-          case 'qa_list':
-            return <QAListBlock key={i} block={b} />;
+          case 'qa_list': {
+            return tab === 'qa_list' ? <QAListBlock key={i} block={b as any} /> : null;
+          }
+
 
           case 'mono':
             return <MonoBlock key={i} block={b} />;

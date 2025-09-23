@@ -1,0 +1,49 @@
+{
+  "title": "Dialog – Snakke om hobbyer",
+  "meta": { "cefr": "A2", "topic": "Hobbyer", "tags": ["education", "subjects", "children"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "no": "Snakk om skolen.",
+          "pron": "snakk om SKO-len",
+          "en": "Talk about school.",
+          "model": [
+                { "no": "Hei! Hva liker du å gjøre på fritiden?", "pron": "HEI! HVA LI-ker DU å GJØ-re på FRI-ti-den?", "en": "Hi! What do you like to do in your free time?" },
+                { "no": "Hei! Jeg liker å lese bøker når jeg har tid.", "pron": "HEI! JEG LI-ker å LE-se BØ-ker NÅR JEG HAR TID.", "en": "Hi! I like to read books when I have time." },
+                { "no": "Hva slags bøker liker du best?", "pron": "HVA SLAGS BØ-ker LI-ker DU BEST?", "en": "What kind of books do you like best?" },
+                { "no": "Jeg liker romaner og noen ganger krimbøker.", "pron": "JEG LI-ker ro-MA-ner og NO-en GAN-ger KRIM-bø-ker.", "en": "I like novels and sometimes crime books." },
+                { "no": "Det høres spennende ut. Jeg liker å se på filmer.", "pron": "DET HØ-res SPEN-nen-de UT. JEG LI-ker å SE på FIL-mer.", "en": "That sounds exciting. I like to watch movies." },
+                { "no": "Hva slags filmer ser du på?", "pron": "HVA SLAGS FIL-mer SER DU på?", "en": "What kind of movies do you watch?" },
+                { "no": "Jeg ser ofte komedier fordi de gjør meg glad.", "pron": "JEG SER OF-te ko-ME-di-er fo-DI DE GJØR MEG GLAD.", "en": "I often watch comedies because they make me happy." },
+                { "no": "Jeg liker også å gå tur i skogen.", "pron": "JEG LI-ker ÅG-so å GÅ TUR i SKO-gen.", "en": "I also like to go for walks in the forest." },
+                { "no": "Går du tur alene eller sammen med noen?", "pron": "GÅR DU TUR a-LE-ne el-ler SAM-men med NO-en?", "en": "Do you walk alone or with someone?" },
+                { "no": "Ofte går jeg sammen med en venn fordi det er hyggelig.", "pron": "OF-te GÅR JEG SAM-men med en VENN fo-DI DET er HYG-ge-lig.", "en": "Often I walk with a friend because it is nice." },
+                { "no": "Jeg spiller fotball med venner i helgene.", "pron": "JEG SPIL-ler FOT-ball med VEN-ner i HEL-ge-ne.", "en": "I play football with friends on weekends." },
+                { "no": "Hvor spiller dere fotball?", "pron": "HVOR SPIL-ler DE-re FOT-ball?", "en": "Where do you play football?" },
+                { "no": "Vi spiller på en bane ved skolen.", "pron": "VI SPIL-ler på en BA-ne ved SKO-len.", "en": "We play on a field near the school." },
+                { "no": "Jeg liker å male bilder i fritiden min.", "pron": "JEG LI-ker å MA-le BIL-der i FRI-ti-den MIN.", "en": "I like to paint pictures in my free time." },
+                { "no": "Hva maler du ofte?", "pron": "HVA MA-ler DU OF-te?", "en": "What do you often paint?" },
+                { "no": "Jeg maler blomster og hus, det er rolig og fint.", "pron": "JEG MA-ler BLOM-ster og HUS, DET er RO-lig og FINT.", "en": "I paint flowers and houses, it is calm and nice." },
+                { "no": "Jeg hører ofte på musikk når jeg slapper av.", "pron": "JEG HØR-er OF-te på MU-sikk NÅR JEG SLAP-per AV.", "en": "I often listen to music when I relax." },
+                { "no": "Hva slags musikk liker du best?", "pron": "HVA SLAGS MU-sikk LI-ker DU BEST?", "en": "What kind of music do you like best?" },
+                { "no": "Jeg liker popmusikk, men noen ganger hører jeg på klassisk.", "pron": "JEG LI-ker POP-mu-sikk, MEN NO-en GAN-ger HØR-er JEG på KLASS-isk.", "en": "I like pop music, but sometimes I listen to classical." },
+                { "no": "Jeg spiller gitar fordi jeg liker musikk veldig godt.", "pron": "JEG SPIL-ler gi-TAR fo-DI JEG LI-ker MU-sikk VEL-dig GODT.", "en": "I play guitar because I like music very much." },
+                { "no": "Kan du spille mange sanger?", "pron": "KAN DU SPIL-le MAN-ge SAN-ger?", "en": "Can you play many songs?" },
+                { "no": "Ja, jeg kan spille noen enkle sanger for venner.", "pron": "JA, JEG KAN SPIL-le NO-en ENK-le SAN-ger for VEN-ner.", "en": "Yes, I can play some simple songs for friends." },
+                { "no": "Jeg baker ofte kaker som hobby.", "pron": "JEG BA-ker OF-te KA-ker som HOB-by.", "en": "I often bake cakes as a hobby." },
+                { "no": "Hvilke kaker liker du å bake?", "pron": "HVIL-ke KA-ker LI-ker DU å BA-ke?", "en": "What cakes do you like to bake?" },
+                { "no": "Jeg liker å bake sjokoladekake fordi den smaker godt.", "pron": "JEG LI-ker å BA-ke sjo-ko-LA-de-ka-ke fo-DI DEN SMA-ker GODT.", "en": "I like to bake chocolate cake because it tastes good." },
+                { "no": "Det høres deilig ut! Jeg liker også kake.", "pron": "DET HØ-res DEI-lig UT! JEG LI-ker ÅG-so KA-ke.", "en": "That sounds delicious! I also like cake." },
+                { "no": "Jeg tror hobbyer er viktige fordi de gir glede.", "pron": "JEG TROR HOB-by-er er VIK-ti-ge fo-DI DE GIR GLE-de.", "en": "I think hobbies are important because they give joy." },
+                { "no": "Ja, jeg er enig. Hobbyer gjør livet bedre og mer interessant.", "pron": "JA, JEG er E-nig. HOB-by-er GJØR LI-vet BED-re og MER in-te-res-SANT.", "en": "Yes, I agree. Hobbies make life better and more interesting." },
+                { "no": "Det var hyggelig å snakke om hobbyene våre.", "pron": "DET var HYG-ge-lig å SNAK-ke om HOB-by-e-ne VÅ-re.", "en": "It was nice to talk about our hobbies." },
+                { "no": "Ja, tusen takk for praten, vi sees snart igjen.", "pron": "JA, TU-sen TAKK for PRA-ten, VI SE-es SNART i-GJEN.", "en": "Yes, thank you very much for the talk, see you soon again." }
+]
+        }
+      ]
+    }
+  ]
+}

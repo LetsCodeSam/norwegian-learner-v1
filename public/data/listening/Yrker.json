@@ -3,6 +3,31 @@
   "meta": { "cefr": "A2", "topic": "Yrker", "tags": ["city", "shops", "transport", "school", "work"] },
   "blocks": [
     {
+        "kind": "qa_list",
+        "title": "Spørsmål og svar",
+        "groups": [
+          {
+            "title": "Familie",
+            "items": [
+              { "noQ": "Hva gjør en frisør?", "noA": "En frisør klipper, vasker og styler hår.", "enQ": "What does a hairdresser do?", "enA": "A hairdresser cuts, washes and styles hair." },
+              { "noQ": "Hvor jobber en frisør?", "noA": "En frisør jobber i en frisørsalong.", "enQ": "Where does a hairdresser work?", "enA": "A hairdresser works in a salon." },
+              { "noQ": "Hva synes du om yrket frisør?", "noA": "Jeg synes det er kreativt og sosialt.", "enQ": "What do you think about the hairdresser profession?", "enA": "I think it is creative and social." }
+
+            ]
+          },
+          {
+            "title": "Venner",
+            "items": [
+              { "noQ": "Hva gjør en frisør?", "noA": "En frisør klipper, vasker og styler hår.", "enQ": "What does a hairdresser do?", "enA": "A hairdresser cuts, washes and styles hair." },
+              { "noQ": "Hvor jobber en frisør?", "noA": "En frisør jobber i en frisørsalong.", "enQ": "Where does a hairdresser work?", "enA": "A hairdresser works in a salon." },
+              { "noQ": "Hva synes du om yrket frisør?", "noA": "Jeg synes det er kreativt og sosialt.", "enQ": "What do you think about the hairdresser profession?", "enA": "I think it is creative and social." }
+
+            ]
+          }
+        ]
+      },
+
+    {
       "kind": "mono",
       "title": "Yrker",
       "groups": [
@@ -73,6 +98,138 @@
                 ]
           }
         ]
+      },
+      {
+          "title": "Yrket Frisør",
+          "items": [
+            {
+              "model": [
+                { "no": "Hei! Jeg heter Ravi, og jeg vil fortelle om yrket frisør.", "pron": "HEI! JEG HE-ter RA-vi, og JEG vil for-TEL-le om YR-ket fri-SØR.", "en": "Hi! My name is Ravi, and I want to talk about the profession hairdresser." },
+                { "no": "En frisør jobber i en frisørsalong.", "pron": "EN fri-SØR JOB-ber i en fri-SØR-sa-long.", "en": "A hairdresser works in a hair salon." },
+                { "no": "En frisør klipper hår.", "pron": "EN fri-SØR KLIP-per HÅR.", "en": "A hairdresser cuts hair." },
+                { "no": "De vasker, tørker og styler hår.", "pron": "DE VAS-ker, TØR-ker og STY-ler HÅR.", "en": "They wash, dry, and style hair." },
+                { "no": "En frisør kan farge hår i mange forskjellige farger.", "pron": "EN fri-SØR kan FAR-ge HÅR i MAN-ge for-SJEL-li-ge FAR-ger.", "en": "A hairdresser can dye hair in many different colors." },
+                { "no": "De bruker saks, kam og hårføner.", "pron": "DE BRU-ker SAKS, KAM og HÅR-fø-ner.", "en": "They use scissors, comb, and hairdryer." },
+                { "no": "En frisør må være nøye og kreativ.", "pron": "EN fri-SØR MÅ VÆ-re NØY-e og kre-a-TIV.", "en": "A hairdresser must be precise and creative." },
+                { "no": "En frisør snakker mye med kundene sine.", "pron": "EN fri-SØR SNAK-ker MY-e med KUN-de-ne SI-ne.", "en": "A hairdresser talks a lot with their customers." },
+                { "no": "Det er viktig å lytte til hva kunden ønsker.", "pron": "DET er VIK-tig å LYT-te til HVA KUN-den ØNS-ker.", "en": "It is important to listen to what the customer wants." },
+                { "no": "Jeg synes frisører gir folk selvtillit.", "pron": "JEG SYN-es fri-SØR-er GIR FOLK SELV-ti-lit.", "en": "I think hairdressers give people confidence." },
+                { "no": "Mange føler seg gladere etter et frisørbesøk.", "pron": "MAN-ge FØ-ler SEG GLA-de-re ET-ter et fri-SØR-be-søk.", "en": "Many feel happier after a visit to the hairdresser." },
+                { "no": "Da jeg var liten, likte jeg å se på frisøren i nabolaget.", "pron": "DA JEG var LI-ten, LIK-te JEG å SE på fri-SØR-en i NA-bo-la-get.", "en": "When I was little, I liked to watch the hairdresser in the neighborhood." },
+                { "no": "Hun klippet hår raskt og snakket med alle.", "pron": "HUN KLIP-pet HÅR RASKT og SNAK-ket med AL-le.", "en": "She cut hair quickly and talked with everyone." },
+                { "no": "Jeg tror frisøryrket er sosialt og morsomt.", "pron": "JEG TROR fri-SØR-yr-ket er so-si-ALT og MOR-somt.", "en": "I think the hairdresser profession is social and fun." },
+                { "no": "En frisør må også jobbe lenge på beina.", "pron": "EN fri-SØR MÅ ÅG-so JOB-be LENG-e på BEI-na.", "en": "A hairdresser must also work long hours on their feet." },
+                { "no": "Det kan være slitsomt, men også givende.", "pron": "DET kan VÆ-re SLITS-omt, MEN ÅG-so GI-ven-de.", "en": "It can be tiring, but also rewarding." },
+                { "no": "En frisør kan starte sin egen salong.", "pron": "EN fri-SØR kan STAR-te SIN E-gen sa-LONG.", "en": "A hairdresser can start their own salon." },
+                { "no": "De kan også jobbe på motevisninger eller filmsett.", "pron": "DE kan ÅG-so JOB-be på MO-te-vis-ning-er el-ler FILM-sett.", "en": "They can also work at fashion shows or film sets." },
+                { "no": "Jeg vil si at frisører gjør en forskjell i folks hverdag.", "pron": "JEG vil SI at fri-SØR-er GJØR en FOR-skjell i FOLKS HVER-dag.", "en": "I would say that hairdressers make a difference in people’s daily lives." },
+                { "no": "Jeg beundrer frisører fordi de kombinerer kunst og service.", "pron": "JEG be-UND-rer fri-SØR-er fo-DI de kom-bi-NER-er KUNST og SER-vice.", "en": "I admire hairdressers because they combine art and service." },
+                { "no": "Frisøryrket passer for mennesker som liker mennesker.", "pron": "fri-SØR-yr-ket PAS-ser for MEN-nes-ker som LI-ker MEN-nes-ker.", "en": "The hairdresser profession suits people who like people." },
+                { "no": "Jeg synes frisøryrket er både kreativt og praktisk.", "pron": "JEG SYN-es fri-SØR-yr-ket er BÅ-de kre-a-TIVT og PRAK-tisk.", "en": "I think the hairdresser profession is both creative and practical." },
+                { "no": "Selv om det kan være krevende, gir det mye glede.", "pron": "SELV om DET kan VÆ-re KREV-en-de, GIR DET MY-e GLE-de.", "en": "Even though it can be demanding, it gives a lot of joy." },
+                { "no": "Jeg vil si at yrket frisør er viktig i samfunnet.", "pron": "JEG vil SI at YR-ket fri-SØR er VIK-tig i SAM-funn-et.", "en": "I would say that the hairdresser profession is important in society." },
+                { "no": "Det var alt jeg kan si om yrket frisør.", "pron": "DET var ALT JEG kan SI om YR-ket fri-SØR.", "en": "That was all I can say about the profession hairdresser." }
+              ]
+          }
+        ]
+      },
+      {
+          "title": "Yrket Lege",
+          "items": [
+            {
+              "model": [
+                { "no": "En lege jobber på sykehus eller legekontor.", "en": "A doctor works at a hospital or a doctor’s office." },
+                { "no": "En lege undersøker pasienter og gir behandling.", "en": "A doctor examines patients and gives treatment." },
+                { "no": "En lege kan skrive resepter på medisiner.", "en": "The doctor can write prescriptions for medicine." },
+                { "no": "En lege samarbeider ofte med sykepleiere.", "en": "A doctor often cooperates with nurses." },
+                { "no": "De jobber på akuttmottak eller vanlige avdelinger.", "en": "They work in emergency rooms or normal departments." },
+                { "no": "En lege må være kunnskapsrik og rolig.", "en": "A doctor must be knowledgeable and calm." },
+                { "no": "En lege må forklare sykdommer og behandling.", "en": "A doctor must explain illnesses and treatments." },
+                { "no": "Jeg synes leger har mye ansvar.", "en": "I think doctors have a lot of responsibility." },
+                { "no": "Det kan være stressende å være lege.", "en": "It can be stressful to be a doctor." },
+                { "no": "Men det er også givende fordi de hjelper mennesker.", "en": "But it is also rewarding because they help people." },
+                { "no": "Jeg husker da jeg var liten, tok legen vare på meg når jeg var syk.", "en": "I remember when I was little, the doctor took care of me when I was sick." },
+                { "no": "Jeg ble trygg av å gå til legen.", "en": "I felt safe going to the doctor." },
+                { "no": "En lege må studere i mange år.", "en": "A doctor must study for many years." },
+                { "no": "De lærer om kropp, sykdom og medisiner.", "en": "They learn about the body, illness, and medicine." },
+                { "no": "Jeg beundrer leger fordi de redder liv.", "en": "I admire doctors because they save lives." },
+                { "no": "Jeg synes jobben er en av de viktigste i samfunnet.", "en": "I think the job is one of the most important in society." },
+                { "no": "Drømmejobben til mange er å bli lege.", "en": "The dream job for many is to become a doctor." },
+                { "no": "Jeg tror det er spennende å møte pasienter hver dag.", "en": "I think it is exciting to meet patients every day." },
+                { "no": "Selv om det er krevende, gir det mening.", "en": "Even though it is demanding, it gives meaning." },
+                { "no": "Jeg vil si at lege er et respektert yrke.", "en": "I would say that being a doctor is a respected profession." },
+                { "no": "Det var alt jeg kan si om leger.", "en": "That was all I can say about doctors." }
+              ]
+          }
+        ]
+      },
+      {
+          "title": "Yrket Sykepleier",
+          "items": [
+            {
+              "model": [
+                { "no": "En sykepleier jobber på sykehus, sykehjem eller klinikk.", "pron": "EN SY-ke-plei-er JOB-ber på SY-ke-hus, SY-ke-hjem el-ler KLI-nikk.", "en": "A nurse works at a hospital, nursing home, or clinic." },
+                { "no": "En sykepleier hjelper leger og pasienter hver dag.", "pron": "EN SY-ke-plei-er HJEL-per LE-ger og pa-si-EN-ter HVER DAG.", "en": "A nurse helps doctors and patients every day." },
+                { "no": "De deler ut medisiner til pasientene.", "pron": "DE DE-ler UT me-di-SI-ner til pa-si-EN-te-ne.", "en": "They distribute medicine to patients." },
+                { "no": "En sykepleier tar blodtrykk og måler temperatur.", "pron": "EN SY-ke-plei-er TAR BLOD-trykk og MÅ-ler tem-pe-ra-TUR.", "en": "A nurse takes blood pressure and measures temperature." },
+                { "no": "De setter sprøyter og skifter bandasjer.", "pron": "DE SET-ter SPRØY-ter og SKIF-ter ban-DA-sjer.", "en": "They give injections and change bandages." },
+                { "no": "En sykepleier passer på pasientene hele døgnet.", "pron": "EN SY-ke-plei-er PAS-ser PÅ pa-si-EN-te-ne HE-le DØY-net.", "en": "A nurse looks after patients all day and night." },
+                { "no": "Mange sykepleiere jobber turnus.", "pron": "MAN-ge SY-ke-plei-e-re JOB-ber TUR-nus.", "en": "Many nurses work shifts." },
+                { "no": "De kan jobbe både dag, kveld og natt.", "pron": "DE kan JOB-be BÅ-de DAG, KVELD og NATT.", "en": "They can work day, evening, and night." },
+                { "no": "En sykepleier må være tålmodig og omsorgsfull.", "pron": "EN SY-ke-plei-er MÅ VÆ-re TÅL-mo-dig og OM-sorgs-full.", "en": "A nurse must be patient and caring." },
+                { "no": "Jobben kan være fysisk krevende.", "pron": "JOB-ben kan VÆ-re FY-sisk KREV-en-de.", "en": "The job can be physically demanding." },
+                { "no": "En sykepleier samarbeider tett med leger.", "pron": "EN SY-ke-plei-er SAM-ar-bei-der TETT med LE-ger.", "en": "A nurse works closely with doctors." },
+                { "no": "De forklarer pasientene hvordan de skal ta medisinen.", "pron": "DE for-KLA-rer pa-si-EN-te-ne HVOR-dan de skal TA me-di-SI-nen.", "en": "They explain to patients how to take their medicine." },
+                { "no": "Jeg synes sykepleiere har en veldig viktig jobb.", "pron": "JEG SYN-es SY-ke-plei-e-re har en VEL-dig VIK-tig JOBB.", "en": "I think nurses have a very important job." },
+                { "no": "De gir trygghet til pasientene.", "pron": "DE GIR TRYGG-het til pa-si-EN-te-ne.", "en": "They give security to the patients." },
+                { "no": "Da jeg var syk, tok sykepleieren godt vare på meg.", "pron": "DA JEG var SYK, TOK SY-ke-plei-e-ren GODT VA-re på MEG.", "en": "When I was sick, the nurse took good care of me." },
+                { "no": "Jeg følte meg trygg og rolig.", "pron": "JEG FØL-te MEG TRYGG og RO-lig.", "en": "I felt safe and calm." },
+                { "no": "Sykepleiere må lære mye på skolen.", "pron": "SY-ke-plei-e-re MÅ LÆ-re MY-e på SKO-len.", "en": "Nurses must learn a lot in school." },
+                { "no": "De studerer anatomi, sykdom og behandling.", "pron": "DE stu-DE-rer a-na-TO-mi, SYK-dom og be-HAND-ling.", "en": "They study anatomy, illness, and treatment." },
+                { "no": "Jeg beundrer sykepleiere fordi de hjelper mennesker hver dag.", "pron": "JEG be-UND-rer SY-ke-plei-e-re fo-DI de HJEL-per MEN-nes-ker HVER DAG.", "en": "I admire nurses because they help people every day." },
+                { "no": "Jeg synes sykepleieryrket er krevende men givende.", "pron": "JEG SYN-es SY-ke-plei-er-yr-ket er KREV-en-de MEN GI-ven-de.", "en": "I think the nursing profession is demanding but rewarding." },
+                { "no": "Mange drømmer om å bli sykepleier.", "pron": "MAN-ge DRØM-mer om å BLI SY-ke-plei-er.", "en": "Many dream of becoming a nurse." },
+                { "no": "Jeg tror det er spennende å jobbe med mennesker.", "pron": "JEG TROR DET er SPEN-nen-de å JOB-be med MEN-nes-ker.", "en": "I think it is exciting to work with people." },
+                { "no": "Sykepleiere gjør en forskjell i livet til pasienter.", "pron": "SY-ke-plei-e-re GJØR en FOR-skjell i LI-vet til pa-si-EN-ter.", "en": "Nurses make a difference in patients’ lives." },
+                { "no": "Jeg vil si at sykepleiere er helter i hverdagen.", "pron": "JEG vil SI at SY-ke-plei-e-re er HEL-ter i HVER-da-gen.", "en": "I would say that nurses are heroes in everyday life." },
+                { "no": "Det var alt jeg kan si om sykepleiere.", "pron": "DET var ALT JEG kan SI om SY-ke-plei-e-re.", "en": "That was all I can say about nurses." }
+                ]
+          }
+        ]
+      },
+      {
+          "title": "Yrket Butikkmedarbeider",
+          "items": [
+            {
+              "model": [
+                { "no": "En butikkmedarbeider jobber i en butikk.", "pron": "EN bu-TIKK-me-dar-bei-der JOB-ber i en bu-TIKK.", "en": "A shop assistant works in a store." },
+                { "no": "De hjelper kunder med å finne varer.", "pron": "DE HJEL-per KUN-der med å FIN-ne VA-rer.", "en": "They help customers find goods." },
+                { "no": "En butikkmedarbeider står ofte i kassen.", "pron": "EN bu-TIKK-me-dar-bei-der STÅR OF-te i KAS-sen.", "en": "A shop assistant often works at the checkout." },
+                { "no": "De tar imot betaling med kort og kontanter.", "pron": "DE TAR i-MOT be-TA-ling med KORT og kon-TAN-ter.", "en": "They take payments with card and cash." },
+                { "no": "En butikkmedarbeider fyller varer i hyllene.", "pron": "EN bu-TIKK-me-dar-bei-der FYL-ler VA-rer i HYL-le-ne.", "en": "A shop assistant fills shelves with goods." },
+                { "no": "De rydder butikken og holder den ren.", "pron": "DE RYD-der bu-TIKK-en og HOL-der den REN.", "en": "They tidy the store and keep it clean." },
+                { "no": "Jobben kan være travel i helgene.", "pron": "JOB-ben kan VÆ-re TRA-vel i HEL-ge-ne.", "en": "The job can be busy on weekends." },
+                { "no": "Det er mange kunder før jul og høytider.", "pron": "DET er MAN-ge KUN-der før JUL og HØY-ti-der.", "en": "There are many customers before Christmas and holidays." },
+                { "no": "En butikkmedarbeider må være serviceinnstilt.", "pron": "EN bu-TIKK-me-dar-bei-der MÅ VÆ-re SER-vice-inn-stilt.", "en": "A shop assistant must be service-minded." },
+                { "no": "De må være høflige mot kundene.", "pron": "DE MÅ VÆ-re HØF-li-ge mot KUN-de-ne.", "en": "They must be polite to the customers." },
+                { "no": "Jeg synes butikkmedarbeidere er viktige i samfunnet.", "pron": "JEG SYN-es bu-TIKK-me-dar-bei-de-re er VIK-ti-ge i SAM-funn-et.", "en": "I think shop assistants are important in society." },
+                { "no": "Alle mennesker trenger mat og klær.", "pron": "AL-le MEN-nes-ker TREN-ger MAT og KLÆR.", "en": "All people need food and clothes." },
+                { "no": "Da jeg var student, jobbet jeg litt i butikk.", "pron": "DA JEG var stu-DENT, JOB-bet JEG LITT i bu-TIKK.", "en": "When I was a student, I worked a little in a shop." },
+                { "no": "Jeg lærte å bruke kassen og hjelpe kunder.", "pron": "JEG LÆR-te å BRU-ke KAS-sen og HJEL-pe KUN-der.", "en": "I learned to use the checkout and help customers." },
+                { "no": "Jeg ble bedre i norsk av å snakke med kunder.", "pron": "JEG BLE BED-re i NORSK av å SNAK-ke med KUN-der.", "en": "I improved my Norwegian by talking with customers." },
+                { "no": "En butikkmedarbeider må være presis.", "pron": "EN bu-TIKK-me-dar-bei-der MÅ VÆ-re pre-SIS.", "en": "A shop assistant must be punctual." },
+                { "no": "Jobben kan være fysisk fordi man står mye.", "pron": "JOB-ben kan VÆ-re FY-sisk fo-DI man STÅR MY-e.", "en": "The job can be physical because you stand a lot." },
+                { "no": "Men man møter mange hyggelige mennesker.", "pron": "MEN man MØ-ter MAN-ge HYG-ge-li-ge MEN-nes-ker.", "en": "But you meet many nice people." },
+                { "no": "En butikkmedarbeider lærer mye om varer.", "pron": "EN bu-TIKK-me-dar-bei-der LÆR-er MY-e om VA-rer.", "en": "A shop assistant learns a lot about products." },
+                { "no": "De lærer også hvordan man behandler kunder.", "pron": "DE LÆR-er ÅG-so HVOR-dan man be-HAND-ler KUN-der.", "en": "They also learn how to handle customers." },
+                { "no": "Jeg synes jobben passer for sosiale mennesker.", "pron": "JEG SYN-es JOB-ben PAS-ser for so-si-A-le MEN-nes-ker.", "en": "I think the job suits social people." },
+                { "no": "Jobben er nyttig selv om den kan være krevende.", "pron": "JOB-ben er NYT-tig SELV om DEN kan VÆ-re KREV-en-de.", "en": "The job is useful even though it can be demanding." },
+                { "no": "Jeg vil si at butikkmedarbeidere er viktige i hverdagen.", "pron": "JEG vil SI at bu-TIKK-me-dar-bei-de-re er VIK-ti-ge i HVER-da-gen.", "en": "I would say that shop assistants are important in daily life." },
+                { "no": "Drømmejobben min er en annen, men jeg respekterer jobben.", "pron": "DRØM-me-JOB-ben MIN er en AN-nen, MEN JEG res-pek-TER-er JOB-ben.", "en": "My dream job is another, but I respect the job." },
+                { "no": "Det var alt jeg kan si om butikkmedarbeidere.", "pron": "DET var ALT JEG kan SI om bu-TIKK-me-dar-bei-de-re.", "en": "That was all I can say about shop assistants." }
+                ]
+          }
+        ]
       }
       ]
       },
@@ -91,7 +248,7 @@
             ]
         },
         {
-          "title": "Yrker2",
+          "title": "Yrket Lærer",
           "verbs": [
             { "inf": "å undervise", "inf_pron": "å UN-der-vi-se", "inf_en": "to teach", "pres": "underviser", "pres_pron": "UN-der-vi-ser", "pres_en": "teaches", "pret": "underviste", "pret_pron": "UN-der-vis-te", "pret_en": "taught", "perf": "har undervist", "perf_pron": "har UN-der-vist", "perf_en": "has taught", "fut": "skal undervise", "fut_pron": "skal UN-der-vi-se", "fut_en": "will teach", "notes": "" },
             { "inf": "å rette", "inf_pron": "å RET-te", "inf_en": "to grade", "pres": "retter", "pres_pron": "RET-ter", "pres_en": "grades", "pret": "rettet", "pret_pron": "RET-tet", "pret_en": "graded", "perf": "har rettet", "perf_pron": "har RET-tet", "perf_en": "has graded", "fut": "skal rette", "fut_pron": "skal RET-te", "fut_en": "will grade", "notes": "" },
@@ -99,8 +256,39 @@
             { "inf": "å hjelpe", "inf_pron": "å HJEL-pe", "inf_en": "to help", "pres": "hjelper", "pres_pron": "HJEL-per", "pres_en": "helps", "pret": "hjalp", "pret_pron": "HJALP", "pret_en": "helped", "perf": "har hjulpet", "perf_pron": "har HJUL-pet", "perf_en": "has helped", "fut": "skal hjelpe", "fut_pron": "skal HJEL-pe", "fut_en": "will help", "notes": "irreg." },
             { "inf": "å forberede", "inf_pron": "å FOR-be-re-de", "inf_en": "to prepare", "pres": "forbereder", "pres_pron": "FOR-be-re-der", "pres_en": "prepares", "pret": "forberedte", "pret_pron": "FOR-be-red-te", "pret_en": "prepared", "perf": "har forberedt", "perf_pron": "har FOR-be-redt", "perf_en": "has prepared", "fut": "skal forberede", "fut_pron": "skal FOR-be-re-de", "fut_en": "will prepare", "notes": "" }
             ]
+        },
+        {
+          "title": "Yrket Frisør",
+          "verbs": [
+            { "inf": "å klippe", "inf_pron": "å KLIP-pe", "inf_en": "to cut", "pres": "klipper", "pres_pron": "KLIP-per", "pres_en": "cuts", "pret": "klippet", "pret_pron": "KLIP-pet", "pret_en": "cut", "perf": "har klippet", "perf_pron": "har KLIP-pet", "perf_en": "has cut", "fut": "skal klippe", "fut_pron": "skal KLIP-pe", "fut_en": "will cut", "notes": "" },
+            { "inf": "å vaske", "inf_pron": "å VAS-ke", "inf_en": "to wash", "pres": "vasker", "pres_pron": "VAS-ker", "pres_en": "washes", "pret": "vasket", "pret_pron": "VAS-ket", "pret_en": "washed", "perf": "har vasket", "perf_pron": "har VAS-ket", "perf_en": "has washed", "fut": "skal vaske", "fut_pron": "skal VAS-ke", "fut_en": "will wash", "notes": "" },
+            { "inf": "å farge", "inf_pron": "å FAR-ge", "inf_en": "to dye", "pres": "farger", "pres_pron": "FAR-ger", "pres_en": "dyes", "pret": "farget", "pret_pron": "FAR-get", "pret_en": "dyed", "perf": "har farget", "perf_pron": "har FAR-get", "perf_en": "has dyed", "fut": "skal farge", "fut_pron": "skal FAR-ge", "fut_en": "will dye", "notes": "" },
+            { "inf": "å style", "inf_pron": "å STY-le", "inf_en": "to style", "pres": "styler", "pres_pron": "STY-ler", "pres_en": "styles", "pret": "stylet", "pret_pron": "STY-let", "pret_en": "styled", "perf": "har stylet", "perf_pron": "har STY-let", "perf_en": "has styled", "fut": "skal style", "fut_pron": "skal STY-le", "fut_en": "will style", "notes": "" },
+            { "inf": "å lytte", "inf_pron": "å LYT-te", "inf_en": "to listen", "pres": "lytter", "pres_pron": "LYT-ter", "pres_en": "listens", "pret": "lyttet", "pret_pron": "LYT-tet", "pret_en": "listened", "perf": "har lyttet", "perf_pron": "har LYT-tet", "perf_en": "has listened", "fut": "skal lytte", "fut_pron": "skal LYT-te", "fut_en": "will listen", "notes": "" }
+          ]
+        },
+        {
+          "title": "Yrket Lege",
+          "verbs": [
+            { "inf": "å klippe", "inf_pron": "å KLIP-pe", "inf_en": "to cut", "pres": "klipper", "pres_pron": "KLIP-per", "pres_en": "cuts", "pret": "klippet", "pret_pron": "KLIP-pet", "pret_en": "cut", "perf": "har klippet", "perf_pron": "har KLIP-pet", "perf_en": "has cut", "fut": "skal klippe", "fut_pron": "skal KLIP-pe", "fut_en": "will cut", "notes": "" },
+            { "inf": "å vaske", "inf_pron": "å VAS-ke", "inf_en": "to wash", "pres": "vasker", "pres_pron": "VAS-ker", "pres_en": "washes", "pret": "vasket", "pret_pron": "VAS-ket", "pret_en": "washed", "perf": "har vasket", "perf_pron": "har VAS-ket", "perf_en": "has washed", "fut": "skal vaske", "fut_pron": "skal VAS-ke", "fut_en": "will wash", "notes": "" },
+            { "inf": "å farge", "inf_pron": "å FAR-ge", "inf_en": "to dye", "pres": "farger", "pres_pron": "FAR-ger", "pres_en": "dyes", "pret": "farget", "pret_pron": "FAR-get", "pret_en": "dyed", "perf": "har farget", "perf_pron": "har FAR-get", "perf_en": "has dyed", "fut": "skal farge", "fut_pron": "skal FAR-ge", "fut_en": "will dye", "notes": "" },
+            { "inf": "å style", "inf_pron": "å STY-le", "inf_en": "to style", "pres": "styler", "pres_pron": "STY-ler", "pres_en": "styles", "pret": "stylet", "pret_pron": "STY-let", "pret_en": "styled", "perf": "har stylet", "perf_pron": "har STY-let", "perf_en": "has styled", "fut": "skal style", "fut_pron": "skal STY-le", "fut_en": "will style", "notes": "" },
+            { "inf": "å lytte", "inf_pron": "å LYT-te", "inf_en": "to listen", "pres": "lytter", "pres_pron": "LYT-ter", "pres_en": "listens", "pret": "lyttet", "pret_pron": "LYT-tet", "pret_en": "listened", "perf": "har lyttet", "perf_pron": "har LYT-tet", "perf_en": "has listened", "fut": "skal lytte", "fut_pron": "skal LYT-te", "fut_en": "will listen", "notes": "" }
+          ]
+        },
+        {
+          "title": "Yrket Butikkmedarbeider",
+          "verbs": [
+            { "inf": "å hjelpe", "inf_pron": "å HJEL-pe", "inf_en": "to help", "pres": "hjelper", "pres_pron": "HJEL-per", "pres_en": "helps", "pret": "hjalp", "pret_pron": "HJALP", "pret_en": "helped", "perf": "har hjulpet", "perf_pron": "har HJUL-pet", "perf_en": "has helped", "fut": "skal hjelpe", "fut_pron": "skal HJEL-pe", "fut_en": "will help", "notes": "irreg." },
+            { "inf": "å rydde", "inf_pron": "å RYD-de", "inf_en": "to tidy", "pres": "rydder", "pres_pron": "RYD-der", "pres_en": "tidies", "pret": "ryddet", "pret_pron": "RYD-det", "pret_en": "tidied", "perf": "har ryddet", "perf_pron": "har RYD-det", "perf_en": "has tidied", "fut": "skal rydde", "fut_pron": "skal RYD-de", "fut_en": "will tidy", "notes": "" },
+            { "inf": "å fylle", "inf_pron": "å FYL-le", "inf_en": "to fill", "pres": "fyller", "pres_pron": "FYL-ler", "pres_en": "fills", "pret": "fylte", "pret_pron": "FYL-te", "pret_en": "filled", "perf": "har fylt", "perf_pron": "har FYLT", "perf_en": "has filled", "fut": "skal fylle", "fut_pron": "skal FYL-le", "fut_en": "will fill", "notes": "" },
+            { "inf": "å betale", "inf_pron": "å be-TA-le", "inf_en": "to pay", "pres": "betaler", "pres_pron": "be-TA-ler", "pres_en": "pays", "pret": "betalte", "pret_pron": "be-TAL-te", "pret_en": "paid", "perf": "har betalt", "perf_pron": "har be-TALT", "perf_en": "has paid", "fut": "skal betale", "fut_pron": "skal be-TA-le", "fut_en": "will pay", "notes": "" },
+            { "inf": "å stå", "inf_pron": "å STÅ", "inf_en": "to stand", "pres": "står", "pres_pron": "STÅR", "pres_en": "stands", "pret": "stod", "pret_pron": "STOD", "pret_en": "stood", "perf": "har stått", "perf_pron": "har STÅTT", "perf_en": "has stood", "fut": "skal stå", "fut_pron": "skal STÅ", "fut_en": "will stand", "notes": "irreg." }
+      ]
         }
   ]
 }
+      
   ]
 }

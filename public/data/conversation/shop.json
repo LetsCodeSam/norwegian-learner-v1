@@ -1,0 +1,70 @@
+{
+  "title": "Conversation – At the Shop (Schema v2, 25 Turns)",
+  "meta": { "cefr": "A2", "topic": "At the Shop", "tags": ["education", "subjects", "children"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "model": [
+            { "no": "Hei! Hvordan har du det i dag?", "pron": "HEI! HVOR-dan HAR DU DET i DAG?", "en": "Hi! How are you today?" },
+            { "no": "Hei! Jeg har det bra, takk. Kan jeg hjelpe deg med noe?", "pron": "HEI! JEG HAR DET BRA, TAKK. KAN JEG HJEL-pe DEG med NO-e?", "en": "Hi! I am fine, thanks. Can I help you with something?" },
+            { "no": "Ja, jeg vil gjerne kjøpe en liter melk.", "pron": "JA, JEG vil JÆR-ne KJØ-pe en LI-ter MELK.", "en": "Yes, I would like to buy a liter of milk." },
+            { "no": "Melken står til venstre ved siden av brødet.", "pron": "MEL-ken STÅR til VEN-stre ved SI-den av BRØ-det.", "en": "The milk is on the left next to the bread." },
+            { "no": "Flott! Jeg trenger også et ferskt brød til frokost.", "pron": "FLOTT! JEG TREN-ger ÅG-so et FERSKT BRØD til FRO-kost.", "en": "Great! I also need a fresh bread for breakfast." },
+            { "no": "Brødet finner du rett foran deg på hyllen.", "pron": "BRØ-det FIN-ner DU RETT FO-ran DEG på HYL-len.", "en": "The bread you will find right in front of you on the shelf." },
+            { "no": "Har dere ost i dag? Jeg liker gul ost.", "pron": "HAR DE-re OST i DAG? JEG LI-ker GUL OST.", "en": "Do you have cheese today? I like yellow cheese." },
+            { "no": "Ja, vi har både gul ost og brunost her.", "pron": "JA, VI HAR BÅ-de GUL OST og BRU-nost HER.", "en": "Yes, we have both yellow cheese and brown cheese here." },
+            { "no": "Da tar jeg en pakke gul ost, takk.", "pron": "DA TAR JEG en PAK-ke GUL OST, TAKK.", "en": "Then I will take one pack of yellow cheese, thanks." },
+            { "no": "Vil du kjøpe noe kaffe også?", "pron": "VIL DU KJØ-pe NO-e KAF-fe ÅG-so?", "en": "Do you want to buy some coffee too?" },
+            { "no": "Ja, jeg drikker kaffe hver morgen fordi det gir energi.", "pron": "JA, JEG DRIK-ker KAF-fe HVER MOR-gen fo-DI DET GIR e-ner-GI.", "en": "Yes, I drink coffee every morning because it gives energy." },
+            { "no": "Vil du ha en stor eller liten pose kaffe?", "pron": "VIL DU HA en STOR el-ler LI-ten PO-se KAF-fe?", "en": "Do you want a big or small bag of coffee?" },
+            { "no": "Jeg vil ha en liten pose kaffe, takk.", "pron": "JEG vil HA en LI-ten PO-se KAF-fe, TAKK.", "en": "I would like a small bag of coffee, thanks." },
+            { "no": "Vil du kjøpe frukt eller grønnsaker i dag?", "pron": "VIL DU KJØ-pe FRUKT el-ler GRØNN-sa-ker i DAG?", "en": "Do you want to buy fruit or vegetables today?" },
+            { "no": "Ja, jeg vil gjerne kjøpe seks epler og tre bananer.", "pron": "JA, JEG vil JÆR-ne KJØ-pe SEKS EP-ler og TRE ba-NA-ner.", "en": "Yes, I would like to buy six apples and three bananas." },
+            { "no": "Eplene ligger rett foran deg, og bananene er til høyre.", "pron": "EP-le-ne LIG-ger RETT FO-ran DEG, og ba-NA-ne-ne er til HØY-re.", "en": "The apples are right in front of you, and the bananas are to the right." },
+            { "no": "Har dere tomater også? Jeg vil lage salat i kveld.", "pron": "HAR DE-re to-MA-ter ÅG-so? JEG vil LA-ge sa-LAT i KVELD.", "en": "Do you have tomatoes too? I want to make salad tonight." },
+            { "no": "Ja, vi har ferske tomater i grønnsaksavdelingen.", "pron": "JA, VI HAR FERS-ke to-MA-ter i GRØNN-saks-av-de-ling-en.", "en": "Yes, we have fresh tomatoes in the vegetable section." },
+            { "no": "Flott! Hvor mye koster en kilo tomater?", "pron": "FLOTT! HVOR MY-e KOS-ter en KI-lo to-MA-ter?", "en": "Great! How much does one kilo of tomatoes cost?" },
+            { "no": "En kilo tomater koster tretti kroner i dag.", "pron": "EN KI-lo to-MA-ter KOS-ter TRET-ti KRO-ner i DAG.", "en": "One kilo of tomatoes costs thirty kroner today." },
+            { "no": "Da tar jeg en kilo, det er ikke så dyrt.", "pron": "DA TAR JEG en KI-lo, DET er IK-ke så DYRT.", "en": "Then I will take one kilo, that is not so expensive." },
+            { "no": "Vil du betale kontant eller med kort?", "pron": "VIL DU be-TA-le kon-TANT el-ler med KORT?", "en": "Do you want to pay cash or with card?" },
+            { "no": "Jeg vil betale med kort, fordi det er enklere.", "pron": "JEG vil be-TA-le med KORT, fo-DI DET er ENK-le-re.", "en": "I want to pay with card because it is easier." },
+            { "no": "Sett kortet inn her og tast koden din, takk.", "pron": "SETT KORT-et INN HER og TAST KO-den DIN, TAKK.", "en": "Insert the card here and enter your code, thank you." },
+            { "no": "Jeg har tastet koden, og jeg ser betalingen går gjennom.", "pron": "JEG har TAS-tet KO-den, og JEG SER be-TA-ling-en GÅR GJEN-nom.", "en": "I have entered the code, and I see the payment is going through." },
+            { "no": "Vil du ha kvittering med en gang?", "pron": "VIL DU HA kvi-TE-ring MED en GANG?", "en": "Do you want the receipt right away?" },
+            { "no": "Ja, jeg vil ha kvitteringen, fordi jeg liker orden.", "pron": "JA, JEG vil HA kvi-TE-ring-en, fo-DI JEG LI-ker OR-den.", "en": "Yes, I want the receipt, because I like order." },
+            { "no": "Her er kvitteringen din, sammen med varene dine.", "pron": "HER er kvi-TE-ring-en DIN, SAM-men med VA-re-ne DI-ne.", "en": "Here is your receipt, together with your goods." },
+            { "no": "Tusen takk for hjelpen i dag, du var hyggelig.", "pron": "TU-sen TAKK for HJEL-pen i DAG, DU var HYG-ge-lig.", "en": "Thank you very much for the help today, you were kind." },
+            { "no": "Bare hyggelig! Ha en fin dag videre.", "pron": "BA-re HYG-ge-lig! HA en FIN DAG VI-de-re.", "en": "You’re welcome! Have a nice rest of the day." },
+            { "no": "Ha det bra og på gjensyn!", "pron": "HA det BRA og PÅ GJEN-syn!", "en": "Goodbye and see you again!" }
+      ]
+        }
+  ,
+    {
+      "kind": "wordlist",
+      "title": "Tricky words and pronunciation tips",
+      "items": [
+        { "no": "gift", "say": "ift (g er stum)" },
+        { "no": "kjøpe", "say": "sjø-pe (kj = sj)" },
+        { "no": "kjenne", "say": "sjen-ne (kj = sj)" },
+        { "no": "skjema", "say": "sje-ma (skj = sj)" },
+        { "no": "skje", "say": "sje (skj = sj)" },
+        { "no": "nyheter", "say": "ny-he-ter" },
+        { "no": "informasjon", "say": "in-for-ma-sjon (sj-lyd)" },
+        { "no": "politikk", "say": "po-li-tikk" },
+        { "no": "kultur", "say": "kul-tur" },
+        { "no": "podkast", "say": "pod-kast" },
+        { "no": "mobil", "say": "mo-bil" },
+        { "no": "tog", "say": "tog" },
+        { "no": "artikkel", "say": "ar-tik-kel" },
+        { "no": "bilder", "say": "bil-der (r uttales svakt)" },
+        { "no": "avis", "say": "a-vis" },
+        { "no": "radio", "say": "ra-dio" },
+        { "no": "balansere", "say": "ba-lan-se-re" },
+        { "no": "stresset", "say": "stres-set" },
+        { "no": "viktig", "say": "vik-tig (g tydelig)" },
+        { "no": "derfor", "say": "der-for" }
+      ]
+    }
+  ]
+}

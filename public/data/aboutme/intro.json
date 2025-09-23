@@ -35,13 +35,29 @@
     {
       "kind": "qa_list",
       "title": "Q & A – Dette er meg",
-      "items": [
-        { "noQ": "Hva heter du?", "pronQ": "HVA HE-ter DU?", "enQ": "What is your name?", "noA": "Jeg heter Anna.", "pronA": "JEG HE-ter AN-na.", "enA": "My name is Anna." },
-        { "noQ": "Hvor kommer du fra?", "pronQ": "HVOR KOM-mer DU FRA?", "enQ": "Where are you from?", "noA": "Jeg kommer fra Polen.", "pronA": "JEG KOM-mer fra PO-len.", "enA": "I come from Poland." },
-        { "noQ": "Hvor bor du?", "pronQ": "HVOR BOR DU?", "enQ": "Where do you live?", "noA": "Jeg bor i Oslo.", "pronA": "JEG BOR i OS-lo.", "enA": "I live in Oslo." },
-        { "noQ": "Hvor lenge har du bodd i Norge?", "pronQ": "HVOR LENG-e har DU BODD i NOR-ge?", "enQ": "How long have you lived in Norway?", "noA": "Jeg har bodd her i to år.", "pronA": "JEG har BODD HER i TO ÅR.", "enA": "I have lived here for two years." },
-        { "noQ": "Hva gjør du i Norge?", "pronQ": "HVA GJØR DU i NOR-ge?", "enQ": "What do you do in Norway?", "noA": "Jeg jobber som servitør og studerer norsk.", "pronA": "JEG JOB-ber som ser-vi-TØR og stu-DE-rer NORSK.", "enA": "I work as a waiter and study Norwegian." },
-        { "noQ": "Hvorfor vil du lære norsk?", "pronQ": "HVOR-for vil DU LÆ-re NORSK?", "enQ": "Why do you want to learn Norwegian?", "noA": "Fordi jeg bor her og vil få en bedre jobb.", "pronA": "fo-DI JEG BOR HER og vil FÅ en BED-re JOBB.", "enA": "Because I live here and want to get a better job." }
+      "groups": [
+        {
+          "title": "Familie",
+          "items": [
+            { "noQ": "Hva heter du?", "pronQ": "HVA HE-ter DU?", "enQ": "What is your name?", "noA": "Jeg heter Anna.", "pronA": "JEG HE-ter AN-na.", "enA": "My name is Anna." },
+            { "noQ": "Hvor kommer du fra?", "pronQ": "HVOR KOM-mer DU FRA?", "enQ": "Where are you from?", "noA": "Jeg kommer fra Polen.", "pronA": "JEG KOM-mer fra PO-len.", "enA": "I come from Poland." },
+            { "noQ": "Hvor bor du?", "pronQ": "HVOR BOR DU?", "enQ": "Where do you live?", "noA": "Jeg bor i Oslo.", "pronA": "JEG BOR i OS-lo.", "enA": "I live in Oslo." },
+            { "noQ": "Hvor lenge har du bodd i Norge?", "pronQ": "HVOR LENG-e har DU BODD i NOR-ge?", "enQ": "How long have you lived in Norway?", "noA": "Jeg har bodd her i to år.", "pronA": "JEG har BODD HER i TO ÅR.", "enA": "I have lived here for two years." },
+            { "noQ": "Hva gjør du i Norge?", "pronQ": "HVA GJØR DU i NOR-ge?", "enQ": "What do you do in Norway?", "noA": "Jeg jobber som servitør og studerer norsk.", "pronA": "JEG JOB-ber som ser-vi-TØR og stu-DE-rer NORSK.", "enA": "I work as a waiter and study Norwegian." },
+            { "noQ": "Hvorfor vil du lære norsk?", "pronQ": "HVOR-for vil DU LÆ-re NORSK?", "enQ": "Why do you want to learn Norwegian?", "noA": "Fordi jeg bor her og vil få en bedre jobb.", "pronA": "fo-DI JEG BOR HER og vil FÅ en BED-re JOBB.", "enA": "Because I live here and want to get a better job." }
+          ]
+        },
+        {
+          "title": "Familie2",
+          "items": [
+            { "noQ": "Hva heter du?", "pronQ": "HVA HE-ter DU?", "enQ": "What is your name?", "noA": "Jeg heter Anna.", "pronA": "JEG HE-ter AN-na.", "enA": "My name is Anna." },
+            { "noQ": "Hvor kommer du fra?", "pronQ": "HVOR KOM-mer DU FRA?", "enQ": "Where are you from?", "noA": "Jeg kommer fra Polen.", "pronA": "JEG KOM-mer fra PO-len.", "enA": "I come from Poland." },
+            { "noQ": "Hvor bor du?", "pronQ": "HVOR BOR DU?", "enQ": "Where do you live?", "noA": "Jeg bor i Oslo.", "pronA": "JEG BOR i OS-lo.", "enA": "I live in Oslo." },
+            { "noQ": "Hvor lenge har du bodd i Norge?", "pronQ": "HVOR LENG-e har DU BODD i NOR-ge?", "enQ": "How long have you lived in Norway?", "noA": "Jeg har bodd her i to år.", "pronA": "JEG har BODD HER i TO ÅR.", "enA": "I have lived here for two years." },
+            { "noQ": "Hva gjør du i Norge?", "pronQ": "HVA GJØR DU i NOR-ge?", "enQ": "What do you do in Norway?", "noA": "Jeg jobber som servitør og studerer norsk.", "pronA": "JEG JOB-ber som ser-vi-TØR og stu-DE-rer NORSK.", "enA": "I work as a waiter and study Norwegian." },
+            { "noQ": "Hvorfor vil du lære norsk?", "pronQ": "HVOR-for vil DU LÆ-re NORSK?", "enQ": "Why do you want to learn Norwegian?", "noA": "Fordi jeg bor her og vil få en bedre jobb.", "pronA": "fo-DI JEG BOR HER og vil FÅ en BED-re JOBB.", "enA": "Because I live here and want to get a better job." }
+          ]
+        }
       ]
     },
     {
