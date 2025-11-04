@@ -66,6 +66,16 @@
 { "alias": "nav.home.seogsnakk", "type": "group", "label": "Se og Snakk", "emoji": "👥", "children": [
 { "alias": "nav.home.seogsnakk.seogsnakk", "type": "dataset", "label": "Se og Snakk", "emoji": "🏫", "path": "/data/seogsnakk/seogsnakk.json" }
 
+] },
+
+{ "alias": "nav.home.social", "type": "group", "label": "Social", "emoji": "👥", "children": [
+{ "alias": "nav.home.social", "type": "dataset", "label": "SocialY", "emoji": "🏫", "path": "/data/social/years.json" }
+
+] },
+
+{ "alias": "nav.muntlig.bo", "type": "group", "label": "Self", "emoji": "👥", "children": [
+{ "alias": "nav.muntlig.bo", "type": "dataset", "label": "1.Bo i Norge", "emoji": "🏫", "path": "/data/muntlig/bo.json" }
+
 ] }
 
 

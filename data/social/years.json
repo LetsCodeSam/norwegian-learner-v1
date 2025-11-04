@@ -1,0 +1,10 @@
+{
+  "title": "Notater",
+  "meta": { "cefr": "A1", "topic": "Notes" },
+  "blocks": [
+    { "kind": "markdown", 
+    "title": "Notater", 
+    "content": "## Viktige ord\n\n- **barn** = `child`\n- **is** = `ice cream`\n\n👉 Husk: **17. mai** er Norges nasjonaldag!" }
+    
+  ]
+}

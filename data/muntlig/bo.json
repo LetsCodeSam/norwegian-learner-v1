@@ -1,0 +1,222 @@
+{
+  "title": "Muntlig - Bo i Norge",
+  "meta": { "cefr": "A2", "topic": "Self", "tags": ["muntlig", "subjects", "children"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Bo",
+      "groups": [
+         {
+          "title": "Bo-1",
+          "items": [
+            {
+              "model": [
+                        { "no": "Jeg bor i Norge, og jeg synes det er et fint land å bo i.", "pron": "JEG BOR i NOR-ge, og JEG SYN-es DET er et FINT LAND å BO i.", "en": "I live in Norway, and I think it is a nice country to live in." },
+                      { "no": "Det er trygt, rent og rolig.", "pron": "DET er TRYGT, RENT og RO-lig.", "en": "It is safe, clean and calm." },
+                      { "no": "Folk er vennlige, men litt stille.", "pron": "FOLK er VEN-ne-li-ge, MEN LITT STIL-le.", "en": "People are friendly but a bit quiet." },
+                      { "no": "Jeg bor i en liten leilighet i byen.", "pron": "JEG BOR i en LI-ten LEI-lig-het i BY-en.", "en": "I live in a small apartment in the city." },
+                      { "no": "Leiligheten er moderne og varm om vinteren.", "pron": "LEI-lig-he-ten er mo-DER-ne og VARM om VIN-ter-en.", "en": "The apartment is modern and warm in the winter." },
+                      { "no": "Jeg liker at det er god plass og mye natur rundt.", "pron": "JEG LI-ker at DET er GOD PLASS og MY-e na-TUR RUNDt.", "en": "I like that there is space and a lot of nature around." },
+                      { "no": "Offentlige tjenester fungerer bra.", "pron": "OF-fent-li-ge TJEN-es-ter FUN-ger-er BRA.", "en": "Public services work well." },
+                      { "no": "Bussene kommer som regel presis.", "pron": "BUSS-e-ne KOM-mer som RE-gel pre-SIS.", "en": "The buses usually arrive on time." },
+                      { "no": "Vinteren er lang og kald, men naturen er vakker.", "pron": "VIN-ter-en er LANG og KALD, MEN na-TUR-en er VAK-ker.", "en": "The winter is long and cold, but the nature is beautiful." },
+                      { "no": "Sommeren er lys og hyggelig, og jeg liker å gå tur i fjellet.", "pron": "SOM-mer-en er LYS og HYG-ge-lig, og JEG LI-ker å GÅ TUR i FJEL-let.", "en": "The summer is bright and pleasant, and I like hiking in the mountains." },
+                      { "no": "Jeg synes været er spennende, men noen ganger vanskelig.", "pron": "JEG SYN-es VÆ-ret er SPEN-nen-de, MEN NO-en GAN-ger VANS-ke-lig.", "en": "I think the weather is exciting, but sometimes difficult." },
+                      { "no": "Det regner mye, og det kan være litt kjedelig.", "pron": "DET REG-ner MY-e, og DET kan VÆ-re LITT KJE-de-lig.", "en": "It rains a lot, and that can be a bit boring." },
+                      { "no": "Skolen og jobben her er organisert og rettferdig.", "pron": "SKO-len og JOB-ben HER er or-ga-ni-SERT og rett-FER-dig.", "en": "School and work here are organized and fair." },
+                      { "no": "Lærerne hjelper mye, og man får tid til å lære.", "pron": "LÆR-er-ne HJEL-per MY-e, og MAN FÅR TID til å LÆ-re.", "en": "The teachers help a lot, and you get time to learn." },
+                      { "no": "Jeg liker at folk har balanse mellom jobb og fritid.", "pron": "JEG LI-ker at FOLK har ba-LAN-se mel-LOM JOBB og FRI-tid.", "en": "I like that people have balance between work and free time." },
+                      { "no": "I mitt hjemland er det mer sosialt og varmt.", "pron": "I MITT HJEM-land er DET MER so-si-ALT og VARMT.", "en": "In my home country it is more social and warm." },
+                      { "no": "Men det kan også være mer støy og stress der.", "pron": "MEN DET kan ÅG-so VÆ-re MER STØY og STRESS DER.", "en": "But it can also be more noise and stress there." },
+                      { "no": "I Norge er det rolig, men litt ensomt noen ganger.", "pron": "I NOR-ge er DET RO-lig, MEN LITT EN-somt NO-en GAN-ger.", "en": "In Norway it is calm, but a bit lonely sometimes." },
+                      { "no": "Jeg liker å bo i Norge fordi jeg føler meg trygg.", "pron": "JEG LI-ker å BO i NOR-ge fo-DI JEG FØ-ler MEG TRYGG.", "en": "I like living in Norway because I feel safe." },
+                      { "no": "Jeg har mange muligheter her.", "pron": "JEG HAR MAN-ge MU-lig-he-ter HER.", "en": "I have many opportunities here." },
+                      { "no": "Men jeg savner solen fra hjemlandet mitt.", "pron": "MEN JEG SAV-ner SO-len fra HJEM-land-et MITT.", "en": "But I miss the sun from my home country." },
+                      { "no": "Jeg savner også familien min som bor der.", "pron": "JEG SAV-ner ÅG-so FA-mi-li-en MIN som BOR DER.", "en": "I also miss my family who live there." },
+                      { "no": "Jeg synes det er spennende å lære norsk kultur.", "pron": "JEG SYN-es DET er SPEN-nen-de å LÆ-re NORSK KUL-tur.", "en": "I think it is exciting to learn Norwegian culture." },
+                      { "no": "Jeg prøver å delta i samfunnet og snakke mer norsk.", "pron": "JEG PRØ-ver å DEL-ta i SAM-funn-et og SNAK-ke MER NORSK.", "en": "I try to take part in society and speak more Norwegian." },
+                      { "no": "Alt i alt liker jeg å bo i Norge.", "pron": "ALT i ALT LI-ker JEG å BO i NOR-ge.", "en": "All in all, I like living in Norway." }
+                ]
+          }
+        ]
+      },
+      {
+          "title": "Bo-2",
+          "items": [
+            {
+              "model": [
+                { "no": "Jeg synes det er trygt og rent å bo i Norge.", "pron": "JEG SYN-es DET er TRYGT og RENT å BO i NOR-ge.", "en": "I think it is safe and clean to live in Norway." },
+                { "no": "Om vinteren er det mørkt og kaldt, men også veldig vakkert.", "pron": "OM VIN-ter-en er DET MØRKT og KALDT, MEN ÅG-so VEL-dig VAK-kert.", "en": "In winter it is dark and cold, but also very beautiful." },
+                { "no": "Jeg liker at folk respekterer hverandre og er rolige.", "pron": "JEG LI-ker at FOLK res-pek-TE-rer hver-AN-dre og er RO-li-ge.", "en": "I like that people respect each other and are calm." },
+                { "no": "Jeg bor i en liten leilighet, men den er koselig og varm.", "pron": "JEG BOR i en LI-ten LEI-lig-het, MEN den er KO-se-lig og VARM.", "en": "I live in a small apartment, but it is cozy and warm." },
+                { "no": "Jeg liker å gå tur i skogen når det er fint vær.", "pron": "JEG LI-ker å GÅ TUR i SKO-gen NÅR DET er FINT VÆR.", "en": "I like to go for walks in the forest when the weather is nice." },
+                { "no": "Jeg synes været er spennende, men litt vanskelig noen ganger.", "pron": "JEG SYN-es VÆ-ret er SPEN-nen-de, MEN LITT VANS-ke-lig NO-en GAN-ger.", "en": "I think the weather is exciting, but a little difficult sometimes." },
+                { "no": "Jeg går på skole hver dag, og læreren min er veldig hyggelig.", "pron": "JEG GÅR på SKO-le HVER DAG, og LÆR-er-en MIN er VEL-dig HYG-ge-lig.", "en": "I go to school every day, and my teacher is very nice." },
+                { "no": "Jeg har snille naboer som alltid sier hei.", "pron": "JEG HAR SNIL-le NA-bo-er som ALL-tid SI-er HEI.", "en": "I have kind neighbors who always say hello." },
+                { "no": "Jeg synes prisene er høye, men kvaliteten er god.", "pron": "JEG SYN-es PRI-se-ne er HØY-e, MEN kva-li-TE-ten er GOD.", "en": "I think the prices are high, but the quality is good." },
+                { "no": "Jeg liker norsk natur fordi den er ren og stille.", "pron": "JEG LI-ker NORSK na-TUR fo-DI DEN er REN og STIL-le.", "en": "I like Norwegian nature because it is clean and quiet." },
+                { "no": "Jeg savner familien min fra hjemlandet, men jeg trives her.", "pron": "JEG SAV-ner fa-MI-li-en MIN fra HJEM-land-et, MEN JEG TRI-ves HER.", "en": "I miss my family from my home country, but I enjoy living here." },
+                { "no": "I mitt land er det varmt og livlig, men i Norge er det rolig og stille.", "pron": "I MITT LAND er DET VARMT og LIV-lig, MEN i NOR-ge er DET RO-lig og STIL-le.", "en": "In my country it is warm and lively, but in Norway it is calm and quiet." },
+                { "no": "Jeg føler meg fri og trygg når jeg går ut om kvelden.", "pron": "JEG FØ-ler MEG FRI og TRYGG NÅR JEG GÅR UT om KVEL-den.", "en": "I feel free and safe when I go out in the evening." },
+                { "no": "Jeg synes nordmenn er stille, men hjelpsomme når man spør.", "pron": "JEG SYN-es NORD-menn er STIL-le, MEN HJELP-som-me NÅR man SPØR.", "en": "I think Norwegians are quiet but helpful when you ask." },
+                { "no": "Jeg liker å bo i Norge fordi jeg har gode muligheter for framtiden.", "pron": "JEG LI-ker å BO i NOR-ge fo-DI JEG HAR GO-de MU-lig-he-ter for FRAM-ti-den.", "en": "I like living in Norway because I have good opportunities for the future." }
+                ]
+          }
+        ]
+      },
+      {
+          "title": "Bo-3",
+          "items": [
+            {
+              "model": [
+                { "no": "Jeg synes det er ______ å bo i Norge.", "answer": "hyggelig", "en": "I think it is nice to live in Norway." },
+                { "no": "Om vinteren er det ______ og snø.", "answer": "kaldt", "en": "In winter it is cold and snowy." },
+                { "no": "Jeg liker at det er ______ og trygt her.", "answer": "stille", "en": "I like that it is quiet and safe here." },
+                { "no": "Jeg bor i en ______ i byen.", "answer": "leilighet", "en": "I live in an apartment in the city." },
+                { "no": "Folk er vennlige, men litt ______.", "answer": "stille", "en": "People are friendly but a bit quiet." },
+                { "no": "Jeg liker å gå tur i ______.", "answer": "naturen", "en": "I like to go for walks in nature." },
+                { "no": "Prisene i Norge er ganske ______.", "answer": "dyre", "en": "Prices in Norway are quite expensive." },
+                { "no": "Jeg har mange ______ på skolen.", "answer": "venner", "en": "I have many friends at school." },
+                { "no": "Skolen i Norge er rolig og ______.", "answer": "hyggelig", "en": "School in Norway is calm and nice." },
+                { "no": "Jeg liker at det er ______ i gatene.", "answer": "rent", "en": "I like that it is clean in the streets." },
+                { "no": "Jeg savner ______ fra hjemlandet mitt.", "answer": "familien", "en": "I miss my family from my home country." },
+                { "no": "Jeg synes været i Norge er ______, men interessant.", "answer": "mørkt", "en": "I think the weather in Norway is dark, but interesting." },
+                { "no": "Jeg trives på ______ fordi kollegaene mine er hyggelige.", "answer": "jobb", "en": "I enjoy my job because my colleagues are nice." },
+                { "no": "Jeg synes det er viktig at landet er ______ og rent.", "answer": "trygt", "en": "I think it is important that the country is safe and clean." },
+                { "no": "Jeg liker å bo i Norge fordi jeg føler meg ______.", "answer": "fri", "en": "I like living in Norway because I feel free." }
+              ]
+          }
+        ]
+      },
+      {
+          "title": "Bo-4",
+          "items": [
+            {
+              "model": [
+                {
+                  "no": "Jeg synes livet i Norge er ______ fordi ______.",
+                  "model": "Jeg synes livet i Norge er bra fordi jeg har jobb og gode venner.",
+                  "en": "I think life in Norway is good because I have a job and good friends."
+                },
+                        {
+                  "no": "Om vinteren ______ jeg ofte.",
+                  "model": "Om vinteren går jeg ofte på ski. Jeg liker snøen, men det er kaldt.",
+                  "en": "In winter I often go skiing. I like the snow, but it is cold."
+                },
+                        {
+                  "no": "Jeg synes været i Norge er ______ fordi ______.",
+                  "model": "Jeg synes været i Norge er spennende fordi det forandrer seg ofte.",
+                  "en": "I think the weather in Norway is interesting because it changes often."
+                },
+                {
+                  "no": "Jeg bor i ______, og det er ______.",
+                  "model": "Jeg bor i en leilighet i byen, og det er koselig og rent.",
+                  "en": "I live in an apartment in the city, and it is cozy and clean."
+                },
+                {
+                  "no": "Når det er kaldt ute, ______ jeg.",
+                  "model": "Når det er kaldt ute, drikker jeg te og ser på film hjemme.",
+                  "en": "When it is cold outside, I drink tea and watch movies at home."
+                },
+                {
+                  "no": "Jeg synes folk i Norge er ______, men ______.",
+                  "model": "Jeg synes folk i Norge er stille, men hjelpsomme når man spør.",
+                  "en": "I think people in Norway are quiet, but helpful when you ask."
+                },
+                {
+                  "no": "I mitt hjemland er det ______, men i Norge er det ______.",
+                  "model": "I mitt hjemland er det varmt og livlig, men i Norge er det rolig og kaldt.",
+                  "en": "In my home country it is warm and lively, but in Norway it is calm and cold."
+                },
+                {
+                  "no": "Jeg liker ______ i Norge.",
+                  "model": "Jeg liker naturen og stillheten i Norge. Det er lett å slappe av her.",
+                  "en": "I like the nature and the quiet in Norway. It’s easy to relax here."
+                },
+                {
+                  "no": "Jeg savner ______, men jeg liker ______ her.",
+                  "model": "Jeg savner familien min, men jeg liker livet og tryggheten her.",
+                  "en": "I miss my family, but I like life and safety here."
+                },
+                {
+                  "no": "Jeg synes livet i Norge er ______ fordi ______.",
+                  "model": "Jeg synes livet i Norge er bra fordi jeg har jobb og gode venner.",
+                  "en": "I think life in Norway is good because I have a job and good friends."
+                }
+              ]
+          }
+        ]
+      },
+      {
+          "title": "Yrket Sykepleier",
+          "items": [
+            {
+              "model": [
+                { "no": "En sykepleier jobber på sykehus, sykehjem eller klinikk.", "pron": "EN SY-ke-plei-er JOB-ber på SY-ke-hus, SY-ke-hjem el-ler KLI-nikk.", "en": "A nurse works at a hospital, nursing home, or clinic." },
+                { "no": "En sykepleier hjelper leger og pasienter hver dag.", "pron": "EN SY-ke-plei-er HJEL-per LE-ger og pa-si-EN-ter HVER DAG.", "en": "A nurse helps doctors and patients every day." },
+                { "no": "De deler ut medisiner til pasientene.", "pron": "DE DE-ler UT me-di-SI-ner til pa-si-EN-te-ne.", "en": "They distribute medicine to patients." },
+                { "no": "En sykepleier tar blodtrykk og måler temperatur.", "pron": "EN SY-ke-plei-er TAR BLOD-trykk og MÅ-ler tem-pe-ra-TUR.", "en": "A nurse takes blood pressure and measures temperature." },
+                { "no": "De setter sprøyter og skifter bandasjer.", "pron": "DE SET-ter SPRØY-ter og SKIF-ter ban-DA-sjer.", "en": "They give injections and change bandages." },
+                { "no": "En sykepleier passer på pasientene hele døgnet.", "pron": "EN SY-ke-plei-er PAS-ser PÅ pa-si-EN-te-ne HE-le DØY-net.", "en": "A nurse looks after patients all day and night." },
+                { "no": "Mange sykepleiere jobber turnus.", "pron": "MAN-ge SY-ke-plei-e-re JOB-ber TUR-nus.", "en": "Many nurses work shifts." },
+                { "no": "De kan jobbe både dag, kveld og natt.", "pron": "DE kan JOB-be BÅ-de DAG, KVELD og NATT.", "en": "They can work day, evening, and night." },
+                { "no": "En sykepleier må være tålmodig og omsorgsfull.", "pron": "EN SY-ke-plei-er MÅ VÆ-re TÅL-mo-dig og OM-sorgs-full.", "en": "A nurse must be patient and caring." },
+                { "no": "Jobben kan være fysisk krevende.", "pron": "JOB-ben kan VÆ-re FY-sisk KREV-en-de.", "en": "The job can be physically demanding." },
+                { "no": "En sykepleier samarbeider tett med leger.", "pron": "EN SY-ke-plei-er SAM-ar-bei-der TETT med LE-ger.", "en": "A nurse works closely with doctors." },
+                { "no": "De forklarer pasientene hvordan de skal ta medisinen.", "pron": "DE for-KLA-rer pa-si-EN-te-ne HVOR-dan de skal TA me-di-SI-nen.", "en": "They explain to patients how to take their medicine." },
+                { "no": "Jeg synes sykepleiere har en veldig viktig jobb.", "pron": "JEG SYN-es SY-ke-plei-e-re har en VEL-dig VIK-tig JOBB.", "en": "I think nurses have a very important job." },
+                { "no": "De gir trygghet til pasientene.", "pron": "DE GIR TRYGG-het til pa-si-EN-te-ne.", "en": "They give security to the patients." },
+                { "no": "Da jeg var syk, tok sykepleieren godt vare på meg.", "pron": "DA JEG var SYK, TOK SY-ke-plei-e-ren GODT VA-re på MEG.", "en": "When I was sick, the nurse took good care of me." },
+                { "no": "Jeg følte meg trygg og rolig.", "pron": "JEG FØL-te MEG TRYGG og RO-lig.", "en": "I felt safe and calm." },
+                { "no": "Sykepleiere må lære mye på skolen.", "pron": "SY-ke-plei-e-re MÅ LÆ-re MY-e på SKO-len.", "en": "Nurses must learn a lot in school." },
+                { "no": "De studerer anatomi, sykdom og behandling.", "pron": "DE stu-DE-rer a-na-TO-mi, SYK-dom og be-HAND-ling.", "en": "They study anatomy, illness, and treatment." },
+                { "no": "Jeg beundrer sykepleiere fordi de hjelper mennesker hver dag.", "pron": "JEG be-UND-rer SY-ke-plei-e-re fo-DI de HJEL-per MEN-nes-ker HVER DAG.", "en": "I admire nurses because they help people every day." },
+                { "no": "Jeg synes sykepleieryrket er krevende men givende.", "pron": "JEG SYN-es SY-ke-plei-er-yr-ket er KREV-en-de MEN GI-ven-de.", "en": "I think the nursing profession is demanding but rewarding." },
+                { "no": "Mange drømmer om å bli sykepleier.", "pron": "MAN-ge DRØM-mer om å BLI SY-ke-plei-er.", "en": "Many dream of becoming a nurse." },
+                { "no": "Jeg tror det er spennende å jobbe med mennesker.", "pron": "JEG TROR DET er SPEN-nen-de å JOB-be med MEN-nes-ker.", "en": "I think it is exciting to work with people." },
+                { "no": "Sykepleiere gjør en forskjell i livet til pasienter.", "pron": "SY-ke-plei-e-re GJØR en FOR-skjell i LI-vet til pa-si-EN-ter.", "en": "Nurses make a difference in patients’ lives." },
+                { "no": "Jeg vil si at sykepleiere er helter i hverdagen.", "pron": "JEG vil SI at SY-ke-plei-e-re er HEL-ter i HVER-da-gen.", "en": "I would say that nurses are heroes in everyday life." },
+                { "no": "Det var alt jeg kan si om sykepleiere.", "pron": "DET var ALT JEG kan SI om SY-ke-plei-e-re.", "en": "That was all I can say about nurses." }
+                ]
+          }
+        ]
+      },
+      {
+          "title": "Yrket Butikkmedarbeider",
+          "items": [
+            {
+              "model": [
+                { "no": "En butikkmedarbeider jobber i en butikk.", "pron": "EN bu-TIKK-me-dar-bei-der JOB-ber i en bu-TIKK.", "en": "A shop assistant works in a store." },
+                { "no": "De hjelper kunder med å finne varer.", "pron": "DE HJEL-per KUN-der med å FIN-ne VA-rer.", "en": "They help customers find goods." },
+                { "no": "En butikkmedarbeider står ofte i kassen.", "pron": "EN bu-TIKK-me-dar-bei-der STÅR OF-te i KAS-sen.", "en": "A shop assistant often works at the checkout." },
+                { "no": "De tar imot betaling med kort og kontanter.", "pron": "DE TAR i-MOT be-TA-ling med KORT og kon-TAN-ter.", "en": "They take payments with card and cash." },
+                { "no": "En butikkmedarbeider fyller varer i hyllene.", "pron": "EN bu-TIKK-me-dar-bei-der FYL-ler VA-rer i HYL-le-ne.", "en": "A shop assistant fills shelves with goods." },
+                { "no": "De rydder butikken og holder den ren.", "pron": "DE RYD-der bu-TIKK-en og HOL-der den REN.", "en": "They tidy the store and keep it clean." },
+                { "no": "Jobben kan være travel i helgene.", "pron": "JOB-ben kan VÆ-re TRA-vel i HEL-ge-ne.", "en": "The job can be busy on weekends." },
+                { "no": "Det er mange kunder før jul og høytider.", "pron": "DET er MAN-ge KUN-der før JUL og HØY-ti-der.", "en": "There are many customers before Christmas and holidays." },
+                { "no": "En butikkmedarbeider må være serviceinnstilt.", "pron": "EN bu-TIKK-me-dar-bei-der MÅ VÆ-re SER-vice-inn-stilt.", "en": "A shop assistant must be service-minded." },
+                { "no": "De må være høflige mot kundene.", "pron": "DE MÅ VÆ-re HØF-li-ge mot KUN-de-ne.", "en": "They must be polite to the customers." },
+                { "no": "Jeg synes butikkmedarbeidere er viktige i samfunnet.", "pron": "JEG SYN-es bu-TIKK-me-dar-bei-de-re er VIK-ti-ge i SAM-funn-et.", "en": "I think shop assistants are important in society." },
+                { "no": "Alle mennesker trenger mat og klær.", "pron": "AL-le MEN-nes-ker TREN-ger MAT og KLÆR.", "en": "All people need food and clothes." },
+                { "no": "Da jeg var student, jobbet jeg litt i butikk.", "pron": "DA JEG var stu-DENT, JOB-bet JEG LITT i bu-TIKK.", "en": "When I was a student, I worked a little in a shop." },
+                { "no": "Jeg lærte å bruke kassen og hjelpe kunder.", "pron": "JEG LÆR-te å BRU-ke KAS-sen og HJEL-pe KUN-der.", "en": "I learned to use the checkout and help customers." },
+                { "no": "Jeg ble bedre i norsk av å snakke med kunder.", "pron": "JEG BLE BED-re i NORSK av å SNAK-ke med KUN-der.", "en": "I improved my Norwegian by talking with customers." },
+                { "no": "En butikkmedarbeider må være presis.", "pron": "EN bu-TIKK-me-dar-bei-der MÅ VÆ-re pre-SIS.", "en": "A shop assistant must be punctual." },
+                { "no": "Jobben kan være fysisk fordi man står mye.", "pron": "JOB-ben kan VÆ-re FY-sisk fo-DI man STÅR MY-e.", "en": "The job can be physical because you stand a lot." },
+                { "no": "Men man møter mange hyggelige mennesker.", "pron": "MEN man MØ-ter MAN-ge HYG-ge-li-ge MEN-nes-ker.", "en": "But you meet many nice people." },
+                { "no": "En butikkmedarbeider lærer mye om varer.", "pron": "EN bu-TIKK-me-dar-bei-der LÆR-er MY-e om VA-rer.", "en": "A shop assistant learns a lot about products." },
+                { "no": "De lærer også hvordan man behandler kunder.", "pron": "DE LÆR-er ÅG-so HVOR-dan man be-HAND-ler KUN-der.", "en": "They also learn how to handle customers." },
+                { "no": "Jeg synes jobben passer for sosiale mennesker.", "pron": "JEG SYN-es JOB-ben PAS-ser for so-si-A-le MEN-nes-ker.", "en": "I think the job suits social people." },
+                { "no": "Jobben er nyttig selv om den kan være krevende.", "pron": "JOB-ben er NYT-tig SELV om DEN kan VÆ-re KREV-en-de.", "en": "The job is useful even though it can be demanding." },
+                { "no": "Jeg vil si at butikkmedarbeidere er viktige i hverdagen.", "pron": "JEG vil SI at bu-TIKK-me-dar-bei-de-re er VIK-ti-ge i HVER-da-gen.", "en": "I would say that shop assistants are important in daily life." },
+                { "no": "Drømmejobben min er en annen, men jeg respekterer jobben.", "pron": "DRØM-me-JOB-ben MIN er en AN-nen, MEN JEG res-pek-TER-er JOB-ben.", "en": "My dream job is another, but I respect the job." },
+                { "no": "Det var alt jeg kan si om butikkmedarbeidere.", "pron": "DET var ALT JEG kan SI om bu-TIKK-me-dar-bei-de-re.", "en": "That was all I can say about shop assistants." }
+                ]
+          }
+        ]
+      }
+      ]
+      }
+      
+  ]
+}
