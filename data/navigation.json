@@ -63,6 +63,12 @@
 
 ] },
 
+{ "alias": "nav.home.youtube", "type": "group", "label": "youtube", "emoji": "👥", "children": [
+{ "alias": "nav.home.youtube.weather", "type": "dataset", "label": "Vær", "emoji": "🏫", "path": "/data/uttale/youtube.json" },
+{ "alias": "nav.home.youtube.describe", "type": "dataset", "label": "Describe", "emoji": "🏫", "path": "/data/uttale/describepic.json" }
+
+] },
+
 { "alias": "nav.home.seogsnakk", "type": "group", "label": "Se og Snakk", "emoji": "👥", "children": [
 { "alias": "nav.home.seogsnakk.seogsnakk", "type": "dataset", "label": "Se og Snakk", "emoji": "🏫", "path": "/data/seogsnakk/seogsnakk.json" }
 

@@ -1,0 +1,38 @@
+{
+  "title": "Picture",
+  "meta": { "cefr": "A2", "topic": "City, shops, transport", "tags": ["city", "shops", "transport", "school", "work"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Monolog",
+      "groups": [
+
+    {
+      "title": "StartSetninger",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=TLOVD4-KRqg"
+    },
+    {
+      "title": "Vinter",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=bFdtfmHouls"
+    },
+    {
+      "title": "City-1",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=82kNxI49ucA"
+    },
+    {
+      "title": "Park",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=mUhWW9AZI68"
+    },
+    {
+      "title": "Home",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=oH-G0HUlRJs"
+    }
+      ]
+    }
+  ]
+}

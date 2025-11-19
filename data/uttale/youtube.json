@@ -1,0 +1,28 @@
+{
+  "title": "Vær",
+  "meta": { "cefr": "A2", "topic": "City, shops, transport", "tags": ["city", "shops", "transport", "school", "work"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Monolog",
+      "groups": [
+
+    {
+      "title": "Sommerord",
+      "type": "video",
+      "url": "https://youtu.be/X9vylNgXqvk?si=dAxS-NQKvUcQKVB0"
+    },
+    {
+      "title": "Høst",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=wBOqLxFA3lo"
+    },
+    {
+      "title": "Vår",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=7tYoN28I0XM"
+    }
+      ]
+    }
+  ]
+}
