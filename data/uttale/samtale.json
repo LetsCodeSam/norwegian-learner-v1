@@ -1,0 +1,28 @@
+{
+  "title": "Basics",
+  "meta": { "cefr": "A2", "topic": "City, shops, transport", "tags": ["city", "shops", "transport", "school", "work"] },
+  "blocks": [
+    {
+      "kind": "mono",
+      "title": "Monolog",
+      "groups": [
+
+    {
+      "title": "Ordstilling",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=DSo2i9tv6aQ"
+    },
+    {
+      "title": "OmKvelden",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=AtR-bxVJtoo"
+    },
+    {
+      "title": "Vår",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=7tYoN28I0XM"
+    }
+      ]
+    }
+  ]
+}

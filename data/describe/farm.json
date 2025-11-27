@@ -1,10 +1,10 @@
 {
-  "title": "På Landet",
-  "meta": { "cefr": "A2", "topic": "På Landet", "tags": ["farm", "counter side", "village"] },
+  "title": "Farm",
+  "meta": { "cefr": "A2", "topic": "Farm", "tags": ["city", "counter side", "village"] },
   "blocks": [
     {
       "kind": "image",
-      "src": "assets/describe/pic-landet.png",
+      "src": "assets/describe/pic-farm.png",
       "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
       "caption": "Barnetog og feiring på 17. mai."
     },
@@ -13,69 +13,109 @@
       "title": "Styrt monolog",
       "items": [
         {
-          "no": "Beskriv bildet fra 17. mai.",
-          "pron": "be-SKRIV BIL-det fra søtt-ende mai",
-          "en": "Describe the picture from May 17th.",
           "model": [
-            { "no": "På bildet ser jeg en gård med mange mennesker og dyr.", "pron": "PÅ BIL-det SER JEG en GÅRD med MAN-ge MEN-nes-ker og DYR.", "en": "In the picture I see a farm with many people and animals." },
-            { "no": "Til venstre står en mann og maler et bilde på et staffeli.", "pron": "TIL VEN-stre STÅR en MANN og MA-ler et BIL-de på et staf-fe-LI.", "en": "On the left a man stands painting a picture on an easel." },
-            { "no": "Foran ham sitter en gammel dame på en benk.", "pron": "FO-ran HAM SIT-ter en GAM-mel DA-me på en BENK.", "en": "In front of him sits an old woman on a bench." },
-            { "no": "Hun strikker med garn og pinner.", "pron": "HUN STRIK-ker med GARN og PIN-ner.", "en": "She is knitting with yarn and needles." },
-            { "no": "Ved siden av benken leker en katt med garnnøstet.", "pron": "VED SI-den av BENK-en LE-ker en KATT med GARN-nøs-tet.", "en": "Next to the bench a cat plays with the ball of yarn." },
-            { "no": "Rundt benken går det flere høner og en hane.", "pron": "RUNDt BENK-en GÅR det FLÆ-re HØ-ner og en HA-ne.", "en": "Around the bench there are several hens and a rooster." },
-            { "no": "Jeg ser også en sau som spiser gress.", "pron": "JEG SER ÅG-so en SAU som SPI-ser GRESS.", "en": "I also see a sheep eating grass." },
-            { "no": "I midten rir en jente på en brun hest.", "pron": "I MID-ten RIR en JEN-te på en BRUN HEST.", "en": "In the middle a girl rides a brown horse." },
-            { "no": "Hun smiler og ser fornøyd ut.", "pron": "HUN SMI-ler og SER for-NØYD ut.", "en": "She smiles and looks happy." },
-            { "no": "Bak henne spiller noen barn fotball.", "pron": "BAK HEN-ne SPIL-ler NO-en BARN FOT-ball.", "en": "Behind her some children are playing football." },
-            { "no": "Et annet barn sykler på en blå sykkel.", "pron": "ET AN-net BARN SYK-ler på en BLÅ SYK-kel.", "en": "Another child is riding a blue bicycle." },
-            { "no": "Til høyre kjører en bonde en grønn traktor opp en bakke.", "pron": "TIL HØY-re KJØ-rer en BON-de en GRØNN TRAK-tor OPP en BAK-ke.", "en": "On the right a farmer drives a green tractor up a hill." },
-            { "no": "Bak i bildet ser jeg en stor rød låve.", "pron": "BAK i BIL-det SER JEG en STOR RØD LÅ-ve.", "en": "In the back of the picture I see a big red barn." },
-            { "no": "Ved låven står en mann og vinker.", "pron": "VED LÅ-ven STÅR en MANN og VIN-ker.", "en": "By the barn stands a man waving." },
-            { "no": "Bak låven ligger et lite hvitt hus.", "pron": "BAK LÅ-ven LIG-ger et LI-te HVITT HUS.", "en": "Behind the barn lies a small white house." },
-            { "no": "På taket ser jeg en fugl som sitter.", "pron": "PÅ TA-ket SER JEG en FUGL som SIT-ter.", "en": "On the roof I see a bird sitting." },
-            { "no": "I himmelen flyr en mann med fallskjerm.", "pron": "I HIM-mel-en FLYR en MANN med FALL-skjerm.", "en": "In the sky a man is flying with a parachute." },
-            { "no": "Ved siden av ham svever en person med hangglider.", "pron": "VED SI-den av HAM SVE-ver en PER-son med HANG-gli-der.", "en": "Next to him a person glides with a hang glider." },
-            { "no": "På jordet bak låven vokser grønne planter.", "pron": "PÅ JOR-det BAK LÅ-ven VOK-ser GRØN-ne PLAN-ter.", "en": "In the field behind the barn green plants are growing." },
-            { "no": "Langs gjerdet står en rekke trær.", "pron": "LANGS GJER-det STÅR en REK-ke TRÆR.", "en": "Along the fence stands a row of trees." },
-            { "no": "Foran huset sitter en hund og ser på barna.", "pron": "FO-ran HUS-et SIT-ter en HUND og SER på BAR-na.", "en": "In front of the house sits a dog watching the children." },
-            { "no": "Jeg legger merke til mange detaljer på gården.", "pron": "JEG LEG-ger MER-ke til MAN-ge de-TA-ler på GÅR-den.", "en": "I notice many details on the farm." },
-            { "no": "Det er dyr, mennesker, bygninger og kjøretøy.", "pron": "DET er DYR, MEN-nes-ker, BYG-ning-er og KJØ-re-tøy.", "en": "There are animals, people, buildings and vehicles." },
-            { "no": "Jeg synes bildet viser et livlig sted fullt av aktiviteter.", "pron": "JEG SYN-es BIL-det VI-ser et LIV-lig STED FULLT av ak-ti-vi-te-ter.", "en": "I think the picture shows a lively place full of activities." },
-            { "no": "Det var alt jeg kan si om dette bildet.", "pron": "DET var ALT JEG kan SI om DET-te BIL-det.", "en": "That was all I can say about this picture." }
-            ]
-        }
+        { "no": "På bildet ser jeg en gård med flere dyr og bygninger.", 
+          "pron": "På BIL-det ser jeg en GÅRD med FLÆ-re DYR og BYG-ning-er.", 
+          "en": "In the picture I see a farm with several animals and buildings." },
+
+        { "no": "I midten av bildet står et stort hvitt hus med pipe.", 
+          "pron": "I MID-ten av BIL-det STÅR et STORT HVITT HUS med PI-pe.", 
+          "en": "In the middle of the picture there is a large white house with a chimney." },
+
+        { "no": "Det kommer røyk opp fra pipa, så noen fyrer inne.", 
+          "pron": "Det KOM-mer RØYK opp fra PI-pa, så NO-en FYR-er IN-ne.", 
+          "en": "Smoke is coming out of the chimney, so someone is heating inside." },
+
+        { "no": "Ved siden av huset står det en stor låve.", 
+          "pron": "Ved SI-den av HU-set STÅR det en STOR LÅ-ve.", 
+          "en": "Next to the house there is a big barn." },
+
+        { "no": "Bak låven ser jeg åser og blå fjell.", 
+          "pron": "BAK LÅ-ven ser jeg Å-ser og BLÅ FJELL.", 
+          "en": "Behind the barn I see hills and blue mountains." },
+
+        { "no": "Til venstre står en ku og beiter på gresset.", 
+          "pron": "Til VEN-stre STÅR en KU og BEI-ter på GRES-set.", 
+          "en": "On the left a cow is grazing on the grass." },
+
+        { "no": "Ved siden av kua står en hund og ser opp.", 
+          "pron": "Ved SI-den av KU-a STÅR en HUND og SER OPP.", 
+          "en": "Next to the cow a dog is standing and looking up." },
+
+        { "no": "Til høyre i bildet står en brun hest.", 
+          "pron": "Til HØY-re i BIL-det STÅR en BRUN HEST.", 
+          "en": "On the right side of the picture there is a brown horse." },
+
+        { "no": "Hesten ser rolig ut og står stille.", 
+          "pron": "HEST-en SER RO-lig ut og STÅR STIL-le.", 
+          "en": "The horse looks calm and is standing still." },
+
+        { "no": "I midten ser jeg en grønn traktor med en mann på.", 
+          "pron": "I MID-ten ser jeg en GRØNN TRAK-tor med en MANN på.", 
+          "en": "In the middle I see a green tractor with a man on it." },
+
+        { "no": "Mannen sitter på traktoren og ser ut som han jobber.", 
+          "pron": "MAN-nen SIT-ter på TRAK-to-ren og SER ut som han JOB-ber.", 
+          "en": "The man is sitting on the tractor and looks like he is working." },
+
+        { "no": "Ved siden av huset ser jeg også en liten bod.", 
+          "pron": "Ved SI-den av HU-set ser jeg ÅG-so en LI-ten BOD.", 
+          "en": "Next to the house I also see a small shed." },
+
+        { "no": "På høyre side av bildet står en høy vindmølle.", 
+          "pron": "På HØY-re SI-de av BIL-det STÅR en HØY VIND-møl-le.", 
+          "en": "On the right side of the picture there is a tall windmill." },
+
+        { "no": "Vindmøllen har store blader som snurrer i vinden.", 
+          "pron": "VIND-møl-len har STO-re BLA-der som SNUR-rer i VIN-den.", 
+          "en": "The windmill has large blades that spin in the wind." },
+
+        { "no": "Jeg ser også et stort tre med en blå fuglekasse.", 
+          "pron": "Jeg ser ÅG-so et STORT TRE med en BLÅ FUG-le-kas-se.", 
+          "en": "I also see a big tree with a blue birdhouse." },
+
+        { "no": "Trærne i bakgrunnen er grønne og friske.", 
+          "pron": "TRÆR-ne i BAK-grunn-en er GRØN-ne og FRIS-ke.", 
+          "en": "The trees in the background are green and fresh." },
+
+        { "no": "Himmelen er lys blå og det er fint vær.", 
+          "pron": "HIM-mel-en er LYS BLÅ og DET er FINT VÆR.", 
+          "en": "The sky is light blue and the weather is nice." },
+
+        { "no": "Rundt gården er det mye åpent landskap.", 
+          "pron": "RUNDt GÅR-den er DET MY-e ÅP-ent LAND-skap.", 
+          "en": "Around the farm there is a lot of open landscape." },
+
+        { "no": "Gresset er grønt, og det ser ut som sommer.", 
+          "pron": "GRES-set er GRØNT, og DET SER UT som SOM-mer.", 
+          "en": "The grass is green, and it looks like summer." },
+
+        { "no": "Det ser rolig og fredelig ut på gården.", 
+          "pron": "DET SER RO-lig og FRE-del-ig ut på GÅR-den.", 
+          "en": "It looks calm and peaceful on the farm." },
+
+        { "no": "Dyrene står stille og beiter, og alt virker avslappet.", 
+          "pron": "DYR-e-ne STÅR STIL-le og BEI-ter, og ALT VIR-ker AV-slap-pet.", 
+          "en": "The animals are standing and grazing, and everything seems relaxed." },
+
+        { "no": "Jeg synes bildet viser et typisk norsk landskap.", 
+          "pron": "JEG SYN-es BIL-det VI-ser et TY-pisk NORSK LAND-skap.", 
+          "en": "I think the picture shows a typical Norwegian landscape." },
+
+        { "no": "Det er en fin blanding av natur, dyr og bygninger.", 
+          "pron": "DET er en FIN BLAN-ding av NA-TUR, DYR og BYG-ning-er.", 
+          "en": "It is a nice mix of nature, animals, and buildings." },
+
+        { "no": "Jeg liker stemningen i bildet, den er rolig og hyggelig.", 
+          "pron": "JEG LI-ker STEM-ning-en i BIL-det, den er RO-lig og HYG-ge-lig.", 
+          "en": "I like the atmosphere in the picture; it is calm and pleasant." },
+
+        { "no": "Det var alt jeg kan si om bildet.", 
+          "pron": "DET var ALT JEG kan SI om BIL-det.", 
+          "en": "That was all I can say about the picture." }
       ]
-    },
-    {
-      "kind": "verbs_table",
-      "title": "Verb",
-      "verbs": [
-        {  "inf": "å se", "inf_pron": "å SE", "inf_en": "to see",
-          "pres": "ser", "pres_pron": "SER", "pres_en": "sees",
-          "pret": "så", "pret_pron": "SÅ", "pret_en": "saw",
-          "perf": "har sett", "perf_pron": "har SETT", "perf_en": "has seen",
-          "fut": "skal se", "fut_pron": "skal SE", "fut_en": "will see", "notes": "" },
-        { "inf": "å male", "inf_pron": "å MA-le", "inf_en": "to paint",
-          "pres": "maler", "pres_pron": "MA-ler", "pres_en": "paints",
-          "pret": "malte", "pret_pron": "MALT-e", "pret_en": "painted",
-          "perf": "har malt", "perf_pron": "har MALT", "perf_en": "has painted",
-          "fut": "skal male", "fut_pron": "skal MA-le", "fut_en": "will paint", "notes": "" },
-        { "inf": "å strikke", "inf_pron": "å STRIK-ke", "inf_en": "to knit",
-          "pres": "strikker", "pres_pron": "STRIK-ker", "pres_en": "knits",
-          "pret": "strikket", "pret_pron": "STRIK-ket", "pret_en": "knitted",
-          "perf": "har strikket", "perf_pron": "har STRIK-ket", "perf_en": "has knitted",
-          "fut": "skal strikke", "fut_pron": "skal STRIK-ke", "fut_en": "will knit", "notes": "" },
-        { "inf": "å ri", "inf_pron": "å RI", "inf_en": "to ride",
-          "pres": "rir", "pres_pron": "RIR", "pres_en": "rides",
-          "pret": "red", "pret_pron": "RED", "pret_en": "rode",
-          "perf": "har ridd", "perf_pron": "har RIDD", "perf_en": "has ridden",
-          "fut": "skal ri", "fut_pron": "skal RI", "fut_en": "will ride", "notes": "irregular" },
-        { "inf": "å like", "inf_pron": "å LI-ke", "inf_en": "to like",
-          "pres": "liker", "pres_pron": "LI-ker", "pres_en": "likes",
-          "pret": "likte", "pret_pron": "LIK-te", "pret_en": "liked",
-          "perf": "har likt", "perf_pron": "har LIKT", "perf_en": "has liked",
-          "fut": "skal like", "fut_pron": "skal LI-ke", "fut_en": "will like", "notes": "" }
-      ]
+                    }
+          ]
     }
   ]
 }

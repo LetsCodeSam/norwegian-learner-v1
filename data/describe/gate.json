@@ -1,0 +1,121 @@
+{
+  "title": "Gate",
+  "meta": { "cefr": "A2", "topic": "Gate", "tags": ["city", "counter side", "village"] },
+  "blocks": [
+    {
+      "kind": "image",
+      "src": "assets/describe/pic-gate.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "model": [
+        { "no": "På bildet ser jeg en travel gate i en by.", 
+          "pron": "På BIL-det ser jeg en TRA-vel GA-te i en BY.", 
+          "en": "In the picture I see a busy street in a city." },
+
+        { "no": "Til venstre ser jeg et fotgjengerfelt der en mann krysser veien.", 
+          "pron": "Til VEN-stre ser jeg et FOT-gjen-ger-felt der en MANN KRYSS-er VEI-en.", 
+          "en": "On the left I see a pedestrian crossing where a man is crossing the road." },
+
+        { "no": "Ved fotgjengerfeltet sykler en mann med gul sekk på ryggen.", 
+          "pron": "Ved FOT-gjen-ger-fel-tet SYK-ler en MANN med GUL SEKK på RYG-gen.", 
+          "en": "By the crosswalk a man is biking with a yellow bag on his back." },
+
+        { "no": "Bak syklisten løper en liten hund over veien.", 
+          "pron": "BAK SYK-lis-ten LØ-per en LI-ten HUND O-ver VEI-en.", 
+          "en": "Behind the cyclist a small dog is running across the road." },
+
+        { "no": "Foran syklisten ser jeg et barn som sykler på en liten rød sykkel.", 
+          "pron": "FO-ran SYK-lis-ten ser jeg et BARN som SYK-ler på en LI-ten RØD SYK-kel.", 
+          "en": "In front of the cyclist I see a child riding a small red bicycle." },
+
+        { "no": "Til venstre står to butikker som heter Boutique og La Gi.", 
+          "pron": "Til VEN-stre STÅR to bu-TIK-ker som HE-ter Bou-TIQUE og La Gi.", 
+          "en": "On the left there are two shops called Boutique and La Gi." },
+
+        { "no": "Foran butikkene står en rosa bil parkert.", 
+          "pron": "FO-ran bu-TIK-ke-ne STÅR en RO-sa BIL par-KERT.", 
+          "en": "In front of the shops a pink car is parked." },
+
+        { "no": "I midten av bildet går en mann med frakk og en kvinne i rosa kjole.", 
+          "pron": "I MID-ten av BIL-det GÅR en MANN med FRAKK og en KVIN-ne i RO-sa KJO-le.", 
+          "en": "In the middle of the picture a man in a coat and a woman in a pink dress are walking." },
+
+        { "no": "Bak dem står et vindu med mange grønne planter inni.", 
+          "pron": "BAK dem STÅR et VIN-du med MAN-ge GRØN-ne PLAN-ter IN-ni.", 
+          "en": "Behind them is a window with many green plants inside." },
+
+        { "no": "Ved siden av vinduet går en mann med blå pose i hånden.", 
+          "pron": "Ved SI-den av VIN-du-et GÅR en MANN med BLÅ PO-se i HÅN-den.", 
+          "en": "Next to the window a man walks with a blue bag in his hand." },
+
+        { "no": "Til høyre står en liten blå varebil parkert ved fortauet.", 
+          "pron": "Til HØY-re STÅR en LI-ten BLÅ VA-re-bil par-KERT ved FOR-tau-et.", 
+          "en": "On the right a small blue van is parked by the sidewalk." },
+
+        { "no": "På lasteplanet står to store potteplanter.", 
+          "pron": "På LAS-te-pla-net STÅR to STO-re POT-te-PLAN-ter.", 
+          "en": "On the back of the van are two large potted plants." },
+
+        { "no": "Foran varebilen sitter en mann i dress på en stol.", 
+          "pron": "FO-ran VA-re-bi-len SIT-ter en MANN i DRESS på en STOL.", 
+          "en": "In front of the van a man in a suit sits on a chair." },
+
+        { "no": "Bak ham henger røde gardiner i et vindu.", 
+          "pron": "BAK ham HENG-er RØ-de GAR-di-ner i et VIN-du.", 
+          "en": "Behind him red curtains hang in a window." },
+
+        { "no": "Ved gardinet er det et blått skilt som viser parkering forbudt.", 
+          "pron": "Ved GAR-di-net er det et BLÅTT SKILT som VI-ser par-KER-ing for-BUDT.", 
+          "en": "Next to the curtains there is a blue sign showing parking is forbidden." },
+
+        { "no": "I vinduet over sitter en hvit katt og ser ned på gaten.", 
+          "pron": "I VIN-du-et O-ver SIT-ter en HVIT KATT og SER NED på GA-ten.", 
+          "en": "In the window above a white cat sits and looks down at the street." },
+
+        { "no": "I et annet vindu står en mann og ser ut.", 
+          "pron": "I et AN-net VIN-du STÅR en MANN og SER UT.", 
+          "en": "In another window a man is standing and looking out." },
+
+        { "no": "I bakgrunnen ser jeg en stor blå buss som kjører.", 
+          "pron": "I BAK-grunn-en ser jeg en STOR BLÅ BUSS som KJØ-rer.", 
+          "en": "In the background I see a big blue bus driving." },
+
+        { "no": "Bak bussen ser jeg flere bygninger og høye blokker.", 
+          "pron": "BAK BUSS-en ser jeg FLÆ-re BYG-ning-er og HØY-e BLOK-ker.", 
+          "en": "Behind the bus I see several buildings and tall apartment blocks." },
+
+        { "no": "På treet til venstre sitter et lite blått skilt.", 
+          "pron": "På TRE-et til VEN-stre SIT-ter et LI-te BLÅTT SKILT.", 
+          "en": "On the tree to the left there is a small blue sign." },
+
+        { "no": "Gaten er full av mennesker, sykler og biler.", 
+          "pron": "GA-ten er FULL av MEN-nes-ker, SYK-ler og BI-ler.", 
+          "en": "The street is full of people, bicycles and cars." },
+
+        { "no": "Det virker som en helt vanlig dag i byen.", 
+          "pron": "DET VIR-ker som en HELT VAN-lig DAG i BY-en.", 
+          "en": "It seems like a completely normal day in the city." },
+
+        { "no": "Folk er på vei til jobb, butikker eller hjem.", 
+          "pron": "FOLK er på VEI til JOBB, bu-TIK-ker el-ler HJEM.", 
+          "en": "People are on their way to work, shops, or home." },
+
+        { "no": "Jeg synes bildet er fargerikt og livlig.", 
+          "pron": "JEG SYN-es BIL-det er FAR-ge-rikt og LIV-lig.", 
+          "en": "I think the picture is colorful and lively." },
+
+        { "no": "Det var alt jeg kan si om bildet.", 
+          "pron": "DET var ALT JEG kan SI om BIL-det.", 
+          "en": "That was all I can say about the picture." }
+      ]
+                    }
+          ]
+    }
+  ]
+}

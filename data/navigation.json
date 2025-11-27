@@ -30,10 +30,13 @@
 { "alias": "nav.home.describe.halloween", "type": "dataset", "label": "halloween", "emoji": "🏙️", "path": "/data/describe/halloween.json" },
 { "alias": "nav.home.describe.Kontoret", "type": "dataset", "label": "Kontoret", "emoji": "🏙️", "path": "/data/describe/Kontoret.json" },
 { "alias": "nav.home.describe.winter", "type": "dataset", "label": "winter", "emoji": "🏙️", "path": "/data/describe/winter.json" },
-{ "alias": "nav.home.describe.farm", "type": "dataset", "label": "farm", "emoji": "🏙️", "path": "/data/describe/farm.json" },
+{ "alias": "nav.home.describe.farm", "type": "dataset", "label": "farm", "emoji": "🏙️", "path": "/data/describe/landet.json" },
 { "alias": "nav.home.describe.city", "type": "dataset", "label": "city", "emoji": "🏙️", "path": "/data/describe/city.json" },
 { "alias": "nav.home.describe.park", "type": "dataset", "label": "park", "emoji": "🏙️", "path": "/data/describe/park.json" },
-{ "alias": "nav.home.describe.breakfast", "type": "dataset", "label": "Breakfast", "emoji": "🏙️", "path": "/data/describe/breakfast.json" }
+{ "alias": "nav.home.describe.breakfast", "type": "dataset", "label": "Breakfast", "emoji": "🏙️", "path": "/data/describe/breakfast.json" },
+{ "alias": "nav.home.describe.gate", "type": "dataset", "label": "Gate", "emoji": "🏙️", "path": "/data/describe/gate.json" },
+{ "alias": "nav.home.describe.farm", "type": "dataset", "label": "Farm", "emoji": "🏙️", "path": "/data/describe/farm.json" },
+{ "alias": "nav.home.describe.buttik", "type": "dataset", "label": "Buttik", "emoji": "🏙️", "path": "/data/describe/buttik.json" }
 ] },
 
 { "alias": "nav.home.conversation", "type": "group", "label": "Conversation", "emoji": "👥", "children": [
@@ -65,7 +68,9 @@
 
 { "alias": "nav.home.youtube", "type": "group", "label": "youtube", "emoji": "👥", "children": [
 { "alias": "nav.home.youtube.weather", "type": "dataset", "label": "Vær", "emoji": "🏫", "path": "/data/uttale/youtube.json" },
-{ "alias": "nav.home.youtube.describe", "type": "dataset", "label": "Describe", "emoji": "🏫", "path": "/data/uttale/describepic.json" }
+{ "alias": "nav.home.youtube.describe", "type": "dataset", "label": "Describe", "emoji": "🏫", "path": "/data/uttale/describepic.json" },
+{ "alias": "nav.home.youtube.basics", "type": "dataset", "label": "Basics", "emoji": "🏫", "path": "/data/uttale/basics.json" },
+{ "alias": "nav.home.youtube.samtale", "type": "dataset", "label": "samtale", "emoji": "🏫", "path": "/data/uttale/samtale.json" }
 
 ] },
 

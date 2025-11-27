@@ -1,0 +1,69 @@
+{
+  "title": "Buttik",
+  "meta": { "cefr": "A2", "topic": "Buttik", "tags": ["city", "counter side", "village"] },
+  "blocks": [
+    {
+      "kind": "image",
+      "src": "assets/describe/pic-buttik.png",
+      "alt": "Et barnetog på 17. mai med folk i parade, norske flagg og is.",
+      "caption": "Barnetog og feiring på 17. mai."
+    },
+    {
+      "kind": "mono",
+      "title": "Styrt monolog",
+      "items": [
+        {
+          "model": [
+        { "no": "På bildet ser jeg et supermarked med mange mennesker.", "pron": "På BIL-det ser jeg et SU-per-mar-ked med MAN-ge MEN-nes-ker.", "en": "In the picture I see a supermarket with many people." },
+
+        { "no": "Til venstre står en eldre mann og lener seg på en handlevogn.", "pron": "Til VEN-stre står en EL-dre MANN og LE-ner seg på en HAND-le-vogn.", "en": "On the left stands an older man leaning on a shopping cart." },
+
+        { "no": "Ved siden av ham står en kvinne som snakker i telefonen.", "pron": "Ved SI-den av ham står en KVIN-ne som SNAK-ker i te-le-FON-en.", "en": "Next to him stands a woman talking on the phone." },
+
+        { "no": "Hun holder en liten jente i hånden.", "pron": "HUN HOL-der en LI-ten JEN-te i HÅN-den.", "en": "She is holding a little girl by the hand." },
+
+        { "no": "Jenta har på seg en rosa kjole og smiler.", "pron": "JEN-ta har på seg en RO-sa KJO-le og SMI-ler.", "en": "The girl is wearing a pink dress and is smiling." },
+
+        { "no": "I midten av bildet sitter en kassadame ved kassen.", "pron": "I MID-ten av BIL-det SIT-ter en KAS-sa-da-me ved KAS-sen.", "en": "In the middle of the picture a cashier is sitting at the register." },
+
+        { "no": "Hun skanner varer og legger dem i en blå kurv.", "pron": "Hun SKAN-ner VA-rer og LEG-ger dem i en BLÅ KURV.", "en": "She scans goods and puts them into a blue basket." },
+
+        { "no": "Foran henne står en eldre dame med en stokk.", "pron": "FO-ran HEN-ne står en EL-dre DA-me med en STOKK.", "en": "In front of her stands an older woman with a cane." },
+
+        { "no": "Den eldre damen skal betale for varene sine.", "pron": "Den EL-dre DA-men skal be-TA-le for VA-re-ne SI-ne.", "en": "The older woman is about to pay for her items." },
+
+        { "no": "Til høyre ser jeg en mann med skjegg som bærer et barn.", "pron": "Til HØY-re ser jeg en MANN med SKJEGG som BÆR-er et BARN.", "en": "To the right I see a man with a beard carrying a child." },
+
+        { "no": "Barnet sitter i en bæreselen hans og ser nysgjerrig ut.", "pron": "BAR-net SIT-ter i en BÆ-re-se-le hans og ser NYS-kjer-rig ut.", "en": "The child is sitting in his baby carrier and looks curious." },
+
+        { "no": "Mannen holder også en gul handlekurv full av mat.", "pron": "MAN-nen HOL-der ÅG-so en GUL HAND-le-kurv FULL av MAT.", "en": "The man also holds a yellow shopping basket full of food." },
+
+        { "no": "På kurven ser jeg frukt, grønnsaker og en ball.", "pron": "På KUR-ven ser jeg FRUKT, GRØNN-sa-ker og en BALL.", "en": "In the basket I see fruit, vegetables, and a ball." },
+
+        { "no": "Helt til høyre står en butikkansatt på en liten stige.", "pron": "HELT til HØY-re står en bu-TIKK-an-satt på en LI-ten STI-ge.", "en": "All the way to the right a store worker is standing on a small ladder." },
+
+        { "no": "Han fyller varer i hyllene.", "pron": "HAN FYL-ler VA-rer i HYL-le-ne.", "en": "He is filling items onto the shelves." },
+
+        { "no": "På hyllene ser jeg mange fargerike pakker.", "pron": "På HYL-le-ne ser jeg MAN-ge FAR-ge-ri-ke PAK-ker.", "en": "On the shelves I see many colorful packages." },
+
+        { "no": "Over kassen er det mange blader og magasiner.", "pron": "O-ver KAS-sen er det MAN-ge BLA-der og MA-ga-SI-ner.", "en": "Above the checkout there are many newspapers and magazines." },
+
+        { "no": "Gulvet har svarte og hvite ruter som et sjakkbrett.", "pron": "GUL-vet har SVAR-te og HVI-te RU-ter som et SJAKK-brett.", "en": "The floor has black and white squares like a chessboard." },
+
+        { "no": "Det ser ut som en vanlig dag i butikken.", "pron": "DET SER UT som en VAN-lig DAG i bu-TIKK-en.", "en": "It looks like a normal day in the store." },
+
+        { "no": "Folk handler mat, snakker sammen og venter i kø.", "pron": "FOLK HAND-ler MAT, SNAK-ker SAM-men og VEN-ter i KØ.", "en": "People are shopping for food, talking together, and waiting in line." },
+
+        { "no": "Det er mange detaljer i bildet, og mye å se på.", "pron": "DET er MAN-ge de-TA-ler i BIL-det, og MY-e å SE på.", "en": "There are many details in the picture and much to look at." },
+
+        { "no": "Jeg synes bildet viser et rolig og hyggelig supermarked.", "pron": "JEG SYN-es BIL-det VI-ser et RO-lig og HYG-ge-lig SU-per-mar-ked.", "en": "I think the picture shows a calm and pleasant supermarket." },
+
+        { "no": "Folk ser ut til å ha det bra og ikke stresse.", "pron": "FOLK SER UT til å HA det BRA og IK-ke STRES-se.", "en": "People seem to be doing well and not stressing." },
+
+        { "no": "Det var alt jeg kan si om bildet.", "pron": "DET var ALT JEG kan SI om BIL-det.", "en": "That was all I can say about the picture." }
+      ]
+                    }
+          ]
+    }
+  ]
+}
